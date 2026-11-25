@@ -1,7 +1,7 @@
 {
  "version": 1,
  "date": "2026-11-25",
- "generatedAt": "2026-11-25T17:51:18Z",
+ "generatedAt": "2026-11-25T22:01:07Z",
  "matches": [
   {
    "id": "1635718",
@@ -14,12 +14,14 @@
    "home": {
     "id": 13976,
     "name": "Sabah FA",
-    "shortName": "SF"
+    "shortName": "SF",
+    "logo": "https://media.api-sports.io/football/teams/13976.png"
    },
    "away": {
     "id": 529,
     "name": "Barcelona",
-    "shortName": "BAR"
+    "shortName": "BAR",
+    "logo": "https://media.api-sports.io/football/teams/529.png"
    },
    "summary": {
     "en": "UEFA Champions League: Sabah FA host Barcelona. Recent form (last 5 matches): Sabah FA 40%, Barcelona 75%. Goals over those matches: Sabah FA 9 scored, 12 conceded; Barcelona 14 scored, 6 conceded.",
@@ -55,12 +57,14 @@
    "home": {
     "id": 560,
     "name": "Slavia Praha",
-    "shortName": "SP"
+    "shortName": "SP",
+    "logo": "https://media.api-sports.io/football/teams/560.png"
    },
    "away": {
     "id": 533,
     "name": "Villarreal",
-    "shortName": "VIL"
+    "shortName": "VIL",
+    "logo": "https://media.api-sports.io/football/teams/533.png"
    },
    "summary": {
     "en": "UEFA Champions League: Slavia Praha host Villarreal. Recent form (last 5 matches): Slavia Praha 8%, Villarreal 25%. Goals over those matches: Slavia Praha 5 scored, 9 conceded; Villarreal 8 scored, 14 conceded.",
@@ -96,12 +100,14 @@
    "home": {
     "id": 530,
     "name": "Atletico Madrid",
-    "shortName": "AM"
+    "shortName": "AM",
+    "logo": "https://media.api-sports.io/football/teams/530.png"
    },
    "away": {
     "id": 759,
     "name": "Viking",
-    "shortName": "VIK"
+    "shortName": "VIK",
+    "logo": "https://media.api-sports.io/football/teams/759.png"
    },
    "summary": {
     "en": "UEFA Champions League: Atletico Madrid host Viking. Recent form (last 5 matches): Atletico Madrid 33%, Viking 47%. Goals over those matches: Atletico Madrid 4 scored, 5 conceded; Viking 12 scored, 11 conceded.",
@@ -137,12 +143,14 @@
    "home": {
     "id": 569,
     "name": "Club Brugge KV",
-    "shortName": "BK"
+    "shortName": "BK",
+    "logo": "https://media.api-sports.io/football/teams/569.png"
    },
    "away": {
     "id": 40,
     "name": "Liverpool",
-    "shortName": "LIV"
+    "shortName": "LIV",
+    "logo": "https://media.api-sports.io/football/teams/40.png"
    },
    "summary": {
     "en": "UEFA Champions League: Club Brugge KV host Liverpool. Recent form (last 5 matches): Club Brugge KV 75%, Liverpool 75%. Goals over those matches: Club Brugge KV 11 scored, 7 conceded; Liverpool 14 scored, 10 conceded.",
@@ -178,12 +186,14 @@
    "home": {
     "id": 505,
     "name": "Inter",
-    "shortName": "INT"
+    "shortName": "INT",
+    "logo": "https://media.api-sports.io/football/teams/505.png"
    },
    "away": {
     "id": 172,
     "name": "VfB Stuttgart",
-    "shortName": "VS"
+    "shortName": "VS",
+    "logo": "https://media.api-sports.io/football/teams/172.png"
    },
    "summary": {
     "en": "UEFA Champions League: Inter host VfB Stuttgart. Recent form (last 5 matches): Inter 50%, VfB Stuttgart 58%. Goals over those matches: Inter 8 scored, 6 conceded; VfB Stuttgart 7 scored, 4 conceded.",
@@ -219,12 +229,14 @@
    "home": {
     "id": 79,
     "name": "Lille",
-    "shortName": "LIL"
+    "shortName": "LIL",
+    "logo": "https://media.api-sports.io/football/teams/79.png"
    },
    "away": {
     "id": 157,
     "name": "Bayern München",
-    "shortName": "BM"
+    "shortName": "BM",
+    "logo": "https://media.api-sports.io/football/teams/157.png"
    },
    "summary": {
     "en": "UEFA Champions League: Lille host Bayern München. Recent form (last 5 matches): Lille 8%, Bayern München 67%. Goals over those matches: Lille 4 scored, 10 conceded; Bayern München 12 scored, 5 conceded.",
@@ -260,12 +272,14 @@
    "home": {
     "id": 85,
     "name": "Paris Saint Germain",
-    "shortName": "PSG"
+    "shortName": "PSG",
+    "logo": "https://media.api-sports.io/football/teams/85.png"
    },
    "away": {
     "id": 497,
     "name": "AS Roma",
-    "shortName": "ROM"
+    "shortName": "ROM",
+    "logo": "https://media.api-sports.io/football/teams/497.png"
    },
    "summary": {
     "en": "UEFA Champions League: Paris Saint Germain host AS Roma. Recent form (last 5 matches): Paris Saint Germain 100%, AS Roma 33%. Goals over those matches: Paris Saint Germain 20 scored, 5 conceded; AS Roma 10 scored, 8 conceded.",
@@ -301,12 +315,14 @@
    "home": {
     "id": 550,
     "name": "Shakhtar Donetsk",
-    "shortName": "SD"
+    "shortName": "SD",
+    "logo": "https://media.api-sports.io/football/teams/550.png"
    },
    "away": {
     "id": 611,
     "name": "Fenerbahçe",
-    "shortName": "FEN"
+    "shortName": "FEN",
+    "logo": "https://media.api-sports.io/football/teams/611.png"
    },
    "summary": {
     "en": "UEFA Champions League: Shakhtar Donetsk host Fenerbahçe. Recent form (last 5 matches): Shakhtar Donetsk 33%, Fenerbahçe 53%. Goals over those matches: Shakhtar Donetsk 4 scored, 4 conceded; Fenerbahçe 8 scored, 12 conceded.",
@@ -342,12 +358,14 @@
    "home": {
     "id": 228,
     "name": "Sporting CP",
-    "shortName": "CP"
+    "shortName": "CP",
+    "logo": "https://media.api-sports.io/football/teams/228.png"
    },
    "away": {
     "id": 33,
     "name": "Manchester United",
-    "shortName": "MU"
+    "shortName": "MU",
+    "logo": "https://media.api-sports.io/football/teams/33.png"
    },
    "summary": {
     "en": "UEFA Champions League: Sporting CP host Manchester United. Recent form (last 5 matches): Sporting CP 75%, Manchester United 50%. Goals over those matches: Sporting CP 8 scored, 4 conceded; Manchester United 8 scored, 8 conceded.",
@@ -383,12 +401,14 @@
    "home": {
     "id": 1062,
     "name": "Atletico-MG",
-    "shortName": "AM"
+    "shortName": "AM",
+    "logo": "https://media.api-sports.io/football/teams/1062.png"
    },
    "away": {
     "id": 131,
     "name": "Corinthians",
-    "shortName": "COR"
+    "shortName": "COR",
+    "logo": "https://media.api-sports.io/football/teams/131.png"
    },
    "summary": {
     "en": "Brasileirão Série A: Atletico-MG host Corinthians. Recent form (last 5 matches): Atletico-MG 27%, Corinthians 53%. Goals over those matches: Atletico-MG 3 scored, 5 conceded; Corinthians 9 scored, 4 conceded.",
