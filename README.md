@@ -1,6 +1,6 @@
-# Football Analyse – data
+# Match Analytico – data
 
-Public JSON files read by the Football Analyse app. Written automatically every day; do not edit by hand.
+Public JSON files read by the Match Analytico app. Written automatically every day; do not edit by hand.
 
 - `out/matches-latest.json` – today's matches (summary, recent form, last matches)
 - `out/analyses-latest.json` – AI analyses of the biggest matches
