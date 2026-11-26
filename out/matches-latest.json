@@ -1,8 +1,782 @@
 {
  "version": 1,
  "date": "2026-11-26",
- "generatedAt": "2026-11-26T10:03:12Z",
+ "generatedAt": "2026-11-26T11:29:09Z",
  "matches": [
+  {
+   "id": "1636231",
+   "competition": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-26T17:45:00Z",
+   "home": {
+    "id": 549,
+    "name": "Beşiktaş",
+    "shortName": "BEŞ",
+    "logo": "https://media.api-sports.io/football/teams/549.png"
+   },
+   "away": {
+    "id": 563,
+    "name": "Hapoel Beer Sheva",
+    "shortName": "HBS",
+    "logo": "https://media.api-sports.io/football/teams/563.png"
+   },
+   "summary": {
+    "en": "UEFA Europa League: Beşiktaş host Hapoel Beer Sheva. Recent form (last 5 matches): Beşiktaş 47%, Hapoel Beer Sheva 8%. Goals over those matches: Beşiktaş 11 scored, 9 conceded; Hapoel Beer Sheva 1 scored, 8 conceded.",
+    "fr": "UEFA Europa League : Beşiktaş reçoit Hapoel Beer Sheva. Forme récente (5 derniers matchs) : Beşiktaş 47 %, Hapoel Beer Sheva 8 %. Buts sur ces matchs : Beşiktaş 11 marqués, 9 encaissés ; Hapoel Beer Sheva 1 marqués, 8 encaissés.",
+    "es": "UEFA Europa League: Beşiktaş recibe a Hapoel Beer Sheva. Forma reciente (últimos 5 partidos): Beşiktaş 47 %, Hapoel Beer Sheva 8 %. Goles en esos partidos: Beşiktaş 11 a favor, 9 en contra; Hapoel Beer Sheva 1 a favor, 8 en contra.",
+    "ar": "UEFA Europa League: يستضيف Beşiktaş فريق Hapoel Beer Sheva. الأداء الأخير (آخر 5 مباريات): Beşiktaş 47٪، Hapoel Beer Sheva 8٪. الأهداف في تلك المباريات: Beşiktaş سجل 11 واستقبل 9؛ Hapoel Beer Sheva سجل 1 واستقبل 8."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 47,
+     "goalsFor": 11,
+     "goalsAgainst": 9
+    },
+    "away": {
+     "formPercent": 8,
+     "goalsFor": 1,
+     "goalsAgainst": 8
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1636244",
+   "competition": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-26T17:45:00Z",
+   "home": {
+    "id": 538,
+    "name": "Celta Vigo",
+    "shortName": "CV",
+    "logo": "https://media.api-sports.io/football/teams/538.png"
+   },
+   "away": {
+    "id": 35,
+    "name": "Bournemouth",
+    "shortName": "BOU",
+    "logo": "https://media.api-sports.io/football/teams/35.png"
+   },
+   "summary": {
+    "en": "UEFA Europa League: Celta Vigo host Bournemouth. Recent form (last 5 matches): Celta Vigo 25%, Bournemouth 100%. Goals over those matches: Celta Vigo 4 scored, 6 conceded; Bournemouth 11 scored, 2 conceded.",
+    "fr": "UEFA Europa League : Celta Vigo reçoit Bournemouth. Forme récente (5 derniers matchs) : Celta Vigo 25 %, Bournemouth 100 %. Buts sur ces matchs : Celta Vigo 4 marqués, 6 encaissés ; Bournemouth 11 marqués, 2 encaissés.",
+    "es": "UEFA Europa League: Celta Vigo recibe a Bournemouth. Forma reciente (últimos 5 partidos): Celta Vigo 25 %, Bournemouth 100 %. Goles en esos partidos: Celta Vigo 4 a favor, 6 en contra; Bournemouth 11 a favor, 2 en contra.",
+    "ar": "UEFA Europa League: يستضيف Celta Vigo فريق Bournemouth. الأداء الأخير (آخر 5 مباريات): Celta Vigo 25٪، Bournemouth 100٪. الأهداف في تلك المباريات: Celta Vigo سجل 4 واستقبل 6؛ Bournemouth سجل 11 واستقبل 2."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 25,
+     "goalsFor": 4,
+     "goalsAgainst": 6
+    },
+    "away": {
+     "formPercent": 100,
+     "goalsFor": 11,
+     "goalsAgainst": 2
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1636255",
+   "competition": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-26T17:45:00Z",
+   "home": {
+    "id": 620,
+    "name": "Dinamo Zagreb",
+    "shortName": "DZ",
+    "logo": "https://media.api-sports.io/football/teams/620.png"
+   },
+   "away": {
+    "id": 168,
+    "name": "Bayer Leverkusen",
+    "shortName": "BL",
+    "logo": "https://media.api-sports.io/football/teams/168.png"
+   },
+   "summary": {
+    "en": "UEFA Europa League: Dinamo Zagreb host Bayer Leverkusen. Recent form (last 5 matches): Dinamo Zagreb 58%, Bayer Leverkusen 75%. Goals over those matches: Dinamo Zagreb 5 scored, 4 conceded; Bayer Leverkusen 8 scored, 1 conceded.",
+    "fr": "UEFA Europa League : Dinamo Zagreb reçoit Bayer Leverkusen. Forme récente (5 derniers matchs) : Dinamo Zagreb 58 %, Bayer Leverkusen 75 %. Buts sur ces matchs : Dinamo Zagreb 5 marqués, 4 encaissés ; Bayer Leverkusen 8 marqués, 1 encaissés.",
+    "es": "UEFA Europa League: Dinamo Zagreb recibe a Bayer Leverkusen. Forma reciente (últimos 5 partidos): Dinamo Zagreb 58 %, Bayer Leverkusen 75 %. Goles en esos partidos: Dinamo Zagreb 5 a favor, 4 en contra; Bayer Leverkusen 8 a favor, 1 en contra.",
+    "ar": "UEFA Europa League: يستضيف Dinamo Zagreb فريق Bayer Leverkusen. الأداء الأخير (آخر 5 مباريات): Dinamo Zagreb 58٪، Bayer Leverkusen 75٪. الأهداف في تلك المباريات: Dinamo Zagreb سجل 5 واستقبل 4؛ Bayer Leverkusen سجل 8 واستقبل 1."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 58,
+     "goalsFor": 5,
+     "goalsAgainst": 4
+    },
+    "away": {
+     "formPercent": 75,
+     "goalsFor": 8,
+     "goalsAgainst": 1
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1636298",
+   "competition": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-26T17:45:00Z",
+   "home": {
+    "id": 81,
+    "name": "Marseille",
+    "shortName": "MAR",
+    "logo": "https://media.api-sports.io/football/teams/81.png"
+   },
+   "away": {
+    "id": 646,
+    "name": "Levski Sofia",
+    "shortName": "LS",
+    "logo": "https://media.api-sports.io/football/teams/646.png"
+   },
+   "summary": {
+    "en": "UEFA Europa League: Marseille host Levski Sofia. Recent form (last 5 matches): Marseille 25%, Levski Sofia 58%. Goals over those matches: Marseille 2 scored, 6 conceded; Levski Sofia 4 scored, 3 conceded.",
+    "fr": "UEFA Europa League : Marseille reçoit Levski Sofia. Forme récente (5 derniers matchs) : Marseille 25 %, Levski Sofia 58 %. Buts sur ces matchs : Marseille 2 marqués, 6 encaissés ; Levski Sofia 4 marqués, 3 encaissés.",
+    "es": "UEFA Europa League: Marseille recibe a Levski Sofia. Forma reciente (últimos 5 partidos): Marseille 25 %, Levski Sofia 58 %. Goles en esos partidos: Marseille 2 a favor, 6 en contra; Levski Sofia 4 a favor, 3 en contra.",
+    "ar": "UEFA Europa League: يستضيف Marseille فريق Levski Sofia. الأداء الأخير (آخر 5 مباريات): Marseille 25٪، Levski Sofia 58٪. الأهداف في تلك المباريات: Marseille سجل 2 واستقبل 6؛ Levski Sofia سجل 4 واستقبل 3."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 25,
+     "goalsFor": 2,
+     "goalsAgainst": 6
+    },
+    "away": {
+     "formPercent": 58,
+     "goalsFor": 4,
+     "goalsAgainst": 3
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1636307",
+   "competition": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-26T17:45:00Z",
+   "home": {
+    "id": 553,
+    "name": "Olympiakos Piraeus",
+    "shortName": "OP",
+    "logo": "https://media.api-sports.io/football/teams/553.png"
+   },
+   "away": {
+    "id": 489,
+    "name": "AC Milan",
+    "shortName": "MIL",
+    "logo": "https://media.api-sports.io/football/teams/489.png"
+   },
+   "summary": {
+    "en": "UEFA Europa League: Olympiakos Piraeus host AC Milan. Recent form (last 5 matches): Olympiakos Piraeus 83%, AC Milan 25%. Goals over those matches: Olympiakos Piraeus 4 scored, 1 conceded; AC Milan 4 scored, 7 conceded.",
+    "fr": "UEFA Europa League : Olympiakos Piraeus reçoit AC Milan. Forme récente (5 derniers matchs) : Olympiakos Piraeus 83 %, AC Milan 25 %. Buts sur ces matchs : Olympiakos Piraeus 4 marqués, 1 encaissés ; AC Milan 4 marqués, 7 encaissés.",
+    "es": "UEFA Europa League: Olympiakos Piraeus recibe a AC Milan. Forma reciente (últimos 5 partidos): Olympiakos Piraeus 83 %, AC Milan 25 %. Goles en esos partidos: Olympiakos Piraeus 4 a favor, 1 en contra; AC Milan 4 a favor, 7 en contra.",
+    "ar": "UEFA Europa League: يستضيف Olympiakos Piraeus فريق AC Milan. الأداء الأخير (آخر 5 مباريات): Olympiakos Piraeus 83٪، AC Milan 25٪. الأهداف في تلك المباريات: Olympiakos Piraeus سجل 4 واستقبل 1؛ AC Milan سجل 4 واستقبل 7."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 83,
+     "goalsFor": 4,
+     "goalsAgainst": 1
+    },
+    "away": {
+     "formPercent": 25,
+     "goalsFor": 4,
+     "goalsAgainst": 7
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1636315",
+   "competition": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-26T17:45:00Z",
+   "home": {
+    "id": 567,
+    "name": "Plzen",
+    "shortName": "PLZ",
+    "logo": "https://media.api-sports.io/football/teams/567.png"
+   },
+   "away": {
+    "id": 211,
+    "name": "Benfica",
+    "shortName": "BEN",
+    "logo": "https://media.api-sports.io/football/teams/211.png"
+   },
+   "summary": {
+    "en": "UEFA Europa League: Plzen host Benfica. Recent form (last 5 matches): Plzen 40%, Benfica 100%. Goals over those matches: Plzen 8 scored, 8 conceded; Benfica 16 scored, 4 conceded.",
+    "fr": "UEFA Europa League : Plzen reçoit Benfica. Forme récente (5 derniers matchs) : Plzen 40 %, Benfica 100 %. Buts sur ces matchs : Plzen 8 marqués, 8 encaissés ; Benfica 16 marqués, 4 encaissés.",
+    "es": "UEFA Europa League: Plzen recibe a Benfica. Forma reciente (últimos 5 partidos): Plzen 40 %, Benfica 100 %. Goles en esos partidos: Plzen 8 a favor, 8 en contra; Benfica 16 a favor, 4 en contra.",
+    "ar": "UEFA Europa League: يستضيف Plzen فريق Benfica. الأداء الأخير (آخر 5 مباريات): Plzen 40٪، Benfica 100٪. الأهداف في تلك المباريات: Plzen سجل 8 واستقبل 8؛ Benfica سجل 16 واستقبل 4."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 40,
+     "goalsFor": 8,
+     "goalsAgainst": 8
+    },
+    "away": {
+     "formPercent": 100,
+     "goalsFor": 16,
+     "goalsAgainst": 4
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1636329",
+   "competition": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-26T17:45:00Z",
+   "home": {
+    "id": 1393,
+    "name": "Union St. Gilloise",
+    "shortName": "USG",
+    "logo": "https://media.api-sports.io/football/teams/1393.png"
+   },
+   "away": {
+    "id": 347,
+    "name": "Lech Poznan",
+    "shortName": "LP",
+    "logo": "https://media.api-sports.io/football/teams/347.png"
+   },
+   "summary": {
+    "en": "UEFA Europa League: Union St. Gilloise host Lech Poznan. Recent form (last 5 matches): Union St. Gilloise 83%, Lech Poznan 13%. Goals over those matches: Union St. Gilloise 10 scored, 2 conceded; Lech Poznan 4 scored, 14 conceded.",
+    "fr": "UEFA Europa League : Union St. Gilloise reçoit Lech Poznan. Forme récente (5 derniers matchs) : Union St. Gilloise 83 %, Lech Poznan 13 %. Buts sur ces matchs : Union St. Gilloise 10 marqués, 2 encaissés ; Lech Poznan 4 marqués, 14 encaissés.",
+    "es": "UEFA Europa League: Union St. Gilloise recibe a Lech Poznan. Forma reciente (últimos 5 partidos): Union St. Gilloise 83 %, Lech Poznan 13 %. Goles en esos partidos: Union St. Gilloise 10 a favor, 2 en contra; Lech Poznan 4 a favor, 14 en contra.",
+    "ar": "UEFA Europa League: يستضيف Union St. Gilloise فريق Lech Poznan. الأداء الأخير (آخر 5 مباريات): Union St. Gilloise 83٪، Lech Poznan 13٪. الأهداف في تلك المباريات: Union St. Gilloise سجل 10 واستقبل 2؛ Lech Poznan سجل 4 واستقبل 14."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 83,
+     "goalsFor": 10,
+     "goalsAgainst": 2
+    },
+    "away": {
+     "formPercent": 13,
+     "goalsFor": 4,
+     "goalsAgainst": 14
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1636334",
+   "competition": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-26T17:45:00Z",
+   "home": {
+    "id": 571,
+    "name": "Red Bull Salzburg",
+    "shortName": "RBS",
+    "logo": "https://media.api-sports.io/football/teams/571.png"
+   },
+   "away": {
+    "id": 3683,
+    "name": "Ararat-Armenia",
+    "shortName": "AA",
+    "logo": "https://media.api-sports.io/football/teams/3683.png"
+   },
+   "summary": {
+    "en": "UEFA Europa League: Red Bull Salzburg host Ararat-Armenia. Recent form (last 5 matches): Red Bull Salzburg 47%, Ararat-Armenia 20%. Goals over those matches: Red Bull Salzburg 6 scored, 8 conceded; Ararat-Armenia 5 scored, 14 conceded.",
+    "fr": "UEFA Europa League : Red Bull Salzburg reçoit Ararat-Armenia. Forme récente (5 derniers matchs) : Red Bull Salzburg 47 %, Ararat-Armenia 20 %. Buts sur ces matchs : Red Bull Salzburg 6 marqués, 8 encaissés ; Ararat-Armenia 5 marqués, 14 encaissés.",
+    "es": "UEFA Europa League: Red Bull Salzburg recibe a Ararat-Armenia. Forma reciente (últimos 5 partidos): Red Bull Salzburg 47 %, Ararat-Armenia 20 %. Goles en esos partidos: Red Bull Salzburg 6 a favor, 8 en contra; Ararat-Armenia 5 a favor, 14 en contra.",
+    "ar": "UEFA Europa League: يستضيف Red Bull Salzburg فريق Ararat-Armenia. الأداء الأخير (آخر 5 مباريات): Red Bull Salzburg 47٪، Ararat-Armenia 20٪. الأهداف في تلك المباريات: Red Bull Salzburg سجل 6 واستقبل 8؛ Ararat-Armenia سجل 5 واستقبل 14."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 47,
+     "goalsFor": 6,
+     "goalsAgainst": 8
+    },
+    "away": {
+     "formPercent": 20,
+     "goalsFor": 5,
+     "goalsAgainst": 14
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1636252",
+   "competition": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-26T20:00:00Z",
+   "home": {
+    "id": 52,
+    "name": "Crystal Palace",
+    "shortName": "CP",
+    "logo": "https://media.api-sports.io/football/teams/52.png"
+   },
+   "away": {
+    "id": 548,
+    "name": "Real Sociedad",
+    "shortName": "SOC",
+    "logo": "https://media.api-sports.io/football/teams/548.png"
+   },
+   "summary": {
+    "en": "UEFA Europa League: Crystal Palace host Real Sociedad. Recent form (last 5 matches): Crystal Palace 42%, Real Sociedad 42%. Goals over those matches: Crystal Palace 9 scored, 6 conceded; Real Sociedad 9 scored, 4 conceded.",
+    "fr": "UEFA Europa League : Crystal Palace reçoit Real Sociedad. Forme récente (5 derniers matchs) : Crystal Palace 42 %, Real Sociedad 42 %. Buts sur ces matchs : Crystal Palace 9 marqués, 6 encaissés ; Real Sociedad 9 marqués, 4 encaissés.",
+    "es": "UEFA Europa League: Crystal Palace recibe a Real Sociedad. Forma reciente (últimos 5 partidos): Crystal Palace 42 %, Real Sociedad 42 %. Goles en esos partidos: Crystal Palace 9 a favor, 6 en contra; Real Sociedad 9 a favor, 4 en contra.",
+    "ar": "UEFA Europa League: يستضيف Crystal Palace فريق Real Sociedad. الأداء الأخير (آخر 5 مباريات): Crystal Palace 42٪، Real Sociedad 42٪. الأهداف في تلك المباريات: Crystal Palace سجل 9 واستقبل 6؛ Real Sociedad سجل 9 واستقبل 4."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 42,
+     "goalsFor": 9,
+     "goalsAgainst": 6
+    },
+    "away": {
+     "formPercent": 42,
+     "goalsFor": 9,
+     "goalsAgainst": 4
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1636261",
+   "competition": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-26T20:00:00Z",
+   "home": {
+    "id": 651,
+    "name": "Ferencvarosi TC",
+    "shortName": "FT",
+    "logo": "https://media.api-sports.io/football/teams/651.png"
+   },
+   "away": {
+    "id": 4360,
+    "name": "Celje",
+    "shortName": "CEL",
+    "logo": "https://media.api-sports.io/football/teams/4360.png"
+   },
+   "summary": {
+    "en": "UEFA Europa League: Ferencvarosi TC host Celje. Recent form (last 5 matches): Ferencvarosi TC 100%, Celje 33%. Goals over those matches: Ferencvarosi TC 15 scored, 3 conceded; Celje 5 scored, 9 conceded.",
+    "fr": "UEFA Europa League : Ferencvarosi TC reçoit Celje. Forme récente (5 derniers matchs) : Ferencvarosi TC 100 %, Celje 33 %. Buts sur ces matchs : Ferencvarosi TC 15 marqués, 3 encaissés ; Celje 5 marqués, 9 encaissés.",
+    "es": "UEFA Europa League: Ferencvarosi TC recibe a Celje. Forma reciente (últimos 5 partidos): Ferencvarosi TC 100 %, Celje 33 %. Goles en esos partidos: Ferencvarosi TC 15 a favor, 3 en contra; Celje 5 a favor, 9 en contra.",
+    "ar": "UEFA Europa League: يستضيف Ferencvarosi TC فريق Celje. الأداء الأخير (آخر 5 مباريات): Ferencvarosi TC 100٪، Celje 33٪. الأهداف في تلك المباريات: Ferencvarosi TC سجل 15 واستقبل 3؛ Celje سجل 5 واستقبل 9."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 100,
+     "goalsFor": 15,
+     "goalsAgainst": 3
+    },
+    "away": {
+     "formPercent": 33,
+     "goalsFor": 5,
+     "goalsAgainst": 9
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1636270",
+   "competition": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-26T20:00:00Z",
+   "home": {
+    "id": 167,
+    "name": "1899 Hoffenheim",
+    "shortName": "1H",
+    "logo": "https://media.api-sports.io/football/teams/167.png"
+   },
+   "away": {
+    "id": 637,
+    "name": "Sturm Graz",
+    "shortName": "SG",
+    "logo": "https://media.api-sports.io/football/teams/637.png"
+   },
+   "summary": {
+    "en": "UEFA Europa League: 1899 Hoffenheim host Sturm Graz. Recent form (last 5 matches): 1899 Hoffenheim 33%, Sturm Graz 33%. Goals over those matches: 1899 Hoffenheim 6 scored, 6 conceded; Sturm Graz 3 scored, 6 conceded.",
+    "fr": "UEFA Europa League : 1899 Hoffenheim reçoit Sturm Graz. Forme récente (5 derniers matchs) : 1899 Hoffenheim 33 %, Sturm Graz 33 %. Buts sur ces matchs : 1899 Hoffenheim 6 marqués, 6 encaissés ; Sturm Graz 3 marqués, 6 encaissés.",
+    "es": "UEFA Europa League: 1899 Hoffenheim recibe a Sturm Graz. Forma reciente (últimos 5 partidos): 1899 Hoffenheim 33 %, Sturm Graz 33 %. Goles en esos partidos: 1899 Hoffenheim 6 a favor, 6 en contra; Sturm Graz 3 a favor, 6 en contra.",
+    "ar": "UEFA Europa League: يستضيف 1899 Hoffenheim فريق Sturm Graz. الأداء الأخير (آخر 5 مباريات): 1899 Hoffenheim 33٪، Sturm Graz 33٪. الأهداف في تلك المباريات: 1899 Hoffenheim سجل 6 واستقبل 6؛ Sturm Graz سجل 3 واستقبل 6."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 33,
+     "goalsFor": 6,
+     "goalsAgainst": 6
+    },
+    "away": {
+     "formPercent": 33,
+     "goalsFor": 3,
+     "goalsAgainst": 6
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1636277",
+   "competition": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-26T20:00:00Z",
+   "home": {
+    "id": 496,
+    "name": "Juventus",
+    "shortName": "JUV",
+    "logo": "https://media.api-sports.io/football/teams/496.png"
+   },
+   "away": {
+    "id": 3402,
+    "name": "Omonia Nicosia",
+    "shortName": "ON",
+    "logo": "https://media.api-sports.io/football/teams/3402.png"
+   },
+   "summary": {
+    "en": "UEFA Europa League: Juventus host Omonia Nicosia. Recent form (last 5 matches): Juventus 83%, Omonia Nicosia 60%. Goals over those matches: Juventus 11 scored, 4 conceded; Omonia Nicosia 10 scored, 9 conceded.",
+    "fr": "UEFA Europa League : Juventus reçoit Omonia Nicosia. Forme récente (5 derniers matchs) : Juventus 83 %, Omonia Nicosia 60 %. Buts sur ces matchs : Juventus 11 marqués, 4 encaissés ; Omonia Nicosia 10 marqués, 9 encaissés.",
+    "es": "UEFA Europa League: Juventus recibe a Omonia Nicosia. Forma reciente (últimos 5 partidos): Juventus 83 %, Omonia Nicosia 60 %. Goles en esos partidos: Juventus 11 a favor, 4 en contra; Omonia Nicosia 10 a favor, 9 en contra.",
+    "ar": "UEFA Europa League: يستضيف Juventus فريق Omonia Nicosia. الأداء الأخير (آخر 5 مباريات): Juventus 83٪، Omonia Nicosia 60٪. الأهداف في تلك المباريات: Juventus سجل 11 واستقبل 4؛ Omonia Nicosia سجل 10 واستقبل 9."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 83,
+     "goalsFor": 11,
+     "goalsAgainst": 4
+    },
+    "away": {
+     "formPercent": 60,
+     "goalsFor": 10,
+     "goalsAgainst": 9
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1636294",
+   "competition": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-26T20:00:00Z",
+   "home": {
+    "id": 80,
+    "name": "Lyon",
+    "shortName": "LYO",
+    "logo": "https://media.api-sports.io/football/teams/80.png"
+   },
+   "away": {
+    "id": 321,
+    "name": "Lillestrom",
+    "shortName": "LIL",
+    "logo": "https://media.api-sports.io/football/teams/321.png"
+   },
+   "summary": {
+    "en": "UEFA Europa League: Lyon host Lillestrom. Recent form (last 5 matches): Lyon 58%, Lillestrom 27%. Goals over those matches: Lyon 6 scored, 7 conceded; Lillestrom 4 scored, 11 conceded.",
+    "fr": "UEFA Europa League : Lyon reçoit Lillestrom. Forme récente (5 derniers matchs) : Lyon 58 %, Lillestrom 27 %. Buts sur ces matchs : Lyon 6 marqués, 7 encaissés ; Lillestrom 4 marqués, 11 encaissés.",
+    "es": "UEFA Europa League: Lyon recibe a Lillestrom. Forma reciente (últimos 5 partidos): Lyon 58 %, Lillestrom 27 %. Goles en esos partidos: Lyon 6 a favor, 7 en contra; Lillestrom 4 a favor, 11 en contra.",
+    "ar": "UEFA Europa League: يستضيف Lyon فريق Lillestrom. الأداء الأخير (آخر 5 مباريات): Lyon 58٪، Lillestrom 27٪. الأهداف في تلك المباريات: Lyon سجل 6 واستقبل 7؛ Lillestrom سجل 4 واستقبل 11."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 58,
+     "goalsFor": 6,
+     "goalsAgainst": 7
+    },
+    "away": {
+     "formPercent": 27,
+     "goalsFor": 4,
+     "goalsAgainst": 11
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1636301",
+   "competition": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-26T20:00:00Z",
+   "home": {
+    "id": 413,
+    "name": "NEC Nijmegen",
+    "shortName": "NN",
+    "logo": "https://media.api-sports.io/football/teams/413.png"
+   },
+   "away": {
+    "id": 94,
+    "name": "Rennes",
+    "shortName": "REN",
+    "logo": "https://media.api-sports.io/football/teams/94.png"
+   },
+   "summary": {
+    "en": "UEFA Europa League: NEC Nijmegen host Rennes. Recent form (last 5 matches): NEC Nijmegen 58%, Rennes 50%. Goals over those matches: NEC Nijmegen 8 scored, 9 conceded; Rennes 4 scored, 3 conceded.",
+    "fr": "UEFA Europa League : NEC Nijmegen reçoit Rennes. Forme récente (5 derniers matchs) : NEC Nijmegen 58 %, Rennes 50 %. Buts sur ces matchs : NEC Nijmegen 8 marqués, 9 encaissés ; Rennes 4 marqués, 3 encaissés.",
+    "es": "UEFA Europa League: NEC Nijmegen recibe a Rennes. Forma reciente (últimos 5 partidos): NEC Nijmegen 58 %, Rennes 50 %. Goles en esos partidos: NEC Nijmegen 8 a favor, 9 en contra; Rennes 4 a favor, 3 en contra.",
+    "ar": "UEFA Europa League: يستضيف NEC Nijmegen فريق Rennes. الأداء الأخير (آخر 5 مباريات): NEC Nijmegen 58٪، Rennes 50٪. الأهداف في تلك المباريات: NEC Nijmegen سجل 8 واستقبل 9؛ Rennes سجل 4 واستقبل 3."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 58,
+     "goalsFor": 8,
+     "goalsAgainst": 9
+    },
+    "away": {
+     "formPercent": 50,
+     "goalsFor": 4,
+     "goalsAgainst": 3
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1636305",
+   "competition": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-26T20:00:00Z",
+   "home": {
+    "id": 1124,
+    "name": "OFI",
+    "shortName": "OFI",
+    "logo": "https://media.api-sports.io/football/teams/1124.png"
+   },
+   "away": {
+    "id": 554,
+    "name": "Anderlecht",
+    "shortName": "AND",
+    "logo": "https://media.api-sports.io/football/teams/554.png"
+   },
+   "summary": {
+    "en": "UEFA Europa League: OFI host Anderlecht. Recent form (last 5 matches): OFI 60%, Anderlecht 60%. Goals over those matches: OFI 7 scored, 4 conceded; Anderlecht 9 scored, 3 conceded.",
+    "fr": "UEFA Europa League : OFI reçoit Anderlecht. Forme récente (5 derniers matchs) : OFI 60 %, Anderlecht 60 %. Buts sur ces matchs : OFI 7 marqués, 4 encaissés ; Anderlecht 9 marqués, 3 encaissés.",
+    "es": "UEFA Europa League: OFI recibe a Anderlecht. Forma reciente (últimos 5 partidos): OFI 60 %, Anderlecht 60 %. Goles en esos partidos: OFI 7 a favor, 4 en contra; Anderlecht 9 a favor, 3 en contra.",
+    "ar": "UEFA Europa League: يستضيف OFI فريق Anderlecht. الأداء الأخير (آخر 5 مباريات): OFI 60٪، Anderlecht 60٪. الأهداف في تلك المباريات: OFI سجل 7 واستقبل 4؛ Anderlecht سجل 9 واستقبل 3."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 60,
+     "goalsFor": 7,
+     "goalsAgainst": 4
+    },
+    "away": {
+     "formPercent": 60,
+     "goalsFor": 9,
+     "goalsAgainst": 3
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1636336",
+   "competition": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-26T20:00:00Z",
+   "home": {
+    "id": 628,
+    "name": "Sparta Praha",
+    "shortName": "SP",
+    "logo": "https://media.api-sports.io/football/teams/628.png"
+   },
+   "away": {
+    "id": 201,
+    "name": "AZ Alkmaar",
+    "shortName": "AA",
+    "logo": "https://media.api-sports.io/football/teams/201.png"
+   },
+   "summary": {
+    "en": "UEFA Europa League: Sparta Praha host AZ Alkmaar. Recent form (last 5 matches): Sparta Praha 33%, AZ Alkmaar 50%. Goals over those matches: Sparta Praha 6 scored, 6 conceded; AZ Alkmaar 7 scored, 4 conceded.",
+    "fr": "UEFA Europa League : Sparta Praha reçoit AZ Alkmaar. Forme récente (5 derniers matchs) : Sparta Praha 33 %, AZ Alkmaar 50 %. Buts sur ces matchs : Sparta Praha 6 marqués, 6 encaissés ; AZ Alkmaar 7 marqués, 4 encaissés.",
+    "es": "UEFA Europa League: Sparta Praha recibe a AZ Alkmaar. Forma reciente (últimos 5 partidos): Sparta Praha 33 %, AZ Alkmaar 50 %. Goles en esos partidos: Sparta Praha 6 a favor, 6 en contra; AZ Alkmaar 7 a favor, 4 en contra.",
+    "ar": "UEFA Europa League: يستضيف Sparta Praha فريق AZ Alkmaar. الأداء الأخير (آخر 5 مباريات): Sparta Praha 33٪، AZ Alkmaar 50٪. الأهداف في تلك المباريات: Sparta Praha سجل 6 واستقبل 6؛ AZ Alkmaar سجل 7 واستقبل 4."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 33,
+     "goalsFor": 6,
+     "goalsAgainst": 6
+    },
+    "away": {
+     "formPercent": 50,
+     "goalsFor": 7,
+     "goalsAgainst": 4
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636343",
+   "competition": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-26T20:00:00Z",
+   "home": {
+    "id": 746,
+    "name": "Sunderland",
+    "shortName": "SUN",
+    "logo": "https://media.api-sports.io/football/teams/746.png"
+   },
+   "away": {
+    "id": 336,
+    "name": "Jagiellonia",
+    "shortName": "JAG",
+    "logo": "https://media.api-sports.io/football/teams/336.png"
+   },
+   "summary": {
+    "en": "UEFA Europa League: Sunderland host Jagiellonia. Recent form (last 5 matches): Sunderland 58%, Jagiellonia 40%. Goals over those matches: Sunderland 4 scored, 4 conceded; Jagiellonia 6 scored, 8 conceded.",
+    "fr": "UEFA Europa League : Sunderland reçoit Jagiellonia. Forme récente (5 derniers matchs) : Sunderland 58 %, Jagiellonia 40 %. Buts sur ces matchs : Sunderland 4 marqués, 4 encaissés ; Jagiellonia 6 marqués, 8 encaissés.",
+    "es": "UEFA Europa League: Sunderland recibe a Jagiellonia. Forma reciente (últimos 5 partidos): Sunderland 58 %, Jagiellonia 40 %. Goles en esos partidos: Sunderland 4 a favor, 4 en contra; Jagiellonia 6 a favor, 8 en contra.",
+    "ar": "UEFA Europa League: يستضيف Sunderland فريق Jagiellonia. الأداء الأخير (آخر 5 مباريات): Sunderland 58٪، Jagiellonia 40٪. الأهداف في تلك المباريات: Sunderland سجل 4 واستقبل 4؛ Jagiellonia سجل 6 واستقبل 8."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 58,
+     "goalsFor": 4,
+     "goalsAgainst": 4
+    },
+    "away": {
+     "formPercent": 40,
+     "goalsFor": 6,
+     "goalsAgainst": 8
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636349",
+   "competition": {
+    "id": 3,
+    "name": "UEFA Europa League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-26T20:00:00Z",
+   "home": {
+    "id": 4799,
+    "name": "Torreense",
+    "shortName": "TOR",
+    "logo": "https://media.api-sports.io/football/teams/4799.png"
+   },
+   "away": {
+    "id": 247,
+    "name": "Celtic",
+    "shortName": "CEL",
+    "logo": "https://media.api-sports.io/football/teams/247.png"
+   },
+   "summary": {
+    "en": "UEFA Europa League: Torreense host Celtic. Recent form (last 5 matches): Torreense 50%, Celtic 25%. Goals over those matches: Torreense 7 scored, 9 conceded; Celtic 6 scored, 11 conceded.",
+    "fr": "UEFA Europa League : Torreense reçoit Celtic. Forme récente (5 derniers matchs) : Torreense 50 %, Celtic 25 %. Buts sur ces matchs : Torreense 7 marqués, 9 encaissés ; Celtic 6 marqués, 11 encaissés.",
+    "es": "UEFA Europa League: Torreense recibe a Celtic. Forma reciente (últimos 5 partidos): Torreense 50 %, Celtic 25 %. Goles en esos partidos: Torreense 7 a favor, 9 en contra; Celtic 6 a favor, 11 en contra.",
+    "ar": "UEFA Europa League: يستضيف Torreense فريق Celtic. الأداء الأخير (آخر 5 مباريات): Torreense 50٪، Celtic 25٪. الأهداف في تلك المباريات: Torreense سجل 7 واستقبل 9؛ Celtic سجل 6 واستقبل 11."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 50,
+     "goalsFor": 7,
+     "goalsAgainst": 9
+    },
+    "away": {
+     "formPercent": 25,
+     "goalsFor": 6,
+     "goalsAgainst": 11
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
   {
    "id": "1649565",
    "competition": {
@@ -43,7 +817,7 @@
    },
    "homeLast": [],
    "awayLast": [],
-   "analysisCandidate": true,
+   "analysisCandidate": false,
    "analysis": null
   },
   {
@@ -86,7 +860,7 @@
    },
    "homeLast": [],
    "awayLast": [],
-   "analysisCandidate": true,
+   "analysisCandidate": false,
    "analysis": null
   },
   {
@@ -129,7 +903,50 @@
    },
    "homeLast": [],
    "awayLast": [],
-   "analysisCandidate": true,
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636435",
+   "competition": {
+    "id": 848,
+    "name": "UEFA Conference League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T15:30:00Z",
+   "home": {
+    "id": 664,
+    "name": "Kairat Almaty",
+    "shortName": "KA",
+    "logo": "https://media.api-sports.io/football/teams/664.png"
+   },
+   "away": {
+    "id": 2240,
+    "name": "Mjallby AIF",
+    "shortName": "MA",
+    "logo": "https://media.api-sports.io/football/teams/2240.png"
+   },
+   "summary": {
+    "en": "UEFA Conference League: Kairat Almaty host Mjallby AIF. Recent form (last 5 matches): Kairat Almaty 22%, Mjallby AIF 78%. Goals over those matches: Kairat Almaty 3 scored, 7 conceded; Mjallby AIF 5 scored, 1 conceded.",
+    "fr": "UEFA Conference League : Kairat Almaty reçoit Mjallby AIF. Forme récente (5 derniers matchs) : Kairat Almaty 22 %, Mjallby AIF 78 %. Buts sur ces matchs : Kairat Almaty 3 marqués, 7 encaissés ; Mjallby AIF 5 marqués, 1 encaissés.",
+    "es": "UEFA Conference League: Kairat Almaty recibe a Mjallby AIF. Forma reciente (últimos 5 partidos): Kairat Almaty 22 %, Mjallby AIF 78 %. Goles en esos partidos: Kairat Almaty 3 a favor, 7 en contra; Mjallby AIF 5 a favor, 1 en contra.",
+    "ar": "UEFA Conference League: يستضيف Kairat Almaty فريق Mjallby AIF. الأداء الأخير (آخر 5 مباريات): Kairat Almaty 22٪، Mjallby AIF 78٪. الأهداف في تلك المباريات: Kairat Almaty سجل 3 واستقبل 7؛ Mjallby AIF سجل 5 واستقبل 1."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 22,
+     "goalsFor": 3,
+     "goalsAgainst": 7
+    },
+    "away": {
+     "formPercent": 78,
+     "goalsFor": 5,
+     "goalsAgainst": 1
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
    "analysis": null
   },
   {
@@ -172,7 +989,738 @@
    },
    "homeLast": [],
    "awayLast": [],
-   "analysisCandidate": true,
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636381",
+   "competition": {
+    "id": 848,
+    "name": "UEFA Conference League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T17:45:00Z",
+   "home": {
+    "id": 194,
+    "name": "Ajax",
+    "shortName": "AJA",
+    "logo": "https://media.api-sports.io/football/teams/194.png"
+   },
+   "away": {
+    "id": 1012,
+    "name": "FC Thun",
+    "shortName": "THU",
+    "logo": "https://media.api-sports.io/football/teams/1012.png"
+   },
+   "summary": {
+    "en": "UEFA Conference League: Ajax host FC Thun. Recent form (last 5 matches): Ajax 80%, FC Thun 33%. Goals over those matches: Ajax 18 scored, 8 conceded; FC Thun 3 scored, 3 conceded.",
+    "fr": "UEFA Conference League : Ajax reçoit FC Thun. Forme récente (5 derniers matchs) : Ajax 80 %, FC Thun 33 %. Buts sur ces matchs : Ajax 18 marqués, 8 encaissés ; FC Thun 3 marqués, 3 encaissés.",
+    "es": "UEFA Conference League: Ajax recibe a FC Thun. Forma reciente (últimos 5 partidos): Ajax 80 %, FC Thun 33 %. Goles en esos partidos: Ajax 18 a favor, 8 en contra; FC Thun 3 a favor, 3 en contra.",
+    "ar": "UEFA Conference League: يستضيف Ajax فريق FC Thun. الأداء الأخير (آخر 5 مباريات): Ajax 80٪، FC Thun 33٪. الأهداف في تلك المباريات: Ajax سجل 18 واستقبل 8؛ FC Thun سجل 3 واستقبل 3."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 80,
+     "goalsFor": 18,
+     "goalsAgainst": 8
+    },
+    "away": {
+     "formPercent": 33,
+     "goalsFor": 3,
+     "goalsAgainst": 3
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636393",
+   "competition": {
+    "id": 848,
+    "name": "UEFA Conference League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T17:45:00Z",
+   "home": {
+    "id": 319,
+    "name": "Brann",
+    "shortName": "BRA",
+    "logo": "https://media.api-sports.io/football/teams/319.png"
+   },
+   "away": {
+    "id": 406,
+    "name": "Aarhus",
+    "shortName": "AAR",
+    "logo": "https://media.api-sports.io/football/teams/406.png"
+   },
+   "summary": {
+    "en": "UEFA Conference League: Brann host Aarhus. Recent form (last 5 matches): Brann 73%, Aarhus 22%. Goals over those matches: Brann 11 scored, 6 conceded; Aarhus 1 scored, 2 conceded.",
+    "fr": "UEFA Conference League : Brann reçoit Aarhus. Forme récente (5 derniers matchs) : Brann 73 %, Aarhus 22 %. Buts sur ces matchs : Brann 11 marqués, 6 encaissés ; Aarhus 1 marqués, 2 encaissés.",
+    "es": "UEFA Conference League: Brann recibe a Aarhus. Forma reciente (últimos 5 partidos): Brann 73 %, Aarhus 22 %. Goles en esos partidos: Brann 11 a favor, 6 en contra; Aarhus 1 a favor, 2 en contra.",
+    "ar": "UEFA Conference League: يستضيف Brann فريق Aarhus. الأداء الأخير (آخر 5 مباريات): Brann 73٪، Aarhus 22٪. الأهداف في تلك المباريات: Brann سجل 11 واستقبل 6؛ Aarhus سجل 1 واستقبل 2."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 73,
+     "goalsFor": 11,
+     "goalsAgainst": 6
+    },
+    "away": {
+     "formPercent": 22,
+     "goalsFor": 1,
+     "goalsAgainst": 2
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636395",
+   "competition": {
+    "id": 848,
+    "name": "UEFA Conference League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T17:45:00Z",
+   "home": {
+    "id": 51,
+    "name": "Brighton",
+    "shortName": "BRI",
+    "logo": "https://media.api-sports.io/football/teams/51.png"
+   },
+   "away": {
+    "id": 632,
+    "name": "Universitatea Craiova",
+    "shortName": "UC",
+    "logo": "https://media.api-sports.io/football/teams/632.png"
+   },
+   "summary": {
+    "en": "UEFA Conference League: Brighton host Universitatea Craiova. Recent form (last 5 matches): Brighton 73%, Universitatea Craiova 78%. Goals over those matches: Brighton 9 scored, 0 conceded; Universitatea Craiova 6 scored, 2 conceded.",
+    "fr": "UEFA Conference League : Brighton reçoit Universitatea Craiova. Forme récente (5 derniers matchs) : Brighton 73 %, Universitatea Craiova 78 %. Buts sur ces matchs : Brighton 9 marqués, 0 encaissés ; Universitatea Craiova 6 marqués, 2 encaissés.",
+    "es": "UEFA Conference League: Brighton recibe a Universitatea Craiova. Forma reciente (últimos 5 partidos): Brighton 73 %, Universitatea Craiova 78 %. Goles en esos partidos: Brighton 9 a favor, 0 en contra; Universitatea Craiova 6 a favor, 2 en contra.",
+    "ar": "UEFA Conference League: يستضيف Brighton فريق Universitatea Craiova. الأداء الأخير (آخر 5 مباريات): Brighton 73٪، Universitatea Craiova 78٪. الأهداف في تلك المباريات: Brighton سجل 9 واستقبل 0؛ Universitatea Craiova سجل 6 واستقبل 2."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 73,
+     "goalsFor": 9,
+     "goalsAgainst": 0
+    },
+    "away": {
+     "formPercent": 78,
+     "goalsFor": 6,
+     "goalsAgainst": 2
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636405",
+   "competition": {
+    "id": 848,
+    "name": "UEFA Conference League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T17:45:00Z",
+   "home": {
+    "id": 3327,
+    "name": "Egnatia Rrogozhinë",
+    "shortName": "ER",
+    "logo": "https://media.api-sports.io/football/teams/3327.png"
+   },
+   "away": {
+    "id": 667,
+    "name": "Lincoln Red Imps FC",
+    "shortName": "LRI",
+    "logo": "https://media.api-sports.io/football/teams/667.png"
+   },
+   "summary": {
+    "en": "UEFA Conference League: Egnatia Rrogozhinë host Lincoln Red Imps FC. Recent form (last 5 matches): Egnatia Rrogozhinë 22%, Lincoln Red Imps FC 40%. Goals over those matches: Egnatia Rrogozhinë 2 scored, 4 conceded; Lincoln Red Imps FC 6 scored, 8 conceded.",
+    "fr": "UEFA Conference League : Egnatia Rrogozhinë reçoit Lincoln Red Imps FC. Forme récente (5 derniers matchs) : Egnatia Rrogozhinë 22 %, Lincoln Red Imps FC 40 %. Buts sur ces matchs : Egnatia Rrogozhinë 2 marqués, 4 encaissés ; Lincoln Red Imps FC 6 marqués, 8 encaissés.",
+    "es": "UEFA Conference League: Egnatia Rrogozhinë recibe a Lincoln Red Imps FC. Forma reciente (últimos 5 partidos): Egnatia Rrogozhinë 22 %, Lincoln Red Imps FC 40 %. Goles en esos partidos: Egnatia Rrogozhinë 2 a favor, 4 en contra; Lincoln Red Imps FC 6 a favor, 8 en contra.",
+    "ar": "UEFA Conference League: يستضيف Egnatia Rrogozhinë فريق Lincoln Red Imps FC. الأداء الأخير (آخر 5 مباريات): Egnatia Rrogozhinë 22٪، Lincoln Red Imps FC 40٪. الأهداف في تلك المباريات: Egnatia Rrogozhinë سجل 2 واستقبل 4؛ Lincoln Red Imps FC سجل 6 واستقبل 8."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 22,
+     "goalsFor": 2,
+     "goalsAgainst": 4
+    },
+    "away": {
+     "formPercent": 40,
+     "goalsFor": 6,
+     "goalsAgainst": 8
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636421",
+   "competition": {
+    "id": 848,
+    "name": "UEFA Conference League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T17:45:00Z",
+   "home": {
+    "id": 254,
+    "name": "Heart Of Midlothian",
+    "shortName": "HOM",
+    "logo": "https://media.api-sports.io/football/teams/254.png"
+   },
+   "away": {
+    "id": 91,
+    "name": "Monaco",
+    "shortName": "MON",
+    "logo": "https://media.api-sports.io/football/teams/91.png"
+   },
+   "summary": {
+    "en": "UEFA Conference League: Heart Of Midlothian host Monaco. Recent form (last 5 matches): Heart Of Midlothian 33%, Monaco 100%. Goals over those matches: Heart Of Midlothian 7 scored, 10 conceded; Monaco 14 scored, 4 conceded.",
+    "fr": "UEFA Conference League : Heart Of Midlothian reçoit Monaco. Forme récente (5 derniers matchs) : Heart Of Midlothian 33 %, Monaco 100 %. Buts sur ces matchs : Heart Of Midlothian 7 marqués, 10 encaissés ; Monaco 14 marqués, 4 encaissés.",
+    "es": "UEFA Conference League: Heart Of Midlothian recibe a Monaco. Forma reciente (últimos 5 partidos): Heart Of Midlothian 33 %, Monaco 100 %. Goles en esos partidos: Heart Of Midlothian 7 a favor, 10 en contra; Monaco 14 a favor, 4 en contra.",
+    "ar": "UEFA Conference League: يستضيف Heart Of Midlothian فريق Monaco. الأداء الأخير (آخر 5 مباريات): Heart Of Midlothian 33٪، Monaco 100٪. الأهداف في تلك المباريات: Heart Of Midlothian سجل 7 واستقبل 10؛ Monaco سجل 14 واستقبل 4."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 33,
+     "goalsFor": 7,
+     "goalsAgainst": 10
+    },
+    "away": {
+     "formPercent": 100,
+     "goalsFor": 14,
+     "goalsAgainst": 4
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636426",
+   "competition": {
+    "id": 848,
+    "name": "UEFA Conference League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T17:45:00Z",
+   "home": {
+    "id": 3502,
+    "name": "FC Iberia 1999",
+    "shortName": "I1",
+    "logo": "https://media.api-sports.io/football/teams/3502.png"
+   },
+   "away": {
+    "id": 546,
+    "name": "Getafe",
+    "shortName": "GET",
+    "logo": "https://media.api-sports.io/football/teams/546.png"
+   },
+   "summary": {
+    "en": "UEFA Conference League: FC Iberia 1999 host Getafe. Recent form (last 5 matches): FC Iberia 1999 11%, Getafe 27%. Goals over those matches: FC Iberia 1999 2 scored, 5 conceded; Getafe 7 scored, 10 conceded.",
+    "fr": "UEFA Conference League : FC Iberia 1999 reçoit Getafe. Forme récente (5 derniers matchs) : FC Iberia 1999 11 %, Getafe 27 %. Buts sur ces matchs : FC Iberia 1999 2 marqués, 5 encaissés ; Getafe 7 marqués, 10 encaissés.",
+    "es": "UEFA Conference League: FC Iberia 1999 recibe a Getafe. Forma reciente (últimos 5 partidos): FC Iberia 1999 11 %, Getafe 27 %. Goles en esos partidos: FC Iberia 1999 2 a favor, 5 en contra; Getafe 7 a favor, 10 en contra.",
+    "ar": "UEFA Conference League: يستضيف FC Iberia 1999 فريق Getafe. الأداء الأخير (آخر 5 مباريات): FC Iberia 1999 11٪، Getafe 27٪. الأهداف في تلك المباريات: FC Iberia 1999 سجل 2 واستقبل 5؛ Getafe سجل 7 واستقبل 10."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 11,
+     "goalsFor": 2,
+     "goalsAgainst": 5
+    },
+    "away": {
+     "formPercent": 27,
+     "goalsFor": 7,
+     "goalsAgainst": 10
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636431",
+   "competition": {
+    "id": 848,
+    "name": "UEFA Conference League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T17:45:00Z",
+   "home": {
+    "id": 1122,
+    "name": "FK Jablonec",
+    "shortName": "JAB",
+    "logo": "https://media.api-sports.io/football/teams/1122.png"
+   },
+   "away": {
+    "id": 606,
+    "name": "FC Lugano",
+    "shortName": "LUG",
+    "logo": "https://media.api-sports.io/football/teams/606.png"
+   },
+   "summary": {
+    "en": "UEFA Conference League: FK Jablonec host FC Lugano. Recent form (last 5 matches): FK Jablonec 33%, FC Lugano 87%. Goals over those matches: FK Jablonec 5 scored, 5 conceded; FC Lugano 14 scored, 6 conceded.",
+    "fr": "UEFA Conference League : FK Jablonec reçoit FC Lugano. Forme récente (5 derniers matchs) : FK Jablonec 33 %, FC Lugano 87 %. Buts sur ces matchs : FK Jablonec 5 marqués, 5 encaissés ; FC Lugano 14 marqués, 6 encaissés.",
+    "es": "UEFA Conference League: FK Jablonec recibe a FC Lugano. Forma reciente (últimos 5 partidos): FK Jablonec 33 %, FC Lugano 87 %. Goles en esos partidos: FK Jablonec 5 a favor, 5 en contra; FC Lugano 14 a favor, 6 en contra.",
+    "ar": "UEFA Conference League: يستضيف FK Jablonec فريق FC Lugano. الأداء الأخير (آخر 5 مباريات): FK Jablonec 33٪، FC Lugano 87٪. الأهداف في تلك المباريات: FK Jablonec سجل 5 واستقبل 5؛ FC Lugano سجل 14 واستقبل 6."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 33,
+     "goalsFor": 5,
+     "goalsAgainst": 5
+    },
+    "away": {
+     "formPercent": 87,
+     "goalsFor": 14,
+     "goalsAgainst": 6
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636438",
+   "competition": {
+    "id": 848,
+    "name": "UEFA Conference League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T17:45:00Z",
+   "home": {
+    "id": 3872,
+    "name": "Kauno Žalgiris",
+    "shortName": "KŽ",
+    "logo": "https://media.api-sports.io/football/teams/3872.png"
+   },
+   "away": {
+    "id": 10124,
+    "name": "Riga",
+    "shortName": "RIG",
+    "logo": "https://media.api-sports.io/football/teams/10124.png"
+   },
+   "summary": {
+    "en": "UEFA Conference League: Kauno Žalgiris host Riga. Recent form (last 5 matches): Kauno Žalgiris 0%, Riga 47%. Goals over those matches: Kauno Žalgiris 1 scored, 11 conceded; Riga 5 scored, 4 conceded.",
+    "fr": "UEFA Conference League : Kauno Žalgiris reçoit Riga. Forme récente (5 derniers matchs) : Kauno Žalgiris 0 %, Riga 47 %. Buts sur ces matchs : Kauno Žalgiris 1 marqués, 11 encaissés ; Riga 5 marqués, 4 encaissés.",
+    "es": "UEFA Conference League: Kauno Žalgiris recibe a Riga. Forma reciente (últimos 5 partidos): Kauno Žalgiris 0 %, Riga 47 %. Goles en esos partidos: Kauno Žalgiris 1 a favor, 11 en contra; Riga 5 a favor, 4 en contra.",
+    "ar": "UEFA Conference League: يستضيف Kauno Žalgiris فريق Riga. الأداء الأخير (آخر 5 مباريات): Kauno Žalgiris 0٪، Riga 47٪. الأهداف في تلك المباريات: Kauno Žalgiris سجل 1 واستقبل 11؛ Riga سجل 5 واستقبل 4."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 0,
+     "goalsFor": 1,
+     "goalsAgainst": 11
+    },
+    "away": {
+     "formPercent": 47,
+     "goalsFor": 5,
+     "goalsAgainst": 4
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636460",
+   "competition": {
+    "id": 848,
+    "name": "UEFA Conference League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T17:45:00Z",
+   "home": {
+    "id": 3403,
+    "name": "Pafos",
+    "shortName": "PAF",
+    "logo": "https://media.api-sports.io/football/teams/3403.png"
+   },
+   "away": {
+    "id": 397,
+    "name": "FC Midtjylland",
+    "shortName": "MID",
+    "logo": "https://media.api-sports.io/football/teams/397.png"
+   },
+   "summary": {
+    "en": "UEFA Conference League: Pafos host FC Midtjylland. Recent form (last 5 matches): Pafos 33%, FC Midtjylland 47%. Goals over those matches: Pafos 8 scored, 10 conceded; FC Midtjylland 8 scored, 9 conceded.",
+    "fr": "UEFA Conference League : Pafos reçoit FC Midtjylland. Forme récente (5 derniers matchs) : Pafos 33 %, FC Midtjylland 47 %. Buts sur ces matchs : Pafos 8 marqués, 10 encaissés ; FC Midtjylland 8 marqués, 9 encaissés.",
+    "es": "UEFA Conference League: Pafos recibe a FC Midtjylland. Forma reciente (últimos 5 partidos): Pafos 33 %, FC Midtjylland 47 %. Goles en esos partidos: Pafos 8 a favor, 10 en contra; FC Midtjylland 8 a favor, 9 en contra.",
+    "ar": "UEFA Conference League: يستضيف Pafos فريق FC Midtjylland. الأداء الأخير (آخر 5 مباريات): Pafos 33٪، FC Midtjylland 47٪. الأهداف في تلك المباريات: Pafos سجل 8 واستقبل 10؛ FC Midtjylland سجل 8 واستقبل 9."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 33,
+     "goalsFor": 8,
+     "goalsAgainst": 10
+    },
+    "away": {
+     "formPercent": 47,
+     "goalsFor": 8,
+     "goalsAgainst": 9
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636386",
+   "competition": {
+    "id": 848,
+    "name": "UEFA Conference League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T20:00:00Z",
+   "home": {
+    "id": 3364,
+    "name": "Borac Banja Luka",
+    "shortName": "BBL",
+    "logo": "https://media.api-sports.io/football/teams/3364.png"
+   },
+   "away": {
+    "id": 499,
+    "name": "Atalanta",
+    "shortName": "ATA",
+    "logo": "https://media.api-sports.io/football/teams/499.png"
+   },
+   "summary": {
+    "en": "UEFA Conference League: Borac Banja Luka host Atalanta. Recent form (last 5 matches): Borac Banja Luka 60%, Atalanta 53%. Goals over those matches: Borac Banja Luka 9 scored, 6 conceded; Atalanta 5 scored, 4 conceded.",
+    "fr": "UEFA Conference League : Borac Banja Luka reçoit Atalanta. Forme récente (5 derniers matchs) : Borac Banja Luka 60 %, Atalanta 53 %. Buts sur ces matchs : Borac Banja Luka 9 marqués, 6 encaissés ; Atalanta 5 marqués, 4 encaissés.",
+    "es": "UEFA Conference League: Borac Banja Luka recibe a Atalanta. Forma reciente (últimos 5 partidos): Borac Banja Luka 60 %, Atalanta 53 %. Goles en esos partidos: Borac Banja Luka 9 a favor, 6 en contra; Atalanta 5 a favor, 4 en contra.",
+    "ar": "UEFA Conference League: يستضيف Borac Banja Luka فريق Atalanta. الأداء الأخير (آخر 5 مباريات): Borac Banja Luka 60٪، Atalanta 53٪. الأهداف في تلك المباريات: Borac Banja Luka سجل 9 واستقبل 6؛ Atalanta سجل 5 واستقبل 4."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 60,
+     "goalsFor": 9,
+     "goalsAgainst": 6
+    },
+    "away": {
+     "formPercent": 53,
+     "goalsFor": 5,
+     "goalsAgainst": 4
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636389",
+   "competition": {
+    "id": 848,
+    "name": "UEFA Conference League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T20:00:00Z",
+   "home": {
+    "id": 217,
+    "name": "SC Braga",
+    "shortName": "BRA",
+    "logo": "https://media.api-sports.io/football/teams/217.png"
+   },
+   "away": {
+    "id": 1165,
+    "name": "KuPS",
+    "shortName": "KUP",
+    "logo": "https://media.api-sports.io/football/teams/1165.png"
+   },
+   "summary": {
+    "en": "UEFA Conference League: SC Braga host KuPS. Recent form (last 5 matches): SC Braga 53%, KuPS 33%. Goals over those matches: SC Braga 4 scored, 3 conceded; KuPS 4 scored, 7 conceded.",
+    "fr": "UEFA Conference League : SC Braga reçoit KuPS. Forme récente (5 derniers matchs) : SC Braga 53 %, KuPS 33 %. Buts sur ces matchs : SC Braga 4 marqués, 3 encaissés ; KuPS 4 marqués, 7 encaissés.",
+    "es": "UEFA Conference League: SC Braga recibe a KuPS. Forma reciente (últimos 5 partidos): SC Braga 53 %, KuPS 33 %. Goles en esos partidos: SC Braga 4 a favor, 3 en contra; KuPS 4 a favor, 7 en contra.",
+    "ar": "UEFA Conference League: يستضيف SC Braga فريق KuPS. الأداء الأخير (آخر 5 مباريات): SC Braga 53٪، KuPS 33٪. الأهداف في تلك المباريات: SC Braga سجل 4 واستقبل 3؛ KuPS سجل 4 واستقبل 7."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 53,
+     "goalsFor": 4,
+     "goalsAgainst": 3
+    },
+    "away": {
+     "formPercent": 33,
+     "goalsFor": 4,
+     "goalsAgainst": 7
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636402",
+   "competition": {
+    "id": 848,
+    "name": "UEFA Conference League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T20:00:00Z",
+   "home": {
+    "id": 853,
+    "name": "CSKA Sofia",
+    "shortName": "CS",
+    "logo": "https://media.api-sports.io/football/teams/853.png"
+   },
+   "away": {
+    "id": 998,
+    "name": "Trabzonspor",
+    "shortName": "TRA",
+    "logo": "https://media.api-sports.io/football/teams/998.png"
+   },
+   "summary": {
+    "en": "UEFA Conference League: CSKA Sofia host Trabzonspor. Recent form (last 5 matches): CSKA Sofia 11%, Trabzonspor 67%. Goals over those matches: CSKA Sofia 4 scored, 6 conceded; Trabzonspor 6 scored, 3 conceded.",
+    "fr": "UEFA Conference League : CSKA Sofia reçoit Trabzonspor. Forme récente (5 derniers matchs) : CSKA Sofia 11 %, Trabzonspor 67 %. Buts sur ces matchs : CSKA Sofia 4 marqués, 6 encaissés ; Trabzonspor 6 marqués, 3 encaissés.",
+    "es": "UEFA Conference League: CSKA Sofia recibe a Trabzonspor. Forma reciente (últimos 5 partidos): CSKA Sofia 11 %, Trabzonspor 67 %. Goles en esos partidos: CSKA Sofia 4 a favor, 6 en contra; Trabzonspor 6 a favor, 3 en contra.",
+    "ar": "UEFA Conference League: يستضيف CSKA Sofia فريق Trabzonspor. الأداء الأخير (آخر 5 مباريات): CSKA Sofia 11٪، Trabzonspor 67٪. الأهداف في تلك المباريات: CSKA Sofia سجل 4 واستقبل 6؛ Trabzonspor سجل 6 واستقبل 3."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 11,
+     "goalsFor": 4,
+     "goalsAgainst": 6
+    },
+    "away": {
+     "formPercent": 67,
+     "goalsFor": 6,
+     "goalsAgainst": 3
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636410",
+   "competition": {
+    "id": 848,
+    "name": "UEFA Conference League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T20:00:00Z",
+   "home": {
+    "id": 160,
+    "name": "SC Freiburg",
+    "shortName": "FRE",
+    "logo": "https://media.api-sports.io/football/teams/160.png"
+   },
+   "away": {
+    "id": 415,
+    "name": "Twente",
+    "shortName": "TWE",
+    "logo": "https://media.api-sports.io/football/teams/415.png"
+   },
+   "summary": {
+    "en": "UEFA Conference League: SC Freiburg host Twente. Recent form (last 5 matches): SC Freiburg 80%, Twente 80%. Goals over those matches: SC Freiburg 11 scored, 7 conceded; Twente 12 scored, 4 conceded.",
+    "fr": "UEFA Conference League : SC Freiburg reçoit Twente. Forme récente (5 derniers matchs) : SC Freiburg 80 %, Twente 80 %. Buts sur ces matchs : SC Freiburg 11 marqués, 7 encaissés ; Twente 12 marqués, 4 encaissés.",
+    "es": "UEFA Conference League: SC Freiburg recibe a Twente. Forma reciente (últimos 5 partidos): SC Freiburg 80 %, Twente 80 %. Goles en esos partidos: SC Freiburg 11 a favor, 7 en contra; Twente 12 a favor, 4 en contra.",
+    "ar": "UEFA Conference League: يستضيف SC Freiburg فريق Twente. الأداء الأخير (آخر 5 مباريات): SC Freiburg 80٪، Twente 80٪. الأهداف في تلك المباريات: SC Freiburg سجل 11 واستقبل 7؛ Twente سجل 12 واستقبل 4."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 80,
+     "goalsFor": 11,
+     "goalsAgainst": 7
+    },
+    "away": {
+     "formPercent": 80,
+     "goalsFor": 12,
+     "goalsAgainst": 4
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636412",
+   "competition": {
+    "id": 848,
+    "name": "UEFA Conference League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T20:00:00Z",
+   "home": {
+    "id": 631,
+    "name": "Gent",
+    "shortName": "GEN",
+    "logo": "https://media.api-sports.io/football/teams/631.png"
+   },
+   "away": {
+    "id": 598,
+    "name": "FK Crvena Zvezda",
+    "shortName": "CZ",
+    "logo": "https://media.api-sports.io/football/teams/598.png"
+   },
+   "summary": {
+    "en": "UEFA Conference League: Gent host FK Crvena Zvezda. Recent form (last 5 matches): Gent 53%, FK Crvena Zvezda 44%. Goals over those matches: Gent 4 scored, 4 conceded; FK Crvena Zvezda 6 scored, 6 conceded.",
+    "fr": "UEFA Conference League : Gent reçoit FK Crvena Zvezda. Forme récente (5 derniers matchs) : Gent 53 %, FK Crvena Zvezda 44 %. Buts sur ces matchs : Gent 4 marqués, 4 encaissés ; FK Crvena Zvezda 6 marqués, 6 encaissés.",
+    "es": "UEFA Conference League: Gent recibe a FK Crvena Zvezda. Forma reciente (últimos 5 partidos): Gent 53 %, FK Crvena Zvezda 44 %. Goles en esos partidos: Gent 4 a favor, 4 en contra; FK Crvena Zvezda 6 a favor, 6 en contra.",
+    "ar": "UEFA Conference League: يستضيف Gent فريق FK Crvena Zvezda. الأداء الأخير (آخر 5 مباريات): Gent 53٪، FK Crvena Zvezda 44٪. الأهداف في تلك المباريات: Gent سجل 4 واستقبل 4؛ FK Crvena Zvezda سجل 6 واستقبل 6."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 53,
+     "goalsFor": 4,
+     "goalsAgainst": 4
+    },
+    "away": {
+     "formPercent": 44,
+     "goalsFor": 6,
+     "goalsAgainst": 6
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636420",
+   "competition": {
+    "id": 848,
+    "name": "UEFA Conference League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T20:00:00Z",
+   "home": {
+    "id": 608,
+    "name": "HNK Hajduk Split",
+    "shortName": "HHS",
+    "logo": "https://media.api-sports.io/football/teams/608.png"
+   },
+   "away": {
+    "id": 735,
+    "name": "St. Truiden",
+    "shortName": "ST",
+    "logo": "https://media.api-sports.io/football/teams/735.png"
+   },
+   "summary": {
+    "en": "UEFA Conference League: HNK Hajduk Split host St. Truiden. Recent form (last 5 matches): HNK Hajduk Split 67%, St. Truiden 78%. Goals over those matches: HNK Hajduk Split 8 scored, 6 conceded; St. Truiden 4 scored, 1 conceded.",
+    "fr": "UEFA Conference League : HNK Hajduk Split reçoit St. Truiden. Forme récente (5 derniers matchs) : HNK Hajduk Split 67 %, St. Truiden 78 %. Buts sur ces matchs : HNK Hajduk Split 8 marqués, 6 encaissés ; St. Truiden 4 marqués, 1 encaissés.",
+    "es": "UEFA Conference League: HNK Hajduk Split recibe a St. Truiden. Forma reciente (últimos 5 partidos): HNK Hajduk Split 67 %, St. Truiden 78 %. Goles en esos partidos: HNK Hajduk Split 8 a favor, 6 en contra; St. Truiden 4 a favor, 1 en contra.",
+    "ar": "UEFA Conference League: يستضيف HNK Hajduk Split فريق St. Truiden. الأداء الأخير (آخر 5 مباريات): HNK Hajduk Split 67٪، St. Truiden 78٪. الأهداف في تلك المباريات: HNK Hajduk Split سجل 8 واستقبل 6؛ St. Truiden سجل 4 واستقبل 1."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 67,
+     "goalsFor": 8,
+     "goalsAgainst": 6
+    },
+    "away": {
+     "formPercent": 78,
+     "goalsFor": 4,
+     "goalsAgainst": 1
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636428",
+   "competition": {
+    "id": 848,
+    "name": "UEFA Conference League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T20:00:00Z",
+   "home": {
+    "id": 3342,
+    "name": "Inter Club d'Escaldes",
+    "shortName": "ID",
+    "logo": "https://media.api-sports.io/football/teams/3342.png"
+   },
+   "away": {
+    "id": 400,
+    "name": "FC Copenhagen",
+    "shortName": "COP",
+    "logo": "https://media.api-sports.io/football/teams/400.png"
+   },
+   "summary": {
+    "en": "UEFA Conference League: Inter Club d'Escaldes host FC Copenhagen. Recent form (last 5 matches): Inter Club d'Escaldes 27%, FC Copenhagen 73%. Goals over those matches: Inter Club d'Escaldes 5 scored, 9 conceded; FC Copenhagen 11 scored, 4 conceded.",
+    "fr": "UEFA Conference League : Inter Club d'Escaldes reçoit FC Copenhagen. Forme récente (5 derniers matchs) : Inter Club d'Escaldes 27 %, FC Copenhagen 73 %. Buts sur ces matchs : Inter Club d'Escaldes 5 marqués, 9 encaissés ; FC Copenhagen 11 marqués, 4 encaissés.",
+    "es": "UEFA Conference League: Inter Club d'Escaldes recibe a FC Copenhagen. Forma reciente (últimos 5 partidos): Inter Club d'Escaldes 27 %, FC Copenhagen 73 %. Goles en esos partidos: Inter Club d'Escaldes 5 a favor, 9 en contra; FC Copenhagen 11 a favor, 4 en contra.",
+    "ar": "UEFA Conference League: يستضيف Inter Club d'Escaldes فريق FC Copenhagen. الأداء الأخير (آخر 5 مباريات): Inter Club d'Escaldes 27٪، FC Copenhagen 73٪. الأهداف في تلك المباريات: Inter Club d'Escaldes سجل 5 واستقبل 9؛ FC Copenhagen سجل 11 واستقبل 4."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 27,
+     "goalsFor": 5,
+     "goalsAgainst": 9
+    },
+    "away": {
+     "formPercent": 73,
+     "goalsFor": 11,
+     "goalsAgainst": 4
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1636457",
+   "competition": {
+    "id": 848,
+    "name": "UEFA Conference League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T20:00:00Z",
+   "home": {
+    "id": 398,
+    "name": "FC Nordsjaelland",
+    "shortName": "NOR",
+    "logo": "https://media.api-sports.io/football/teams/398.png"
+   },
+   "away": {
+    "id": 617,
+    "name": "Panathinaikos",
+    "shortName": "PAN",
+    "logo": "https://media.api-sports.io/football/teams/617.png"
+   },
+   "summary": {
+    "en": "UEFA Conference League: FC Nordsjaelland host Panathinaikos. Recent form (last 5 matches): FC Nordsjaelland 53%, Panathinaikos 87%. Goals over those matches: FC Nordsjaelland 7 scored, 7 conceded; Panathinaikos 13 scored, 6 conceded.",
+    "fr": "UEFA Conference League : FC Nordsjaelland reçoit Panathinaikos. Forme récente (5 derniers matchs) : FC Nordsjaelland 53 %, Panathinaikos 87 %. Buts sur ces matchs : FC Nordsjaelland 7 marqués, 7 encaissés ; Panathinaikos 13 marqués, 6 encaissés.",
+    "es": "UEFA Conference League: FC Nordsjaelland recibe a Panathinaikos. Forma reciente (últimos 5 partidos): FC Nordsjaelland 53 %, Panathinaikos 87 %. Goles en esos partidos: FC Nordsjaelland 7 a favor, 7 en contra; Panathinaikos 13 a favor, 6 en contra.",
+    "ar": "UEFA Conference League: يستضيف FC Nordsjaelland فريق Panathinaikos. الأداء الأخير (آخر 5 مباريات): FC Nordsjaelland 53٪، Panathinaikos 87٪. الأهداف في تلك المباريات: FC Nordsjaelland سجل 7 واستقبل 7؛ Panathinaikos سجل 13 واستقبل 6."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 53,
+     "goalsFor": 7,
+     "goalsAgainst": 7
+    },
+    "away": {
+     "formPercent": 87,
+     "goalsFor": 13,
+     "goalsAgainst": 6
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
    "analysis": null
   },
   {
@@ -215,7 +1763,265 @@
    },
    "homeLast": [],
    "awayLast": [],
-   "analysisCandidate": true,
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1630414",
+   "competition": {
+    "id": 18,
+    "name": "AFC Champions League Two",
+    "priority": 4
+   },
+   "kickoff": "2026-11-26T10:00:00Z",
+   "home": {
+    "id": 2746,
+    "name": "Gangwon FC",
+    "shortName": "GAN",
+    "logo": "https://media.api-sports.io/football/teams/2746.png"
+   },
+   "away": {
+    "id": 4453,
+    "name": "Kitchee",
+    "shortName": "KIT",
+    "logo": "https://media.api-sports.io/football/teams/4453.png"
+   },
+   "summary": {
+    "en": "AFC Champions League Two: Gangwon FC host Kitchee. Recent form (last 5 matches): Gangwon FC 33%, Kitchee 42%. Goals over those matches: Gangwon FC 2 scored, 4 conceded; Kitchee 3 scored, 4 conceded.",
+    "fr": "AFC Champions League Two : Gangwon FC reçoit Kitchee. Forme récente (5 derniers matchs) : Gangwon FC 33 %, Kitchee 42 %. Buts sur ces matchs : Gangwon FC 2 marqués, 4 encaissés ; Kitchee 3 marqués, 4 encaissés.",
+    "es": "AFC Champions League Two: Gangwon FC recibe a Kitchee. Forma reciente (últimos 5 partidos): Gangwon FC 33 %, Kitchee 42 %. Goles en esos partidos: Gangwon FC 2 a favor, 4 en contra; Kitchee 3 a favor, 4 en contra.",
+    "ar": "AFC Champions League Two: يستضيف Gangwon FC فريق Kitchee. الأداء الأخير (آخر 5 مباريات): Gangwon FC 33٪، Kitchee 42٪. الأهداف في تلك المباريات: Gangwon FC سجل 2 واستقبل 4؛ Kitchee سجل 3 واستقبل 4."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 33,
+     "goalsFor": 2,
+     "goalsAgainst": 4
+    },
+    "away": {
+     "formPercent": 42,
+     "goalsFor": 3,
+     "goalsAgainst": 4
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1630415",
+   "competition": {
+    "id": 18,
+    "name": "AFC Champions League Two",
+    "priority": 4
+   },
+   "kickoff": "2026-11-26T10:00:00Z",
+   "home": {
+    "id": 10108,
+    "name": "Kuching FA",
+    "shortName": "KF",
+    "logo": "https://media.api-sports.io/football/teams/10108.png"
+   },
+   "away": {
+    "id": 5394,
+    "name": "Phnom Penh Crown",
+    "shortName": "PPC",
+    "logo": "https://media.api-sports.io/football/teams/5394.png"
+   },
+   "summary": {
+    "en": "AFC Champions League Two: Kuching FA host Phnom Penh Crown. Recent form (last 5 matches): Kuching FA 33%, Phnom Penh Crown 75%. Goals over those matches: Kuching FA 4 scored, 4 conceded; Phnom Penh Crown 7 scored, 4 conceded.",
+    "fr": "AFC Champions League Two : Kuching FA reçoit Phnom Penh Crown. Forme récente (5 derniers matchs) : Kuching FA 33 %, Phnom Penh Crown 75 %. Buts sur ces matchs : Kuching FA 4 marqués, 4 encaissés ; Phnom Penh Crown 7 marqués, 4 encaissés.",
+    "es": "AFC Champions League Two: Kuching FA recibe a Phnom Penh Crown. Forma reciente (últimos 5 partidos): Kuching FA 33 %, Phnom Penh Crown 75 %. Goles en esos partidos: Kuching FA 4 a favor, 4 en contra; Phnom Penh Crown 7 a favor, 4 en contra.",
+    "ar": "AFC Champions League Two: يستضيف Kuching FA فريق Phnom Penh Crown. الأداء الأخير (آخر 5 مباريات): Kuching FA 33٪، Phnom Penh Crown 75٪. الأهداف في تلك المباريات: Kuching FA سجل 4 واستقبل 4؛ Phnom Penh Crown سجل 7 واستقبل 4."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 33,
+     "goalsFor": 4,
+     "goalsAgainst": 4
+    },
+    "away": {
+     "formPercent": 75,
+     "goalsFor": 7,
+     "goalsAgainst": 4
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1630416",
+   "competition": {
+    "id": 18,
+    "name": "AFC Champions League Two",
+    "priority": 4
+   },
+   "kickoff": "2026-11-26T10:00:00Z",
+   "home": {
+    "id": 4206,
+    "name": "Tampines Rovers",
+    "shortName": "TR",
+    "logo": "https://media.api-sports.io/football/teams/4206.png"
+   },
+   "away": {
+    "id": 833,
+    "name": "Shanghai Shenhua",
+    "shortName": "SS",
+    "logo": "https://media.api-sports.io/football/teams/833.png"
+   },
+   "summary": {
+    "en": "AFC Champions League Two: Tampines Rovers host Shanghai Shenhua. Recent form (last 5 matches): Tampines Rovers 0%, Shanghai Shenhua 33%. Goals over those matches: Tampines Rovers 2 scored, 10 conceded; Shanghai Shenhua 3 scored, 4 conceded.",
+    "fr": "AFC Champions League Two : Tampines Rovers reçoit Shanghai Shenhua. Forme récente (5 derniers matchs) : Tampines Rovers 0 %, Shanghai Shenhua 33 %. Buts sur ces matchs : Tampines Rovers 2 marqués, 10 encaissés ; Shanghai Shenhua 3 marqués, 4 encaissés.",
+    "es": "AFC Champions League Two: Tampines Rovers recibe a Shanghai Shenhua. Forma reciente (últimos 5 partidos): Tampines Rovers 0 %, Shanghai Shenhua 33 %. Goles en esos partidos: Tampines Rovers 2 a favor, 10 en contra; Shanghai Shenhua 3 a favor, 4 en contra.",
+    "ar": "AFC Champions League Two: يستضيف Tampines Rovers فريق Shanghai Shenhua. الأداء الأخير (آخر 5 مباريات): Tampines Rovers 0٪، Shanghai Shenhua 33٪. الأهداف في تلك المباريات: Tampines Rovers سجل 2 واستقبل 10؛ Shanghai Shenhua سجل 3 واستقبل 4."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 0,
+     "goalsFor": 2,
+     "goalsAgainst": 10
+    },
+    "away": {
+     "formPercent": 33,
+     "goalsFor": 3,
+     "goalsAgainst": 4
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1630417",
+   "competition": {
+    "id": 18,
+    "name": "AFC Champions League Two",
+    "priority": 4
+   },
+   "kickoff": "2026-11-26T12:15:00Z",
+   "home": {
+    "id": 2769,
+    "name": "BG Pathum United",
+    "shortName": "BPU",
+    "logo": "https://media.api-sports.io/football/teams/2769.png"
+   },
+   "away": {
+    "id": 4204,
+    "name": "Home United",
+    "shortName": "HU",
+    "logo": "https://media.api-sports.io/football/teams/4204.png"
+   },
+   "summary": {
+    "en": "AFC Champions League Two: BG Pathum United host Home United. Recent form (last 5 matches): BG Pathum United 58%, Home United 83%. Goals over those matches: BG Pathum United 9 scored, 4 conceded; Home United 9 scored, 1 conceded.",
+    "fr": "AFC Champions League Two : BG Pathum United reçoit Home United. Forme récente (5 derniers matchs) : BG Pathum United 58 %, Home United 83 %. Buts sur ces matchs : BG Pathum United 9 marqués, 4 encaissés ; Home United 9 marqués, 1 encaissés.",
+    "es": "AFC Champions League Two: BG Pathum United recibe a Home United. Forma reciente (últimos 5 partidos): BG Pathum United 58 %, Home United 83 %. Goles en esos partidos: BG Pathum United 9 a favor, 4 en contra; Home United 9 a favor, 1 en contra.",
+    "ar": "AFC Champions League Two: يستضيف BG Pathum United فريق Home United. الأداء الأخير (آخر 5 مباريات): BG Pathum United 58٪، Home United 83٪. الأهداف في تلك المباريات: BG Pathum United سجل 9 واستقبل 4؛ Home United سجل 9 واستقبل 1."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 58,
+     "goalsFor": 9,
+     "goalsAgainst": 4
+    },
+    "away": {
+     "formPercent": 83,
+     "goalsFor": 9,
+     "goalsAgainst": 1
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1630418",
+   "competition": {
+    "id": 18,
+    "name": "AFC Champions League Two",
+    "priority": 4
+   },
+   "kickoff": "2026-11-26T12:15:00Z",
+   "home": {
+    "id": 5396,
+    "name": "Svay Rieng",
+    "shortName": "SR",
+    "logo": "https://media.api-sports.io/football/teams/5396.png"
+   },
+   "away": {
+    "id": 303,
+    "name": "Machida Zelvia",
+    "shortName": "MZ",
+    "logo": "https://media.api-sports.io/football/teams/303.png"
+   },
+   "summary": {
+    "en": "AFC Champions League Two: Svay Rieng host Machida Zelvia. Recent form (last 5 matches): Svay Rieng 58%, Machida Zelvia 100%. Goals over those matches: Svay Rieng 7 scored, 3 conceded; Machida Zelvia 6 scored, 1 conceded.",
+    "fr": "AFC Champions League Two : Svay Rieng reçoit Machida Zelvia. Forme récente (5 derniers matchs) : Svay Rieng 58 %, Machida Zelvia 100 %. Buts sur ces matchs : Svay Rieng 7 marqués, 3 encaissés ; Machida Zelvia 6 marqués, 1 encaissés.",
+    "es": "AFC Champions League Two: Svay Rieng recibe a Machida Zelvia. Forma reciente (últimos 5 partidos): Svay Rieng 58 %, Machida Zelvia 100 %. Goles en esos partidos: Svay Rieng 7 a favor, 3 en contra; Machida Zelvia 6 a favor, 1 en contra.",
+    "ar": "AFC Champions League Two: يستضيف Svay Rieng فريق Machida Zelvia. الأداء الأخير (آخر 5 مباريات): Svay Rieng 58٪، Machida Zelvia 100٪. الأهداف في تلك المباريات: Svay Rieng سجل 7 واستقبل 3؛ Machida Zelvia سجل 6 واستقبل 1."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 58,
+     "goalsFor": 7,
+     "goalsAgainst": 3
+    },
+    "away": {
+     "formPercent": 100,
+     "goalsFor": 6,
+     "goalsAgainst": 1
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1630419",
+   "competition": {
+    "id": 18,
+    "name": "AFC Champions League Two",
+    "priority": 4
+   },
+   "kickoff": "2026-11-26T12:15:00Z",
+   "home": {
+    "id": 4457,
+    "name": "Wofoo Tai Po",
+    "shortName": "WTP",
+    "logo": "https://media.api-sports.io/football/teams/4457.png"
+   },
+   "away": {
+    "id": 948,
+    "name": "Adelaide United",
+    "shortName": "AU",
+    "logo": "https://media.api-sports.io/football/teams/948.png"
+   },
+   "summary": {
+    "en": "AFC Champions League Two: Wofoo Tai Po host Adelaide United. Recent form (last 5 matches): Wofoo Tai Po 0%, Adelaide United 50%. Goals over those matches: Wofoo Tai Po 1 scored, 11 conceded; Adelaide United 5 scored, 8 conceded.",
+    "fr": "AFC Champions League Two : Wofoo Tai Po reçoit Adelaide United. Forme récente (5 derniers matchs) : Wofoo Tai Po 0 %, Adelaide United 50 %. Buts sur ces matchs : Wofoo Tai Po 1 marqués, 11 encaissés ; Adelaide United 5 marqués, 8 encaissés.",
+    "es": "AFC Champions League Two: Wofoo Tai Po recibe a Adelaide United. Forma reciente (últimos 5 partidos): Wofoo Tai Po 0 %, Adelaide United 50 %. Goles en esos partidos: Wofoo Tai Po 1 a favor, 11 en contra; Adelaide United 5 a favor, 8 en contra.",
+    "ar": "AFC Champions League Two: يستضيف Wofoo Tai Po فريق Adelaide United. الأداء الأخير (آخر 5 مباريات): Wofoo Tai Po 0٪، Adelaide United 50٪. الأهداف في تلك المباريات: Wofoo Tai Po سجل 1 واستقبل 11؛ Adelaide United سجل 5 واستقبل 8."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 0,
+     "goalsFor": 1,
+     "goalsAgainst": 11
+    },
+    "away": {
+     "formPercent": 50,
+     "goalsFor": 5,
+     "goalsAgainst": 8
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
    "analysis": null
   }
  ]
