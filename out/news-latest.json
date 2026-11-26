@@ -1,138 +1,121 @@
 {
  "version": 1,
- "date": "2026-11-25",
+ "date": "2026-11-26",
  "news": [
   {
    "title": {
-    "en": "PSG drop first Champions League points in 2-2 draw with Roma",
-    "fr": "Le PSG perd ses premiers points en Ligue des champions face à la Roma (2-2)",
-    "es": "El PSG pierde sus primeros puntos en la Champions con un 2-2 ante la Roma",
-    "ar": "باريس سان جيرمان يفقد أولى نقاطه في دوري الأبطال بالتعادل 2-2 مع روما"
+    "en": "Lille beat Bayern 2-1 in the Champions League",
+    "fr": "Lille renverse le Bayern 2-1 en Ligue des champions",
+    "es": "El Lille remonta y vence 2-1 al Bayern en la Champions",
+    "ar": "ليل يقلب الطاولة على بايرن 2-1 في دوري الأبطال"
    },
    "summary": {
-    "en": "Paris Saint-Germain were caught out early by Roma before reacting and drawing 2-2 at home. Ousmane Dembélé scored from the penalty spot.",
-    "fr": "Le Paris Saint-Germain a été surpris d'entrée par la Roma avant de réagir et d'arracher le nul (2-2) à domicile. Ousmane Dembélé a marqué sur penalty.",
-    "es": "El Paris Saint-Germain fue sorprendido pronto por la Roma, pero reaccionó y empató 2-2 en casa. Ousmane Dembélé marcó de penalti.",
-    "ar": "تفاجأ باريس سان جيرمان مبكرا أمام روما ثم رد وتعادل 2-2 على أرضه. وسجل عثمان ديمبيلي من ركلة جزاء."
-   },
-   "sourceName": "RMC Sport",
-   "url": "https://rmcsport.bfmtv.com/football/ligue-des-champions/direct-psg-as-roma-suivez-le-match-de-la-cinquieme-journee-de-ligue-des-champions-en-live_LS-202611250372.html",
-   "publishedAt": "2026-11-25T21:59:05Z"
-  },
-  {
-   "title": {
-    "en": "Lille beat Bayern Munich 2-1 in the Champions League",
-    "fr": "Lille bat le Bayern Munich (2-1) en Ligue des champions",
-    "es": "El Lille vence 2-1 al Bayern de Múnich en la Champions",
-    "ar": "ليل يفوز على بايرن ميونخ 2-1 في دوري الأبطال"
-   },
-   "summary": {
-    "en": "Trailing at the break, Lille turned the game around in the second half to win 2-1 on matchday 5. It is their first win of the season in the competition and keeps their qualification hopes alive.",
-    "fr": "Menés, les Lillois ont renversé la situation en seconde période pour s'imposer 2-1 lors de la 5e journée. C'est leur première victoire de la saison en C1, qui maintient l'espoir de qualification.",
-    "es": "Por detrás en el marcador, el Lille remontó en la segunda parte y ganó 2-1 en la jornada 5. Es su primera victoria de la temporada en la competición y mantiene viva la esperanza de clasificación.",
-    "ar": "كان ليل متأخرا ثم قلب النتيجة في الشوط الثاني وفاز 2-1 في الجولة الخامسة. إنه فوزه الأول هذا الموسم في البطولة ويُبقي آماله في التأهل قائمة."
-   },
-   "sourceName": "L'Équipe",
-   "url": "https://www.lequipe.fr/Football/Actualites/Renversant-lille-cree-l-exploit-face-au-bayern-et-garde-espoir-en-ligue-des-champions/1746207#at_medium=RSS_feeds",
-   "publishedAt": "2026-11-25T21:52:37Z"
-  },
-  {
-   "title": {
-    "en": "Atlético Madrid beat Viking 2-0 in the Champions League",
-    "fr": "L'Atlético de Madrid bat Viking (2-0) en Ligue des champions",
-    "es": "El Atlético de Madrid vence 2-0 al Viking en la Champions",
-    "ar": "أتلتيكو مدريد يتغلب على فايكنغ 2-0 في دوري الأبطال"
-   },
-   "summary": {
-    "en": "Sørloth and Julián both found the net in a comfortable 2-0 win for Atlético, which improves their position in the standings. The Norwegian striker went off injured.",
-    "fr": "Sørloth et Julián ont tous deux marqué lors d'une victoire aisée de l'Atlético (2-0), qui améliore sa position au classement. L'attaquant norvégien est sorti touché.",
-    "es": "Sørloth y Julián marcaron en una cómoda victoria del Atlético por 2-0, que mejora su posición en la clasificación. El delantero noruego se marchó tocado.",
-    "ar": "سجل سورلوث وخوليان في فوز مريح لأتلتيكو 2-0 حسّن موقعه في الترتيب. وغادر المهاجم النرويجي الملعب متأثرا بإصابة."
-   },
-   "sourceName": "AS",
-   "url": "https://as.com/futbol/champions/atletico-viking-en-directo-ultima-hora-de-la-fase-liga-de-la-champions-league-hoy-en-vivo-f202611-d/",
-   "publishedAt": "2026-11-25T22:02:09Z"
-  },
-  {
-   "title": {
-    "en": "Barcelona beat Sabah 4-1 as Gordon scores twice",
-    "fr": "Barcelone s'impose 4-1 à Sabah, avec un doublé de Gordon",
-    "es": "El Barcelona gana 4-1 al Sabah con doblete de Gordon",
-    "ar": "برشلونة يفوز على صباح 4-1 مع ثنائية لغوردون"
-   },
-   "summary": {
-    "en": "Anthony Gordon scored twice as Barcelona won 4-1 in Azerbaijan in the Champions League. Lamine Yamal was left out of the squad with an ankle injury.",
-    "fr": "Anthony Gordon a inscrit deux buts dans la victoire 4-1 de Barcelone en Azerbaïdjan en Ligue des champions. Lamine Yamal était absent du groupe en raison d'une blessure à la cheville.",
-    "es": "Anthony Gordon marcó dos goles en la victoria 4-1 del Barcelona en Azerbaiyán en la Champions. Lamine Yamal quedó fuera de la convocatoria por una lesión de tobillo.",
-    "ar": "سجل أنتوني غوردون هدفين في فوز برشلونة 4-1 في أذربيجان بدوري الأبطال. وغاب لامين يامال عن القائمة بسبب إصابة في الكاحل."
+    "en": "Bayern Munich suffered their first defeat of the season at Lille, losing 2-1 after Upamecano had opened the scoring. Elsewhere on the night, Barcelona won 4-1 at Sabah and Roma drew 2-2 at PSG.",
+    "fr": "Le Bayern Munich a subi sa première défaite de la saison à Lille (2-1), après l'ouverture du score de Upamecano. Le même soir, le Barça s'est imposé 4-1 à Sabah et la Roma a fait match nul 2-2 au PSG.",
+    "es": "El Bayern de Múnich sufrió su primera derrota de la temporada en Lille (2-1), tras adelantarse con un gol de Upamecano. Esa misma noche, el Barcelona ganó 4-1 en Sabah y la Roma empató 2-2 en París ante el PSG.",
+    "ar": "تلقى بايرن ميونخ أول هزيمة له هذا الموسم أمام ليل (2-1) بعد أن افتتح أوباميكانو التسجيل. وفي الليلة نفسها فاز برشلونة 4-1 على صباح وتعادلت روما 2-2 مع باريس سان جيرمان."
    },
    "sourceName": "The Guardian",
    "url": "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
-   "publishedAt": "2026-11-25T20:16:42Z"
+   "publishedAt": "2026-11-25T22:38:19Z"
   },
   {
    "title": {
-    "en": "Inter beat Stuttgart and move close to the top eight",
-    "fr": "L'Inter bat Stuttgart et se rapproche du top 8",
-    "es": "El Inter gana al Stuttgart y se acerca al top 8",
-    "ar": "إنتر يتغلب على شتوتغارت ويقترب من المراكز الثمانية الأولى"
+    "en": "PSG held 2-2 by Roma on Champions League matchday 5",
+    "fr": "Le PSG accroché 2-2 par la Roma lors de la 5e journée de LdC",
+    "es": "El PSG empata 2-2 con la Roma en la jornada 5 de la Champions",
+    "ar": "باريس سان جيرمان يتعادل 2-2 مع روما في الجولة الخامسة"
    },
    "summary": {
-    "en": "Inter beat Stuttgart at San Siro, their third straight win in the league phase. They are now one point away from the top eight.",
-    "fr": "L'Inter s'est imposé face à Stuttgart à San Siro, sa troisième victoire de suite en phase de ligue. Il se retrouve à un point du top 8.",
-    "es": "El Inter se impuso al Stuttgart en San Siro, su tercera victoria seguida en la fase liga. Queda a un punto del top 8.",
-    "ar": "فاز إنتر على شتوتغارت في سان سيرو، وهو انتصاره الثالث تواليا في مرحلة الدوري. وصار على بعد نقطة واحدة من المراكز الثمانية الأولى."
+    "en": "PSG dropped their first points of the season by drawing 2-2 at home with Roma. Lens lost at Leipzig, while Inter, Liverpool, Real Madrid and Barcelona all won.",
+    "fr": "Le PSG a perdu ses premiers points de la saison en concédant le nul 2-2 à domicile face à la Roma. Lens s'est incliné à Leipzig, tandis que l'Inter, Liverpool, le Real Madrid et le Barça ont gagné.",
+    "es": "El PSG perdió sus primeros puntos de la temporada al empatar 2-2 en casa ante la Roma. El Lens cayó en Leipzig, mientras que Inter, Liverpool, Real Madrid y Barcelona ganaron.",
+    "ar": "فقد باريس سان جيرمان أولى نقاطه هذا الموسم بالتعادل 2-2 على أرضه أمام روما. وخسر لانس في لايبزيغ، بينما فاز إنتر وليفربول وريال مدريد وبرشلونة."
    },
-   "sourceName": "Mundo Deportivo",
-   "url": "https://www.mundodeportivo.com/futbol/champions-league/20261125/1004255562/inter-stuttgart.html",
-   "publishedAt": "2026-11-25T21:56:22Z"
+   "sourceName": "RMC Sport",
+   "url": "https://rmcsport.bfmtv.com/football/ligue-des-champions/video-ligue-des-champions-le-psg-accroche-lille-renversant-les-resultats-de-la-j5-et-les-classements_VN-202611260442.html",
+   "publishedAt": "2026-11-26T09:01:41Z"
   },
   {
    "title": {
-    "en": "Muriqi helps Fenerbahçe to a key win over Shakhtar",
-    "fr": "Muriqi permet à Fenerbahçe de battre le Shakhtar",
-    "es": "Muriqi guía la victoria del Fenerbahçe ante el Shakhtar",
-    "ar": "موريقي يقود فنربخشة للفوز على شاختار"
+    "en": "Liverpool beat Club Brugge with goals from Isak and Wirtz",
+    "fr": "Liverpool s'impose à Bruges grâce à Isak et Wirtz",
+    "es": "El Liverpool vence al Brujas con goles de Isak y Wirtz",
+    "ar": "ليفربول يتغلب على كلوب بروج بهدفي إيزاك وفيرتز"
    },
    "summary": {
-    "en": "Kosovan striker Muriqi, after having a goal disallowed, gave Fenerbahçe a key win over Shakhtar. It is Shakhtar's third straight Champions League defeat.",
-    "fr": "L'attaquant kosovar Muriqi, après un but refusé, a offert à Fenerbahçe une victoire importante face au Shakhtar, qui enchaîne une troisième défaite de suite en Ligue des champions.",
-    "es": "El delantero kosovar Muriqi, tras un gol anulado, dio al Fenerbahçe una victoria clave ante el Shakhtar, que encadena su tercera derrota seguida en la Champions.",
-    "ar": "بعد إلغاء هدف له، منح المهاجم الكوسوفي موريقي فنربخشة فوزا مهما على شاختار، الذي تلقى هزيمته الثالثة تواليا في دوري الأبطال."
+    "en": "Liverpool put in an accomplished away display in Belgium to halt Club Brugge's run, with Isak and Wirtz on target. The win moves them closer to automatic qualification from the league phase.",
+    "fr": "Liverpool a livré une prestation maîtrisée en Belgique pour stopper la série du Club Bruges, avec des buts d'Isak et de Wirtz. Cette victoire le rapproche de la qualification directe à l'issue de la phase de ligue.",
+    "es": "El Liverpool completó una actuación sólida en Bélgica para frenar la racha del Brujas, con goles de Isak y Wirtz. La victoria le acerca a la clasificación directa desde la fase de liga.",
+    "ar": "قدم ليفربول أداءً متقناً خارج ملعبه في بلجيكا ليوقف سلسلة كلوب بروج، بتسجيل إيزاك وفيرتز. ويقترب الفوز من التأهل المباشر من مرحلة الدوري."
    },
-   "sourceName": "AS",
-   "url": "https://as.com/futbol/champions/muriqi-no-perdona-dos-veces-f202611-n/",
-   "publishedAt": "2026-11-25T21:58:43Z"
+   "sourceName": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/25/club-brugge-liverpool-champions-league-match-report",
+   "publishedAt": "2026-11-25T22:04:10Z"
   },
   {
    "title": {
-    "en": "Amrabat calls continuation of Morocco-Senegal dispute 'unacceptable'",
-    "fr": "Amrabat juge « inacceptable » que le litige Maroc-Sénégal se poursuive",
-    "es": "Amrabat considera «inaceptable» que siga la disputa Marruecos-Senegal",
-    "ar": "أمرابط يعتبر استمرار الجدل بين المغرب والسنغال «غير مقبول»"
+    "en": "Pochettino says officials 'punished' Manchester United against Sporting",
+    "fr": "Pochettino : les arbitres ont « puni » Manchester United à Sporting",
+    "es": "Pochettino dice que los árbitros 'castigaron' al United ante el Sporting",
+    "ar": "بوكيتينو: الحكام «عاقبوا» مانشستر يونايتد أمام سبورتينغ"
    },
    "summary": {
-    "en": "Moroccan midfielder Sofyan Amrabat reacted to the Court of Arbitration for Sport ruling that gave the 2025 AFCON title to Senegal. He regrets a decision he says harms the image of the tournament.",
-    "fr": "Le milieu marocain Sofyan Amrabat a réagi au verdict du Tribunal arbitral du sport qui a réattribué le titre de la CAN 2025 au Sénégal. Il regrette une décision qui, selon lui, nuit à l'image du tournoi.",
-    "es": "El centrocampista marroquí Sofyan Amrabat reaccionó al fallo del Tribunal de Arbitraje Deportivo que otorgó al Senegal el título de la CAN 2025. Lamenta una decisión que, según él, perjudica la imagen del torneo.",
-    "ar": "علّق لاعب الوسط المغربي سفيان أمرابط على قرار محكمة التحكيم الرياضي الذي منح السنغال لقب كأس أمم أفريقيا 2025. وأعرب عن أسفه لقرار يرى أنه يضر بصورة البطولة."
+    "en": "After the 2-2 draw at Sporting, United head coach Mauricio Pochettino said some decisions were difficult to understand and that his side were unfairly punished. Zirkzee also offered his support to Lammens.",
+    "fr": "Après le match nul 2-2 à Sporting, l'entraîneur de United Mauricio Pochettino a jugé certaines décisions difficiles à comprendre et estimé que son équipe avait été injustement punie. Zirkzee a aussi apporté son soutien à Lammens.",
+    "es": "Tras el empate 2-2 en casa del Sporting, el técnico del United, Mauricio Pochettino, dijo que algunas decisiones eran difíciles de entender y que su equipo fue castigado injustamente. Zirkzee también mostró su apoyo a Lammens.",
+    "ar": "بعد التعادل 2-2 مع سبورتينغ، قال مدرب يونايتد ماوريسيو بوكيتينو إن بعض القرارات يصعب فهمها وإن فريقه عوقب بشكل غير عادل. كما عبّر زيركزي عن دعمه للحارس لامنس."
    },
-   "sourceName": "Hespress FR",
-   "url": "https://fr.hespress.com/497949-can-2025-sofyan-amrabat-juge-inacceptable-que-le-litige-maroc-senegal-se-poursuive.html",
-   "publishedAt": "2026-11-25T21:57:55Z"
+   "sourceName": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/25/mauricio-pochettino-officials-punished-manchester-united-sporting",
+   "publishedAt": "2026-11-26T09:00:56Z"
+  },
+  {
+   "title": {
+    "en": "Kimmich criticises Bayern's communication over Musiala",
+    "fr": "Kimmich critique la communication du Bayern sur Musiala",
+    "es": "Kimmich critica la comunicación del Bayern sobre Musiala",
+    "ar": "كيميتش ينتقد تواصل بايرن بشأن موسيالا"
+   },
+   "summary": {
+    "en": "Joshua Kimmich called his club's communication about Jamal Musiala's health 'totally unacceptable', while acknowledging that the situation is difficult for Bayern.",
+    "fr": "Joshua Kimmich a jugé « totalement inacceptable » la communication de son club sur l'état de santé de Jamal Musiala, tout en reconnaissant la difficulté de la situation pour le Bayern.",
+    "es": "Joshua Kimmich calificó de «totalmente inaceptable» la comunicación de su club sobre el estado de salud de Jamal Musiala, aunque reconoce que la situación es difícil para el Bayern.",
+    "ar": "وصف جوشوا كيميتش تواصل ناديه بشأن الحالة الصحية لجمال موسيالا بأنه «غير مقبول إطلاقاً»، مع إقراره بصعوبة الوضع على بايرن."
+   },
+   "sourceName": "L'Équipe",
+   "url": "https://www.lequipe.fr/Football/Actualites/-totalement-inacceptable-et-indigne-du-bayern-munich-joshua-kimmich-tacle-la-communication-de-son-club-au-sujet-de-jamal-musiala/1746274#at_medium=RSS_feeds",
+   "publishedAt": "2026-11-26T08:49:37Z"
+  },
+  {
+   "title": {
+    "en": "Stoke win again and go level with Middlesbrough in the Championship",
+    "fr": "Stoke s'impose encore et rejoint Middlesbrough en Championship",
+    "es": "El Stoke vuelve a ganar y se iguala con el Middlesbrough en la Championship",
+    "ar": "ستوك يفوز مجدداً ويعادل ميدلزبره في التشامبيونشيب"
+   },
+   "summary": {
+    "en": "George Hirst scored both goals as Stoke beat Millwall 2-1 for a fifth straight Championship win, putting them level on points with leaders Middlesbrough. Burnley's winless home run extended to 24 matches.",
+    "fr": "George Hirst a marqué les deux buts de Stoke, vainqueur 2-1 de Millwall pour une cinquième victoire de rang en Championship, à égalité de points avec Middlesbrough en tête. La série sans victoire de Burnley à domicile atteint 24 matchs.",
+    "es": "George Hirst marcó los dos goles del Stoke, que ganó 2-1 al Millwall su quinta victoria seguida en la Championship y se igualó a puntos con el líder Middlesbrough. La racha sin ganar del Burnley en casa llega a 24 partidos.",
+    "ar": "سجل جورج هيرست هدفي ستوك في الفوز 2-1 على ميلوول، وهو الانتصار الخامس تواليًا في التشامبيونشيب، ليعادل ستوك ميدلزبره المتصدر في النقاط. وامتدت سلسلة بيرنلي دون فوز على أرضه إلى 24 مباراة."
+   },
+   "sourceName": "The Guardian",
+   "url": "https://www.theguardian.com/football/2026/nov/25/championship-roundup-stoke-millwall-burnley-home-record-birmingham",
+   "publishedAt": "2026-11-25T22:55:48Z"
   },
   {
    "title": {
     "en": "Morocco fall to 7th in the FIFA ranking after the CAS decision",
     "fr": "Classement FIFA : le Maroc recule à la 7e place après la décision du TAS",
     "es": "Marruecos cae al 7.º puesto del ranking FIFA tras la decisión del TAS",
-    "ar": "المغرب يتراجع إلى المركز السابع في تصنيف فيفا بعد قرار محكمة التحكيم"
+    "ar": "المغرب يتراجع إلى المركز السابع في تصنيف فيفا بعد قرار الطاس"
    },
    "summary": {
-    "en": "The latest FIFA ranking published on Wednesday shows Morocco dropping to 7th in the world, two places lower, following the CAS decision.",
-    "fr": "Le dernier classement FIFA publié mercredi montre un recul du Maroc à la 7e place mondiale, soit deux rangs de moins, après la décision du TAS.",
-    "es": "El último ranking FIFA publicado el miércoles muestra que Marruecos baja al 7.º puesto mundial, dos posiciones menos, tras la decisión del TAS.",
-    "ar": "يُظهر أحدث تصنيف لفيفا الصادر الأربعاء تراجع المغرب إلى المركز السابع عالميا، بفارق مركزين، بعد قرار محكمة التحكيم الرياضي."
+    "en": "The latest FIFA ranking published on Wednesday shows Morocco down two places to 7th, following the CAS decision on the 2025 AFCON final.",
+    "fr": "Le dernier classement FIFA publié mercredi montre un recul de deux places du Maroc, désormais 7e, après la décision du TAS sur la finale de la CAN 2025.",
+    "es": "El último ranking FIFA publicado el miércoles muestra que Marruecos baja dos puestos hasta el 7.º, tras la decisión del TAS sobre la final de la CAN 2025.",
+    "ar": "أظهر آخر تصنيف لفيفا صدر الأربعاء تراجع المغرب مركزين إلى المركز السابع، عقب قرار محكمة التحكيم الرياضية بشأن نهائي كأس أمم أفريقيا 2025."
    },
    "sourceName": "Hespress FR",
    "url": "https://fr.hespress.com/497841-classement-fifa-le-maroc-chute-a-la-7e-place-mondiale-apres-la-decision-du-tas.html",
@@ -140,37 +123,37 @@
   },
   {
    "title": {
-    "en": "Three Moroccans shortlisted for African best player at the CAF Awards 2026",
-    "fr": "CAF Awards 2026 : trois Marocains en lice pour le titre de meilleur joueur africain",
-    "es": "Tres marroquíes aspiran al premio al mejor jugador africano en los CAF Awards 2026",
-    "ar": "ثلاثة مغاربة في سباق جائزة أفضل لاعب أفريقي في جوائز الكاف 2026"
+    "en": "Amrabat: Morocco-Senegal dispute must end, he says",
+    "fr": "Amrabat juge « inacceptable » que le litige Maroc-Sénégal se poursuive",
+    "es": "Amrabat: es «inaceptable» que siga la disputa Marruecos-Senegal",
+    "ar": "أمرابط: استمرار الخلاف بين المغرب والسنغال «غير مقبول»"
    },
    "summary": {
-    "en": "Moroccan football is well represented in the CAF Awards 2026 shortlists, with candidates in all seven men's categories and nine nominations in total.",
-    "fr": "Le football marocain est bien représenté dans les listes des CAF Awards 2026, avec des candidats dans les sept catégories masculines et neuf nominations au total.",
-    "es": "El fútbol marroquí está muy presente en las listas de los CAF Awards 2026, con candidatos en las siete categorías masculinas y nueve nominaciones en total.",
-    "ar": "حضرت كرة القدم المغربية بقوة في قوائم جوائز الكاف 2026، بمرشحين في الفئات الرجالية السبع وتسعة ترشيحات إجمالا."
+    "en": "Morocco midfielder Sofyan Amrabat reacted to the CAS verdict that gave the 2025 AFCON title to Senegal. He regrets a decision he says harms the tournament's image and urges the Atlas Lions to turn the page.",
+    "fr": "Le milieu marocain Sofyan Amrabat a réagi au verdict du TAS qui a réattribué le titre de la CAN 2025 au Sénégal. Il regrette une décision qui, selon lui, nuit à l'image du tournoi et appelle les Lions de l'Atlas à tourner la page.",
+    "es": "El centrocampista marroquí Sofyan Amrabat reaccionó al veredicto del TAS que dio el título de la CAN 2025 a Senegal. Lamenta una decisión que, según él, daña la imagen del torneo, y pide a los Leones del Atlas pasar página.",
+    "ar": "علّق لاعب وسط المغرب سفيان أمرابط على حكم محكمة التحكيم الرياضية الذي منح لقب كأس أمم أفريقيا 2025 للسنغال. وأبدى أسفه لقرار يرى أنه يضر بصورة البطولة، ودعا أسود الأطلس إلى طي الصفحة."
    },
    "sourceName": "Hespress FR",
-   "url": "https://fr.hespress.com/497798-caf-awards-2026-trois-marocains-en-lice-pour-le-titre-de-meilleur-joueur-africain-et-une-forte-presence-en-finale.html",
-   "publishedAt": "2026-11-25T10:40:48Z"
+   "url": "https://fr.hespress.com/497949-can-2025-sofyan-amrabat-juge-inacceptable-que-le-litige-maroc-senegal-se-poursuive.html",
+   "publishedAt": "2026-11-25T21:57:55Z"
   },
   {
    "title": {
-    "en": "Club Brugge 0-3 Liverpool in the Champions League",
-    "fr": "Bruges 0-3 Liverpool en Ligue des champions",
-    "es": "Brujas 0-3 Liverpool en la Champions League",
-    "ar": "بروج 0-3 ليفربول في دوري الأبطال"
+    "en": "Alleged phone call raises questions over the CAS AFCON decision",
+    "fr": "Un coup de téléphone présumé relance le débat sur la décision du TAS",
+    "es": "Una supuesta llamada reabre el debate sobre la decisión del TAS en la CAN",
+    "ar": "مكالمة هاتفية مفترضة تثير جدلاً حول قرار الطاس بشأن الكان"
    },
    "summary": {
-    "en": "Liverpool won 3-0 away at Club Brugge in the league phase of the Champions League on Wednesday evening.",
-    "fr": "Liverpool s'est imposé 3-0 sur la pelouse du Club Bruges en phase de ligue de la Ligue des champions mercredi soir.",
-    "es": "El Liverpool ganó 3-0 en el campo del Brujas en la fase liga de la Champions League el miércoles por la noche.",
-    "ar": "فاز ليفربول 3-0 خارج ملعبه على كلوب بروج في مرحلة الدوري من دوري الأبطال مساء الأربعاء."
+    "en": "In the case over the 2025 AFCON final, attention has turned to an alleged phone call between Senegal federation president Abdoulaye Fall and CAS panel member Ulrich Haas, which could challenge the decision.",
+    "fr": "Dans l'affaire de la finale de la CAN 2025, l'attention se porte sur un appel téléphonique présumé entre le président de la fédération sénégalaise Abdoulaye Fall et Ulrich Haas, membre du collège arbitral du TAS, qui pourrait remettre en cause la décision.",
+    "es": "En el caso de la final de la CAN 2025, la atención se centra en una supuesta llamada entre el presidente de la federación senegalesa, Abdoulaye Fall, y Ulrich Haas, miembro del panel del TAS, que podría poner en duda la decisión.",
+    "ar": "في قضية نهائي كأس أمم أفريقيا 2025، تتجه الأنظار إلى مكالمة هاتفية مفترضة بين رئيس الاتحاد السنغالي عبد الله فال وأولريش هاس، عضو هيئة التحكيم في الطاس، قد تشكك في القرار."
    },
-   "sourceName": "AS",
-   "url": "https://as.com/futbol/champions/brujas-liverpool-en-directo-champions-league-en-vivo-hoy-f202611-d/",
-   "publishedAt": "2026-11-25T21:59:17Z"
+   "sourceName": "Hespress FR",
+   "url": "https://fr.hespress.com/497929-can-2025-un-coup-de-telephone-pourrait-remettre-en-cause-la-decision-du-tas.html",
+   "publishedAt": "2026-11-25T22:05:36Z"
   }
  ]
 }

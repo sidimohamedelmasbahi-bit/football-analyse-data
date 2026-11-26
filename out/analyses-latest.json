@@ -1,17 +1,56 @@
 {
  "version": 1,
- "date": "2026-11-25",
+ "date": "2026-11-26",
  "analyses": [
   {
-   "matchId": "1492461",
-   "homeWinPercent": 33,
-   "drawPercent": 30,
-   "awayWinPercent": 37,
+   "matchId": "1603084",
+   "homeWinPercent": 30,
+   "drawPercent": 28,
+   "awayWinPercent": 42,
    "text": {
-    "en": "Atletico-MG host Corinthians in the Brasileirão Série A. Over their last five matches the hosts have a form rating of 27%, with 3 goals scored and 5 conceded. Corinthians come in with 53% form, 9 goals scored and only 4 conceded, which points to a more solid defensive record. Home advantage keeps the game balanced, but the visitors' recent consistency gives them a slight edge. These percentages are statistical estimates based on recent form only.",
-    "fr": "Atletico-MG reçoit Corinthians en Brasileirão Série A. Sur leurs cinq derniers matchs, les locaux affichent une forme de 27 %, avec 3 buts marqués et 5 encaissés. Corinthians arrive avec 53 % de forme, 9 buts marqués et seulement 4 encaissés, ce qui traduit une défense plus solide. L'avantage du terrain équilibre la rencontre, mais la régularité récente des visiteurs leur donne un léger avantage. Ces pourcentages sont des estimations statistiques fondées uniquement sur la forme récente.",
-    "es": "Atletico-MG recibe a Corinthians en el Brasileirão Série A. En sus últimos cinco partidos, los locales tienen una forma del 27 %, con 3 goles a favor y 5 en contra. Corinthians llega con un 53 % de forma, 9 goles a favor y solo 4 en contra, lo que indica una defensa más sólida. La ventaja de jugar en casa equilibra el partido, pero la regularidad reciente de los visitantes les da una ligera ventaja. Estos porcentajes son estimaciones estadísticas basadas solo en la forma reciente.",
-    "ar": "يستضيف أتلتيكو مينيرو فريق كورينثيانز في الدوري البرازيلي الدرجة الأولى. في آخر خمس مباريات بلغت نسبة أداء أصحاب الأرض 27٪ مع تسجيل 3 أهداف واستقبال 5. ويصل كورينثيانز بنسبة أداء 53٪ وسجل 9 أهداف واستقبل 4 فقط، ما يدل على دفاع أكثر تماسكا. تمنح الأرض والجمهور توازنا للمباراة، لكن استقرار الضيوف مؤخرا يمنحهم أفضلية طفيفة. هذه النسب تقديرات إحصائية مبنية على الأداء الأخير فقط."
+    "en": "Al-Fateh come into this home game in poor form (20% over the last five matches, 6 goals scored and 14 conceded), while Al Riyadh are steadier at 47% with 5 scored and 9 conceded. Al-Fateh's leaky defence is the main concern, though home advantage keeps the match fairly open. Al Riyadh look slightly better placed, but the percentages are only estimates.",
+    "fr": "Al-Fateh aborde ce match à domicile en méforme (20 % sur les cinq derniers matchs, 6 buts marqués et 14 encaissés), alors qu'Al Riyadh est plus stable avec 47 %, 5 buts marqués et 9 encaissés. La défense poreuse d'Al-Fateh est le principal point faible, même si l'avantage du terrain laisse la rencontre assez ouverte. Al Riyadh semble un peu mieux placé, mais ces pourcentages ne sont que des estimations.",
+    "es": "Al-Fateh llega a este partido en casa con mala forma (20 % en los últimos cinco partidos, 6 goles a favor y 14 en contra), mientras que Al Riyadh es más estable con un 47 %, 5 goles a favor y 9 en contra. La defensa frágil de Al-Fateh es la principal preocupación, aunque jugar en casa mantiene el partido bastante abierto. Al Riyadh parte algo mejor situado, pero los porcentajes son solo estimaciones.",
+    "ar": "يدخل الفتح هذه المباراة على أرضه بمستوى متراجع (20٪ في آخر خمس مباريات، سجل 6 أهداف واستقبل 14)، بينما يبدو الرياض أكثر ثباتاً بنسبة 47٪ وسجل 5 أهداف واستقبل 9. يبقى ضعف دفاع الفتح أبرز نقاط القلق، رغم أن عامل الأرض يُبقي المباراة مفتوحة نسبياً. يبدو الرياض أفضل حالاً بقليل، لكن هذه النسب مجرد تقديرات."
+   },
+   "likelyScorers": []
+  },
+  {
+   "matchId": "1603080",
+   "homeWinPercent": 15,
+   "drawPercent": 22,
+   "awayWinPercent": 63,
+   "text": {
+    "en": "Abha are struggling at home with only 13% form over the last five matches and just 2 goals scored against 6 conceded. Al Shabab arrive in much stronger shape (73%, 14 goals scored and 4 conceded), with an efficient attack and a solid defence. Al Shabab are clear favourites on recent form, though the percentages remain estimates.",
+    "fr": "Abha est en grande difficulté avec seulement 13 % de forme sur les cinq derniers matchs et 2 buts marqués pour 6 encaissés. Al Shabab arrive dans une bien meilleure dynamique (73 %, 14 buts marqués et 4 encaissés), avec une attaque efficace et une défense solide. Al Shabab part nettement favori au vu de la forme récente, mais ces pourcentages restent des estimations.",
+    "es": "Abha atraviesa dificultades con solo un 13 % de forma en los últimos cinco partidos y apenas 2 goles a favor por 6 en contra. Al Shabab llega en mucho mejor momento (73 %, 14 goles a favor y 4 en contra), con un ataque eficaz y una defensa sólida. Al Shabab es claro favorito por su forma reciente, aunque los porcentajes son solo estimaciones.",
+    "ar": "يعاني أبها بشدة بنسبة أداء لا تتجاوز 13٪ في آخر خمس مباريات، وسجل هدفين فقط واستقبل 6. ويصل الشباب في حالة أفضل بكثير (73٪، سجل 14 هدفاً واستقبل 4) بهجوم فعّال ودفاع متماسك. الشباب المرشح الأوفر حظاً بحسب المستوى الأخير، لكن هذه النسب تبقى تقديرات."
+   },
+   "likelyScorers": []
+  },
+  {
+   "matchId": "1603083",
+   "homeWinPercent": 42,
+   "drawPercent": 29,
+   "awayWinPercent": 29,
+   "text": {
+    "en": "Al-Faisaly are in decent form (47%, 8 goals scored and 11 conceded) and host Al Diriyah, who have been less convincing (27%, 3 scored and 8 conceded). Both sides have conceded a fair amount recently, but Al Diriyah's lack of goals is a concern. Home advantage gives Al-Faisaly a slight edge, with the figures being only estimates.",
+    "fr": "Al-Faisaly est dans une forme correcte (47 %, 8 buts marqués et 11 encaissés) et reçoit Al Diriyah, moins convaincant (27 %, 3 buts marqués et 8 encaissés). Les deux équipes ont encaissé pas mal de buts récemment, mais le manque de réalisme d'Al Diriyah inquiète. L'avantage du terrain donne un léger avantage à Al-Faisaly ; ces chiffres ne sont que des estimations.",
+    "es": "Al-Faisaly está en una forma aceptable (47 %, 8 goles a favor y 11 en contra) y recibe a Al Diriyah, menos convincente (27 %, 3 a favor y 8 en contra). Ambos equipos han encajado bastantes goles recientemente, pero la falta de gol de Al Diriyah preocupa. Jugar en casa da una ligera ventaja a Al-Faisaly; las cifras son solo estimaciones.",
+    "ar": "يتمتع الفيصلي بمستوى جيد (47٪، سجل 8 أهداف واستقبل 11) ويستضيف الدرعية الأقل إقناعاً (27٪، سجل 3 أهداف واستقبل 8). استقبل الفريقان أهدافاً كثيرة مؤخراً، لكن ضعف الدرعية التهديفي مصدر قلق. يمنح عامل الأرض أفضلية طفيفة للفيصلي، والأرقام مجرد تقديرات."
+   },
+   "likelyScorers": []
+  },
+  {
+   "matchId": "1492478",
+   "homeWinPercent": 48,
+   "drawPercent": 27,
+   "awayWinPercent": 25,
+   "text": {
+    "en": "Sao Paulo host Remo with modest recent form (20%, 4 goals scored and 6 conceded), while Remo are slightly ahead on form (40%) but have conceded 12 goals in five matches. Sao Paulo's home advantage and Remo's fragile defence give the hosts a small edge. The percentages are only estimates.",
+    "fr": "Sao Paulo reçoit Remo avec une forme récente modeste (20 %, 4 buts marqués et 6 encaissés), tandis que Remo est un peu devant au niveau de la forme (40 %) mais a encaissé 12 buts en cinq matchs. L'avantage du terrain et la défense fragile de Remo donnent un léger avantage aux locaux. Ces pourcentages ne sont que des estimations.",
+    "es": "Sao Paulo recibe a Remo con una forma reciente modesta (20 %, 4 goles a favor y 6 en contra), mientras que Remo está algo por delante en forma (40 %) pero ha encajado 12 goles en cinco partidos. La ventaja de jugar en casa y la defensa frágil de Remo dan una ligera ventaja a los locales. Los porcentajes son solo estimaciones.",
+    "ar": "يستضيف ساو باولو فريق ريمو بمستوى حديث متواضع (20٪، سجل 4 أهداف واستقبل 6)، بينما يتفوق ريمو قليلاً في الأداء (40٪) لكنه استقبل 12 هدفاً في خمس مباريات. عامل الأرض وضعف دفاع ريمو يمنحان أصحاب الأرض أفضلية صغيرة. هذه النسب مجرد تقديرات."
    },
    "likelyScorers": []
   }
