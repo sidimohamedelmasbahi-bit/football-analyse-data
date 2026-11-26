@@ -1,0 +1,222 @@
+{
+ "version": 1,
+ "date": "2026-11-26",
+ "generatedAt": "2026-11-26T10:03:12Z",
+ "matches": [
+  {
+   "id": "1649565",
+   "competition": {
+    "id": 128,
+    "name": "Liga Profesional Argentina",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T00:00:00Z",
+   "home": {
+    "id": 451,
+    "name": "Boca Juniors",
+    "shortName": "BJ",
+    "logo": "https://media.api-sports.io/football/teams/451.png"
+   },
+   "away": {
+    "id": 473,
+    "name": "Independ. Rivadavia",
+    "shortName": "IR",
+    "logo": "https://media.api-sports.io/football/teams/473.png"
+   },
+   "summary": {
+    "en": "Liga Profesional Argentina: Boca Juniors host Independ. Rivadavia. Recent form (last 5 matches): Boca Juniors 87%, Independ. Rivadavia 33%. Goals over those matches: Boca Juniors 7 scored, 3 conceded; Independ. Rivadavia 6 scored, 10 conceded.",
+    "fr": "Liga Profesional Argentina : Boca Juniors reçoit Independ. Rivadavia. Forme récente (5 derniers matchs) : Boca Juniors 87 %, Independ. Rivadavia 33 %. Buts sur ces matchs : Boca Juniors 7 marqués, 3 encaissés ; Independ. Rivadavia 6 marqués, 10 encaissés.",
+    "es": "Liga Profesional Argentina: Boca Juniors recibe a Independ. Rivadavia. Forma reciente (últimos 5 partidos): Boca Juniors 87 %, Independ. Rivadavia 33 %. Goles en esos partidos: Boca Juniors 7 a favor, 3 en contra; Independ. Rivadavia 6 a favor, 10 en contra.",
+    "ar": "Liga Profesional Argentina: يستضيف Boca Juniors فريق Independ. Rivadavia. الأداء الأخير (آخر 5 مباريات): Boca Juniors 87٪، Independ. Rivadavia 33٪. الأهداف في تلك المباريات: Boca Juniors سجل 7 واستقبل 3؛ Independ. Rivadavia سجل 6 واستقبل 10."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 87,
+     "goalsFor": 7,
+     "goalsAgainst": 3
+    },
+    "away": {
+     "formPercent": 33,
+     "goalsFor": 6,
+     "goalsAgainst": 10
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1603084",
+   "competition": {
+    "id": 307,
+    "name": "Saudi Pro League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T14:25:00Z",
+   "home": {
+    "id": 2931,
+    "name": "Al-Fateh",
+    "shortName": "FAT",
+    "logo": "https://media.api-sports.io/football/teams/2931.png"
+   },
+   "away": {
+    "id": 10511,
+    "name": "Al Riyadh",
+    "shortName": "RIY",
+    "logo": "https://media.api-sports.io/football/teams/10511.png"
+   },
+   "summary": {
+    "en": "Saudi Pro League: Al-Fateh host Al Riyadh. Recent form (last 5 matches): Al-Fateh 20%, Al Riyadh 47%. Goals over those matches: Al-Fateh 6 scored, 14 conceded; Al Riyadh 5 scored, 9 conceded.",
+    "fr": "Saudi Pro League : Al-Fateh reçoit Al Riyadh. Forme récente (5 derniers matchs) : Al-Fateh 20 %, Al Riyadh 47 %. Buts sur ces matchs : Al-Fateh 6 marqués, 14 encaissés ; Al Riyadh 5 marqués, 9 encaissés.",
+    "es": "Saudi Pro League: Al-Fateh recibe a Al Riyadh. Forma reciente (últimos 5 partidos): Al-Fateh 20 %, Al Riyadh 47 %. Goles en esos partidos: Al-Fateh 6 a favor, 14 en contra; Al Riyadh 5 a favor, 9 en contra.",
+    "ar": "Saudi Pro League: يستضيف Al-Fateh فريق Al Riyadh. الأداء الأخير (آخر 5 مباريات): Al-Fateh 20٪، Al Riyadh 47٪. الأهداف في تلك المباريات: Al-Fateh سجل 6 واستقبل 14؛ Al Riyadh سجل 5 واستقبل 9."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 20,
+     "goalsFor": 6,
+     "goalsAgainst": 14
+    },
+    "away": {
+     "formPercent": 47,
+     "goalsFor": 5,
+     "goalsAgainst": 9
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1603080",
+   "competition": {
+    "id": 307,
+    "name": "Saudi Pro League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T15:05:00Z",
+   "home": {
+    "id": 2951,
+    "name": "Abha",
+    "shortName": "ABH",
+    "logo": "https://media.api-sports.io/football/teams/2951.png"
+   },
+   "away": {
+    "id": 2940,
+    "name": "Al Shabab",
+    "shortName": "SHA",
+    "logo": "https://media.api-sports.io/football/teams/2940.png"
+   },
+   "summary": {
+    "en": "Saudi Pro League: Abha host Al Shabab. Recent form (last 5 matches): Abha 13%, Al Shabab 73%. Goals over those matches: Abha 2 scored, 6 conceded; Al Shabab 14 scored, 4 conceded.",
+    "fr": "Saudi Pro League : Abha reçoit Al Shabab. Forme récente (5 derniers matchs) : Abha 13 %, Al Shabab 73 %. Buts sur ces matchs : Abha 2 marqués, 6 encaissés ; Al Shabab 14 marqués, 4 encaissés.",
+    "es": "Saudi Pro League: Abha recibe a Al Shabab. Forma reciente (últimos 5 partidos): Abha 13 %, Al Shabab 73 %. Goles en esos partidos: Abha 2 a favor, 6 en contra; Al Shabab 14 a favor, 4 en contra.",
+    "ar": "Saudi Pro League: يستضيف Abha فريق Al Shabab. الأداء الأخير (آخر 5 مباريات): Abha 13٪، Al Shabab 73٪. الأهداف في تلك المباريات: Abha سجل 2 واستقبل 6؛ Al Shabab سجل 14 واستقبل 4."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 13,
+     "goalsFor": 2,
+     "goalsAgainst": 6
+    },
+    "away": {
+     "formPercent": 73,
+     "goalsFor": 14,
+     "goalsAgainst": 4
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1603083",
+   "competition": {
+    "id": 307,
+    "name": "Saudi Pro League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T17:30:00Z",
+   "home": {
+    "id": 2930,
+    "name": "Al-Faisaly FC",
+    "shortName": "FAI",
+    "logo": "https://media.api-sports.io/football/teams/2930.png"
+   },
+   "away": {
+    "id": 26738,
+    "name": "Al Diriyah",
+    "shortName": "DIR",
+    "logo": "https://media.api-sports.io/football/teams/26738.png"
+   },
+   "summary": {
+    "en": "Saudi Pro League: Al-Faisaly FC host Al Diriyah. Recent form (last 5 matches): Al-Faisaly FC 47%, Al Diriyah 27%. Goals over those matches: Al-Faisaly FC 8 scored, 11 conceded; Al Diriyah 3 scored, 8 conceded.",
+    "fr": "Saudi Pro League : Al-Faisaly FC reçoit Al Diriyah. Forme récente (5 derniers matchs) : Al-Faisaly FC 47 %, Al Diriyah 27 %. Buts sur ces matchs : Al-Faisaly FC 8 marqués, 11 encaissés ; Al Diriyah 3 marqués, 8 encaissés.",
+    "es": "Saudi Pro League: Al-Faisaly FC recibe a Al Diriyah. Forma reciente (últimos 5 partidos): Al-Faisaly FC 47 %, Al Diriyah 27 %. Goles en esos partidos: Al-Faisaly FC 8 a favor, 11 en contra; Al Diriyah 3 a favor, 8 en contra.",
+    "ar": "Saudi Pro League: يستضيف Al-Faisaly FC فريق Al Diriyah. الأداء الأخير (آخر 5 مباريات): Al-Faisaly FC 47٪، Al Diriyah 27٪. الأهداف في تلك المباريات: Al-Faisaly FC سجل 8 واستقبل 11؛ Al Diriyah سجل 3 واستقبل 8."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 47,
+     "goalsFor": 8,
+     "goalsAgainst": 11
+    },
+    "away": {
+     "formPercent": 27,
+     "goalsFor": 3,
+     "goalsAgainst": 8
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1492478",
+   "competition": {
+    "id": 71,
+    "name": "Brasileirão Série A",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T23:00:00Z",
+   "home": {
+    "id": 126,
+    "name": "Sao Paulo",
+    "shortName": "SP",
+    "logo": "https://media.api-sports.io/football/teams/126.png"
+   },
+   "away": {
+    "id": 1198,
+    "name": "Remo",
+    "shortName": "REM",
+    "logo": "https://media.api-sports.io/football/teams/1198.png"
+   },
+   "summary": {
+    "en": "Brasileirão Série A: Sao Paulo host Remo. Recent form (last 5 matches): Sao Paulo 20%, Remo 40%. Goals over those matches: Sao Paulo 4 scored, 6 conceded; Remo 7 scored, 12 conceded.",
+    "fr": "Brasileirão Série A : Sao Paulo reçoit Remo. Forme récente (5 derniers matchs) : Sao Paulo 20 %, Remo 40 %. Buts sur ces matchs : Sao Paulo 4 marqués, 6 encaissés ; Remo 7 marqués, 12 encaissés.",
+    "es": "Brasileirão Série A: Sao Paulo recibe a Remo. Forma reciente (últimos 5 partidos): Sao Paulo 20 %, Remo 40 %. Goles en esos partidos: Sao Paulo 4 a favor, 6 en contra; Remo 7 a favor, 12 en contra.",
+    "ar": "Brasileirão Série A: يستضيف Sao Paulo فريق Remo. الأداء الأخير (آخر 5 مباريات): Sao Paulo 20٪، Remo 40٪. الأهداف في تلك المباريات: Sao Paulo سجل 4 واستقبل 6؛ Remo سجل 7 واستقبل 12."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 20,
+     "goalsFor": 4,
+     "goalsAgainst": 6
+    },
+    "away": {
+     "formPercent": 40,
+     "goalsFor": 7,
+     "goalsAgainst": 12
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  }
+ ]
+}

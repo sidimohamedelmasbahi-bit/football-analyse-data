@@ -1,130 +1,87 @@
 {
  "version": 1,
- "date": "2026-11-25",
- "generatedAt": "2026-11-25T22:08:05Z",
+ "date": "2026-11-26",
+ "generatedAt": "2026-11-26T10:03:12Z",
  "matches": [
   {
-   "id": "1635718",
+   "id": "1649565",
    "competition": {
-    "id": 2,
-    "name": "UEFA Champions League",
-    "priority": 0
+    "id": 128,
+    "name": "Liga Profesional Argentina",
+    "priority": 3
    },
-   "kickoff": "2026-11-25T17:45:00Z",
+   "kickoff": "2026-11-26T00:00:00Z",
    "home": {
-    "id": 13976,
-    "name": "Sabah FA",
-    "shortName": "SF",
-    "logo": "https://media.api-sports.io/football/teams/13976.png"
+    "id": 451,
+    "name": "Boca Juniors",
+    "shortName": "BJ",
+    "logo": "https://media.api-sports.io/football/teams/451.png"
    },
    "away": {
-    "id": 529,
-    "name": "Barcelona",
-    "shortName": "BAR",
-    "logo": "https://media.api-sports.io/football/teams/529.png"
+    "id": 473,
+    "name": "Independ. Rivadavia",
+    "shortName": "IR",
+    "logo": "https://media.api-sports.io/football/teams/473.png"
    },
    "summary": {
-    "en": "UEFA Champions League: Sabah FA host Barcelona. Recent form (last 5 matches): Sabah FA 40%, Barcelona 75%. Goals over those matches: Sabah FA 9 scored, 12 conceded; Barcelona 14 scored, 6 conceded.",
-    "fr": "UEFA Champions League : Sabah FA reçoit Barcelona. Forme récente (5 derniers matchs) : Sabah FA 40 %, Barcelona 75 %. Buts sur ces matchs : Sabah FA 9 marqués, 12 encaissés ; Barcelona 14 marqués, 6 encaissés.",
-    "es": "UEFA Champions League: Sabah FA recibe a Barcelona. Forma reciente (últimos 5 partidos): Sabah FA 40 %, Barcelona 75 %. Goles en esos partidos: Sabah FA 9 a favor, 12 en contra; Barcelona 14 a favor, 6 en contra.",
-    "ar": "UEFA Champions League: يستضيف Sabah FA فريق Barcelona. الأداء الأخير (آخر 5 مباريات): Sabah FA 40٪، Barcelona 75٪. الأهداف في تلك المباريات: Sabah FA سجل 9 واستقبل 12؛ Barcelona سجل 14 واستقبل 6."
+    "en": "Liga Profesional Argentina: Boca Juniors host Independ. Rivadavia. Recent form (last 5 matches): Boca Juniors 87%, Independ. Rivadavia 33%. Goals over those matches: Boca Juniors 7 scored, 3 conceded; Independ. Rivadavia 6 scored, 10 conceded.",
+    "fr": "Liga Profesional Argentina : Boca Juniors reçoit Independ. Rivadavia. Forme récente (5 derniers matchs) : Boca Juniors 87 %, Independ. Rivadavia 33 %. Buts sur ces matchs : Boca Juniors 7 marqués, 3 encaissés ; Independ. Rivadavia 6 marqués, 10 encaissés.",
+    "es": "Liga Profesional Argentina: Boca Juniors recibe a Independ. Rivadavia. Forma reciente (últimos 5 partidos): Boca Juniors 87 %, Independ. Rivadavia 33 %. Goles en esos partidos: Boca Juniors 7 a favor, 3 en contra; Independ. Rivadavia 6 a favor, 10 en contra.",
+    "ar": "Liga Profesional Argentina: يستضيف Boca Juniors فريق Independ. Rivadavia. الأداء الأخير (آخر 5 مباريات): Boca Juniors 87٪، Independ. Rivadavia 33٪. الأهداف في تلك المباريات: Boca Juniors سجل 7 واستقبل 3؛ Independ. Rivadavia سجل 6 واستقبل 10."
    },
    "recentForm": {
     "home": {
-     "formPercent": 40,
-     "goalsFor": 9,
-     "goalsAgainst": 12
+     "formPercent": 87,
+     "goalsFor": 7,
+     "goalsAgainst": 3
     },
     "away": {
-     "formPercent": 75,
-     "goalsFor": 14,
-     "goalsAgainst": 6
-    }
-   },
-   "homeLast": [],
-   "awayLast": [],
-   "analysisCandidate": true,
-   "analysis": null
-  },
-  {
-   "id": "1635728",
-   "competition": {
-    "id": 2,
-    "name": "UEFA Champions League",
-    "priority": 0
-   },
-   "kickoff": "2026-11-25T17:45:00Z",
-   "home": {
-    "id": 560,
-    "name": "Slavia Praha",
-    "shortName": "SP",
-    "logo": "https://media.api-sports.io/football/teams/560.png"
-   },
-   "away": {
-    "id": 533,
-    "name": "Villarreal",
-    "shortName": "VIL",
-    "logo": "https://media.api-sports.io/football/teams/533.png"
-   },
-   "summary": {
-    "en": "UEFA Champions League: Slavia Praha host Villarreal. Recent form (last 5 matches): Slavia Praha 8%, Villarreal 25%. Goals over those matches: Slavia Praha 5 scored, 9 conceded; Villarreal 8 scored, 14 conceded.",
-    "fr": "UEFA Champions League : Slavia Praha reçoit Villarreal. Forme récente (5 derniers matchs) : Slavia Praha 8 %, Villarreal 25 %. Buts sur ces matchs : Slavia Praha 5 marqués, 9 encaissés ; Villarreal 8 marqués, 14 encaissés.",
-    "es": "UEFA Champions League: Slavia Praha recibe a Villarreal. Forma reciente (últimos 5 partidos): Slavia Praha 8 %, Villarreal 25 %. Goles en esos partidos: Slavia Praha 5 a favor, 9 en contra; Villarreal 8 a favor, 14 en contra.",
-    "ar": "UEFA Champions League: يستضيف Slavia Praha فريق Villarreal. الأداء الأخير (آخر 5 مباريات): Slavia Praha 8٪، Villarreal 25٪. الأهداف في تلك المباريات: Slavia Praha سجل 5 واستقبل 9؛ Villarreal سجل 8 واستقبل 14."
-   },
-   "recentForm": {
-    "home": {
-     "formPercent": 8,
-     "goalsFor": 5,
-     "goalsAgainst": 9
-    },
-    "away": {
-     "formPercent": 25,
-     "goalsFor": 8,
-     "goalsAgainst": 14
-    }
-   },
-   "homeLast": [],
-   "awayLast": [],
-   "analysisCandidate": true,
-   "analysis": null
-  },
-  {
-   "id": "1635625",
-   "competition": {
-    "id": 2,
-    "name": "UEFA Champions League",
-    "priority": 0
-   },
-   "kickoff": "2026-11-25T20:00:00Z",
-   "home": {
-    "id": 530,
-    "name": "Atletico Madrid",
-    "shortName": "AM",
-    "logo": "https://media.api-sports.io/football/teams/530.png"
-   },
-   "away": {
-    "id": 759,
-    "name": "Viking",
-    "shortName": "VIK",
-    "logo": "https://media.api-sports.io/football/teams/759.png"
-   },
-   "summary": {
-    "en": "UEFA Champions League: Atletico Madrid host Viking. Recent form (last 5 matches): Atletico Madrid 33%, Viking 47%. Goals over those matches: Atletico Madrid 4 scored, 5 conceded; Viking 12 scored, 11 conceded.",
-    "fr": "UEFA Champions League : Atletico Madrid reçoit Viking. Forme récente (5 derniers matchs) : Atletico Madrid 33 %, Viking 47 %. Buts sur ces matchs : Atletico Madrid 4 marqués, 5 encaissés ; Viking 12 marqués, 11 encaissés.",
-    "es": "UEFA Champions League: Atletico Madrid recibe a Viking. Forma reciente (últimos 5 partidos): Atletico Madrid 33 %, Viking 47 %. Goles en esos partidos: Atletico Madrid 4 a favor, 5 en contra; Viking 12 a favor, 11 en contra.",
-    "ar": "UEFA Champions League: يستضيف Atletico Madrid فريق Viking. الأداء الأخير (آخر 5 مباريات): Atletico Madrid 33٪، Viking 47٪. الأهداف في تلك المباريات: Atletico Madrid سجل 4 واستقبل 5؛ Viking سجل 12 واستقبل 11."
-   },
-   "recentForm": {
-    "home": {
      "formPercent": 33,
-     "goalsFor": 4,
-     "goalsAgainst": 5
+     "goalsFor": 6,
+     "goalsAgainst": 10
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1603084",
+   "competition": {
+    "id": 307,
+    "name": "Saudi Pro League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-26T14:25:00Z",
+   "home": {
+    "id": 2931,
+    "name": "Al-Fateh",
+    "shortName": "FAT",
+    "logo": "https://media.api-sports.io/football/teams/2931.png"
+   },
+   "away": {
+    "id": 10511,
+    "name": "Al Riyadh",
+    "shortName": "RIY",
+    "logo": "https://media.api-sports.io/football/teams/10511.png"
+   },
+   "summary": {
+    "en": "Saudi Pro League: Al-Fateh host Al Riyadh. Recent form (last 5 matches): Al-Fateh 20%, Al Riyadh 47%. Goals over those matches: Al-Fateh 6 scored, 14 conceded; Al Riyadh 5 scored, 9 conceded.",
+    "fr": "Saudi Pro League : Al-Fateh reçoit Al Riyadh. Forme récente (5 derniers matchs) : Al-Fateh 20 %, Al Riyadh 47 %. Buts sur ces matchs : Al-Fateh 6 marqués, 14 encaissés ; Al Riyadh 5 marqués, 9 encaissés.",
+    "es": "Saudi Pro League: Al-Fateh recibe a Al Riyadh. Forma reciente (últimos 5 partidos): Al-Fateh 20 %, Al Riyadh 47 %. Goles en esos partidos: Al-Fateh 6 a favor, 14 en contra; Al Riyadh 5 a favor, 9 en contra.",
+    "ar": "Saudi Pro League: يستضيف Al-Fateh فريق Al Riyadh. الأداء الأخير (آخر 5 مباريات): Al-Fateh 20٪، Al Riyadh 47٪. الأهداف في تلك المباريات: Al-Fateh سجل 6 واستقبل 14؛ Al Riyadh سجل 5 واستقبل 9."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 20,
+     "goalsFor": 6,
+     "goalsAgainst": 14
     },
     "away": {
      "formPercent": 47,
-     "goalsFor": 12,
-     "goalsAgainst": 11
+     "goalsFor": 5,
+     "goalsAgainst": 9
     }
    },
    "homeLast": [],
@@ -133,83 +90,40 @@
    "analysis": null
   },
   {
-   "id": "1635642",
+   "id": "1603080",
    "competition": {
-    "id": 2,
-    "name": "UEFA Champions League",
-    "priority": 0
+    "id": 307,
+    "name": "Saudi Pro League",
+    "priority": 3
    },
-   "kickoff": "2026-11-25T20:00:00Z",
+   "kickoff": "2026-11-26T15:05:00Z",
    "home": {
-    "id": 569,
-    "name": "Club Brugge KV",
-    "shortName": "BK",
-    "logo": "https://media.api-sports.io/football/teams/569.png"
+    "id": 2951,
+    "name": "Abha",
+    "shortName": "ABH",
+    "logo": "https://media.api-sports.io/football/teams/2951.png"
    },
    "away": {
-    "id": 40,
-    "name": "Liverpool",
-    "shortName": "LIV",
-    "logo": "https://media.api-sports.io/football/teams/40.png"
+    "id": 2940,
+    "name": "Al Shabab",
+    "shortName": "SHA",
+    "logo": "https://media.api-sports.io/football/teams/2940.png"
    },
    "summary": {
-    "en": "UEFA Champions League: Club Brugge KV host Liverpool. Recent form (last 5 matches): Club Brugge KV 75%, Liverpool 75%. Goals over those matches: Club Brugge KV 11 scored, 7 conceded; Liverpool 14 scored, 10 conceded.",
-    "fr": "UEFA Champions League : Club Brugge KV reçoit Liverpool. Forme récente (5 derniers matchs) : Club Brugge KV 75 %, Liverpool 75 %. Buts sur ces matchs : Club Brugge KV 11 marqués, 7 encaissés ; Liverpool 14 marqués, 10 encaissés.",
-    "es": "UEFA Champions League: Club Brugge KV recibe a Liverpool. Forma reciente (últimos 5 partidos): Club Brugge KV 75 %, Liverpool 75 %. Goles en esos partidos: Club Brugge KV 11 a favor, 7 en contra; Liverpool 14 a favor, 10 en contra.",
-    "ar": "UEFA Champions League: يستضيف Club Brugge KV فريق Liverpool. الأداء الأخير (آخر 5 مباريات): Club Brugge KV 75٪، Liverpool 75٪. الأهداف في تلك المباريات: Club Brugge KV سجل 11 واستقبل 7؛ Liverpool سجل 14 واستقبل 10."
+    "en": "Saudi Pro League: Abha host Al Shabab. Recent form (last 5 matches): Abha 13%, Al Shabab 73%. Goals over those matches: Abha 2 scored, 6 conceded; Al Shabab 14 scored, 4 conceded.",
+    "fr": "Saudi Pro League : Abha reçoit Al Shabab. Forme récente (5 derniers matchs) : Abha 13 %, Al Shabab 73 %. Buts sur ces matchs : Abha 2 marqués, 6 encaissés ; Al Shabab 14 marqués, 4 encaissés.",
+    "es": "Saudi Pro League: Abha recibe a Al Shabab. Forma reciente (últimos 5 partidos): Abha 13 %, Al Shabab 73 %. Goles en esos partidos: Abha 2 a favor, 6 en contra; Al Shabab 14 a favor, 4 en contra.",
+    "ar": "Saudi Pro League: يستضيف Abha فريق Al Shabab. الأداء الأخير (آخر 5 مباريات): Abha 13٪، Al Shabab 73٪. الأهداف في تلك المباريات: Abha سجل 2 واستقبل 6؛ Al Shabab سجل 14 واستقبل 4."
    },
    "recentForm": {
     "home": {
-     "formPercent": 75,
-     "goalsFor": 11,
-     "goalsAgainst": 7
-    },
-    "away": {
-     "formPercent": 75,
-     "goalsFor": 14,
-     "goalsAgainst": 10
-    }
-   },
-   "homeLast": [],
-   "awayLast": [],
-   "analysisCandidate": true,
-   "analysis": null
-  },
-  {
-   "id": "1635673",
-   "competition": {
-    "id": 2,
-    "name": "UEFA Champions League",
-    "priority": 0
-   },
-   "kickoff": "2026-11-25T20:00:00Z",
-   "home": {
-    "id": 505,
-    "name": "Inter",
-    "shortName": "INT",
-    "logo": "https://media.api-sports.io/football/teams/505.png"
-   },
-   "away": {
-    "id": 172,
-    "name": "VfB Stuttgart",
-    "shortName": "VS",
-    "logo": "https://media.api-sports.io/football/teams/172.png"
-   },
-   "summary": {
-    "en": "UEFA Champions League: Inter host VfB Stuttgart. Recent form (last 5 matches): Inter 50%, VfB Stuttgart 58%. Goals over those matches: Inter 8 scored, 6 conceded; VfB Stuttgart 7 scored, 4 conceded.",
-    "fr": "UEFA Champions League : Inter reçoit VfB Stuttgart. Forme récente (5 derniers matchs) : Inter 50 %, VfB Stuttgart 58 %. Buts sur ces matchs : Inter 8 marqués, 6 encaissés ; VfB Stuttgart 7 marqués, 4 encaissés.",
-    "es": "UEFA Champions League: Inter recibe a VfB Stuttgart. Forma reciente (últimos 5 partidos): Inter 50 %, VfB Stuttgart 58 %. Goles en esos partidos: Inter 8 a favor, 6 en contra; VfB Stuttgart 7 a favor, 4 en contra.",
-    "ar": "UEFA Champions League: يستضيف Inter فريق VfB Stuttgart. الأداء الأخير (آخر 5 مباريات): Inter 50٪، VfB Stuttgart 58٪. الأهداف في تلك المباريات: Inter سجل 8 واستقبل 6؛ VfB Stuttgart سجل 7 واستقبل 4."
-   },
-   "recentForm": {
-    "home": {
-     "formPercent": 50,
-     "goalsFor": 8,
+     "formPercent": 13,
+     "goalsFor": 2,
      "goalsAgainst": 6
     },
     "away": {
-     "formPercent": 58,
-     "goalsFor": 7,
+     "formPercent": 73,
+     "goalsFor": 14,
      "goalsAgainst": 4
     }
    },
@@ -219,83 +133,40 @@
    "analysis": null
   },
   {
-   "id": "1635682",
+   "id": "1603083",
    "competition": {
-    "id": 2,
-    "name": "UEFA Champions League",
-    "priority": 0
+    "id": 307,
+    "name": "Saudi Pro League",
+    "priority": 3
    },
-   "kickoff": "2026-11-25T20:00:00Z",
+   "kickoff": "2026-11-26T17:30:00Z",
    "home": {
-    "id": 79,
-    "name": "Lille",
-    "shortName": "LIL",
-    "logo": "https://media.api-sports.io/football/teams/79.png"
+    "id": 2930,
+    "name": "Al-Faisaly FC",
+    "shortName": "FAI",
+    "logo": "https://media.api-sports.io/football/teams/2930.png"
    },
    "away": {
-    "id": 157,
-    "name": "Bayern München",
-    "shortName": "BM",
-    "logo": "https://media.api-sports.io/football/teams/157.png"
+    "id": 26738,
+    "name": "Al Diriyah",
+    "shortName": "DIR",
+    "logo": "https://media.api-sports.io/football/teams/26738.png"
    },
    "summary": {
-    "en": "UEFA Champions League: Lille host Bayern München. Recent form (last 5 matches): Lille 8%, Bayern München 67%. Goals over those matches: Lille 4 scored, 10 conceded; Bayern München 12 scored, 5 conceded.",
-    "fr": "UEFA Champions League : Lille reçoit Bayern München. Forme récente (5 derniers matchs) : Lille 8 %, Bayern München 67 %. Buts sur ces matchs : Lille 4 marqués, 10 encaissés ; Bayern München 12 marqués, 5 encaissés.",
-    "es": "UEFA Champions League: Lille recibe a Bayern München. Forma reciente (últimos 5 partidos): Lille 8 %, Bayern München 67 %. Goles en esos partidos: Lille 4 a favor, 10 en contra; Bayern München 12 a favor, 5 en contra.",
-    "ar": "UEFA Champions League: يستضيف Lille فريق Bayern München. الأداء الأخير (آخر 5 مباريات): Lille 8٪، Bayern München 67٪. الأهداف في تلك المباريات: Lille سجل 4 واستقبل 10؛ Bayern München سجل 12 واستقبل 5."
+    "en": "Saudi Pro League: Al-Faisaly FC host Al Diriyah. Recent form (last 5 matches): Al-Faisaly FC 47%, Al Diriyah 27%. Goals over those matches: Al-Faisaly FC 8 scored, 11 conceded; Al Diriyah 3 scored, 8 conceded.",
+    "fr": "Saudi Pro League : Al-Faisaly FC reçoit Al Diriyah. Forme récente (5 derniers matchs) : Al-Faisaly FC 47 %, Al Diriyah 27 %. Buts sur ces matchs : Al-Faisaly FC 8 marqués, 11 encaissés ; Al Diriyah 3 marqués, 8 encaissés.",
+    "es": "Saudi Pro League: Al-Faisaly FC recibe a Al Diriyah. Forma reciente (últimos 5 partidos): Al-Faisaly FC 47 %, Al Diriyah 27 %. Goles en esos partidos: Al-Faisaly FC 8 a favor, 11 en contra; Al Diriyah 3 a favor, 8 en contra.",
+    "ar": "Saudi Pro League: يستضيف Al-Faisaly FC فريق Al Diriyah. الأداء الأخير (آخر 5 مباريات): Al-Faisaly FC 47٪، Al Diriyah 27٪. الأهداف في تلك المباريات: Al-Faisaly FC سجل 8 واستقبل 11؛ Al Diriyah سجل 3 واستقبل 8."
    },
    "recentForm": {
     "home": {
-     "formPercent": 8,
-     "goalsFor": 4,
-     "goalsAgainst": 10
+     "formPercent": 47,
+     "goalsFor": 8,
+     "goalsAgainst": 11
     },
     "away": {
-     "formPercent": 67,
-     "goalsFor": 12,
-     "goalsAgainst": 5
-    }
-   },
-   "homeLast": [],
-   "awayLast": [],
-   "analysisCandidate": true,
-   "analysis": null
-  },
-  {
-   "id": "1635703",
-   "competition": {
-    "id": 2,
-    "name": "UEFA Champions League",
-    "priority": 0
-   },
-   "kickoff": "2026-11-25T20:00:00Z",
-   "home": {
-    "id": 85,
-    "name": "Paris Saint Germain",
-    "shortName": "PSG",
-    "logo": "https://media.api-sports.io/football/teams/85.png"
-   },
-   "away": {
-    "id": 497,
-    "name": "AS Roma",
-    "shortName": "ROM",
-    "logo": "https://media.api-sports.io/football/teams/497.png"
-   },
-   "summary": {
-    "en": "UEFA Champions League: Paris Saint Germain host AS Roma. Recent form (last 5 matches): Paris Saint Germain 100%, AS Roma 33%. Goals over those matches: Paris Saint Germain 20 scored, 5 conceded; AS Roma 10 scored, 8 conceded.",
-    "fr": "UEFA Champions League : Paris Saint Germain reçoit AS Roma. Forme récente (5 derniers matchs) : Paris Saint Germain 100 %, AS Roma 33 %. Buts sur ces matchs : Paris Saint Germain 20 marqués, 5 encaissés ; AS Roma 10 marqués, 8 encaissés.",
-    "es": "UEFA Champions League: Paris Saint Germain recibe a AS Roma. Forma reciente (últimos 5 partidos): Paris Saint Germain 100 %, AS Roma 33 %. Goles en esos partidos: Paris Saint Germain 20 a favor, 5 en contra; AS Roma 10 a favor, 8 en contra.",
-    "ar": "UEFA Champions League: يستضيف Paris Saint Germain فريق AS Roma. الأداء الأخير (آخر 5 مباريات): Paris Saint Germain 100٪، AS Roma 33٪. الأهداف في تلك المباريات: Paris Saint Germain سجل 20 واستقبل 5؛ AS Roma سجل 10 واستقبل 8."
-   },
-   "recentForm": {
-    "home": {
-     "formPercent": 100,
-     "goalsFor": 20,
-     "goalsAgainst": 5
-    },
-    "away": {
-     "formPercent": 33,
-     "goalsFor": 10,
+     "formPercent": 27,
+     "goalsFor": 3,
      "goalsAgainst": 8
     }
    },
@@ -305,127 +176,41 @@
    "analysis": null
   },
   {
-   "id": "1635724",
-   "competition": {
-    "id": 2,
-    "name": "UEFA Champions League",
-    "priority": 0
-   },
-   "kickoff": "2026-11-25T20:00:00Z",
-   "home": {
-    "id": 550,
-    "name": "Shakhtar Donetsk",
-    "shortName": "SD",
-    "logo": "https://media.api-sports.io/football/teams/550.png"
-   },
-   "away": {
-    "id": 611,
-    "name": "Fenerbahçe",
-    "shortName": "FEN",
-    "logo": "https://media.api-sports.io/football/teams/611.png"
-   },
-   "summary": {
-    "en": "UEFA Champions League: Shakhtar Donetsk host Fenerbahçe. Recent form (last 5 matches): Shakhtar Donetsk 33%, Fenerbahçe 53%. Goals over those matches: Shakhtar Donetsk 4 scored, 4 conceded; Fenerbahçe 8 scored, 12 conceded.",
-    "fr": "UEFA Champions League : Shakhtar Donetsk reçoit Fenerbahçe. Forme récente (5 derniers matchs) : Shakhtar Donetsk 33 %, Fenerbahçe 53 %. Buts sur ces matchs : Shakhtar Donetsk 4 marqués, 4 encaissés ; Fenerbahçe 8 marqués, 12 encaissés.",
-    "es": "UEFA Champions League: Shakhtar Donetsk recibe a Fenerbahçe. Forma reciente (últimos 5 partidos): Shakhtar Donetsk 33 %, Fenerbahçe 53 %. Goles en esos partidos: Shakhtar Donetsk 4 a favor, 4 en contra; Fenerbahçe 8 a favor, 12 en contra.",
-    "ar": "UEFA Champions League: يستضيف Shakhtar Donetsk فريق Fenerbahçe. الأداء الأخير (آخر 5 مباريات): Shakhtar Donetsk 33٪، Fenerbahçe 53٪. الأهداف في تلك المباريات: Shakhtar Donetsk سجل 4 واستقبل 4؛ Fenerbahçe سجل 8 واستقبل 12."
-   },
-   "recentForm": {
-    "home": {
-     "formPercent": 33,
-     "goalsFor": 4,
-     "goalsAgainst": 4
-    },
-    "away": {
-     "formPercent": 53,
-     "goalsFor": 8,
-     "goalsAgainst": 12
-    }
-   },
-   "homeLast": [],
-   "awayLast": [],
-   "analysisCandidate": true,
-   "analysis": null
-  },
-  {
-   "id": "1635735",
-   "competition": {
-    "id": 2,
-    "name": "UEFA Champions League",
-    "priority": 0
-   },
-   "kickoff": "2026-11-25T20:00:00Z",
-   "home": {
-    "id": 228,
-    "name": "Sporting CP",
-    "shortName": "CP",
-    "logo": "https://media.api-sports.io/football/teams/228.png"
-   },
-   "away": {
-    "id": 33,
-    "name": "Manchester United",
-    "shortName": "MU",
-    "logo": "https://media.api-sports.io/football/teams/33.png"
-   },
-   "summary": {
-    "en": "UEFA Champions League: Sporting CP host Manchester United. Recent form (last 5 matches): Sporting CP 75%, Manchester United 50%. Goals over those matches: Sporting CP 8 scored, 4 conceded; Manchester United 8 scored, 8 conceded.",
-    "fr": "UEFA Champions League : Sporting CP reçoit Manchester United. Forme récente (5 derniers matchs) : Sporting CP 75 %, Manchester United 50 %. Buts sur ces matchs : Sporting CP 8 marqués, 4 encaissés ; Manchester United 8 marqués, 8 encaissés.",
-    "es": "UEFA Champions League: Sporting CP recibe a Manchester United. Forma reciente (últimos 5 partidos): Sporting CP 75 %, Manchester United 50 %. Goles en esos partidos: Sporting CP 8 a favor, 4 en contra; Manchester United 8 a favor, 8 en contra.",
-    "ar": "UEFA Champions League: يستضيف Sporting CP فريق Manchester United. الأداء الأخير (آخر 5 مباريات): Sporting CP 75٪، Manchester United 50٪. الأهداف في تلك المباريات: Sporting CP سجل 8 واستقبل 4؛ Manchester United سجل 8 واستقبل 8."
-   },
-   "recentForm": {
-    "home": {
-     "formPercent": 75,
-     "goalsFor": 8,
-     "goalsAgainst": 4
-    },
-    "away": {
-     "formPercent": 50,
-     "goalsFor": 8,
-     "goalsAgainst": 8
-    }
-   },
-   "homeLast": [],
-   "awayLast": [],
-   "analysisCandidate": true,
-   "analysis": null
-  },
-  {
-   "id": "1492461",
+   "id": "1492478",
    "competition": {
     "id": 71,
     "name": "Brasileirão Série A",
     "priority": 3
    },
-   "kickoff": "2026-11-25T23:00:00Z",
+   "kickoff": "2026-11-26T23:00:00Z",
    "home": {
-    "id": 1062,
-    "name": "Atletico-MG",
-    "shortName": "AM",
-    "logo": "https://media.api-sports.io/football/teams/1062.png"
+    "id": 126,
+    "name": "Sao Paulo",
+    "shortName": "SP",
+    "logo": "https://media.api-sports.io/football/teams/126.png"
    },
    "away": {
-    "id": 131,
-    "name": "Corinthians",
-    "shortName": "COR",
-    "logo": "https://media.api-sports.io/football/teams/131.png"
+    "id": 1198,
+    "name": "Remo",
+    "shortName": "REM",
+    "logo": "https://media.api-sports.io/football/teams/1198.png"
    },
    "summary": {
-    "en": "Brasileirão Série A: Atletico-MG host Corinthians. Recent form (last 5 matches): Atletico-MG 27%, Corinthians 53%. Goals over those matches: Atletico-MG 3 scored, 5 conceded; Corinthians 9 scored, 4 conceded.",
-    "fr": "Brasileirão Série A : Atletico-MG reçoit Corinthians. Forme récente (5 derniers matchs) : Atletico-MG 27 %, Corinthians 53 %. Buts sur ces matchs : Atletico-MG 3 marqués, 5 encaissés ; Corinthians 9 marqués, 4 encaissés.",
-    "es": "Brasileirão Série A: Atletico-MG recibe a Corinthians. Forma reciente (últimos 5 partidos): Atletico-MG 27 %, Corinthians 53 %. Goles en esos partidos: Atletico-MG 3 a favor, 5 en contra; Corinthians 9 a favor, 4 en contra.",
-    "ar": "Brasileirão Série A: يستضيف Atletico-MG فريق Corinthians. الأداء الأخير (آخر 5 مباريات): Atletico-MG 27٪، Corinthians 53٪. الأهداف في تلك المباريات: Atletico-MG سجل 3 واستقبل 5؛ Corinthians سجل 9 واستقبل 4."
+    "en": "Brasileirão Série A: Sao Paulo host Remo. Recent form (last 5 matches): Sao Paulo 20%, Remo 40%. Goals over those matches: Sao Paulo 4 scored, 6 conceded; Remo 7 scored, 12 conceded.",
+    "fr": "Brasileirão Série A : Sao Paulo reçoit Remo. Forme récente (5 derniers matchs) : Sao Paulo 20 %, Remo 40 %. Buts sur ces matchs : Sao Paulo 4 marqués, 6 encaissés ; Remo 7 marqués, 12 encaissés.",
+    "es": "Brasileirão Série A: Sao Paulo recibe a Remo. Forma reciente (últimos 5 partidos): Sao Paulo 20 %, Remo 40 %. Goles en esos partidos: Sao Paulo 4 a favor, 6 en contra; Remo 7 a favor, 12 en contra.",
+    "ar": "Brasileirão Série A: يستضيف Sao Paulo فريق Remo. الأداء الأخير (آخر 5 مباريات): Sao Paulo 20٪، Remo 40٪. الأهداف في تلك المباريات: Sao Paulo سجل 4 واستقبل 6؛ Remo سجل 7 واستقبل 12."
    },
    "recentForm": {
     "home": {
-     "formPercent": 27,
-     "goalsFor": 3,
-     "goalsAgainst": 5
+     "formPercent": 20,
+     "goalsFor": 4,
+     "goalsAgainst": 6
     },
     "away": {
-     "formPercent": 53,
-     "goalsFor": 9,
-     "goalsAgainst": 4
+     "formPercent": 40,
+     "goalsFor": 7,
+     "goalsAgainst": 12
     }
    },
    "homeLast": [],
