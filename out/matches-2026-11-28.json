@@ -1,0 +1,1839 @@
+{
+ "version": 1,
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-27T11:17:51Z",
+ "matches": [
+  {
+   "id": "1570463",
+   "competition": {
+    "id": 140,
+    "name": "LaLiga",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T13:00:00Z",
+   "home": {
+    "id": 543,
+    "name": "Real Betis",
+    "shortName": "BET",
+    "logo": "https://media.api-sports.io/football/teams/543.png"
+   },
+   "away": {
+    "id": 728,
+    "name": "Rayo Vallecano",
+    "shortName": "RV",
+    "logo": "https://media.api-sports.io/football/teams/728.png"
+   },
+   "summary": {
+    "en": "LaLiga: Real Betis host Rayo Vallecano. Recent form (last 5 matches): Real Betis 53%, Rayo Vallecano 27%. Goals over those matches: Real Betis 7 scored, 7 conceded; Rayo Vallecano 4 scored, 6 conceded.",
+    "fr": "LaLiga : Real Betis reçoit Rayo Vallecano. Forme récente (5 derniers matchs) : Real Betis 53 %, Rayo Vallecano 27 %. Buts sur ces matchs : Real Betis 7 marqués, 7 encaissés ; Rayo Vallecano 4 marqués, 6 encaissés.",
+    "es": "LaLiga: Real Betis recibe a Rayo Vallecano. Forma reciente (últimos 5 partidos): Real Betis 53 %, Rayo Vallecano 27 %. Goles en esos partidos: Real Betis 7 a favor, 7 en contra; Rayo Vallecano 4 a favor, 6 en contra.",
+    "ar": "LaLiga: يستضيف Real Betis فريق Rayo Vallecano. الأداء الأخير (آخر 5 مباريات): Real Betis 53٪، Rayo Vallecano 27٪. الأهداف في تلك المباريات: Real Betis سجل 7 واستقبل 7؛ Rayo Vallecano سجل 4 واستقبل 6."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 53,
+     "goalsFor": 7,
+     "goalsAgainst": 7
+    },
+    "away": {
+     "formPercent": 27,
+     "goalsFor": 4,
+     "goalsAgainst": 6
+    }
+   },
+   "homeLast": [
+    {
+     "date": "2026-11-24",
+     "opponent": "Slovan Bratislava",
+     "atHome": false,
+     "goalsFor": 2,
+     "goalsAgainst": 0
+    }
+   ],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1550210",
+   "competition": {
+    "id": 135,
+    "name": "Serie A",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T14:00:00Z",
+   "home": {
+    "id": 512,
+    "name": "Frosinone",
+    "shortName": "FRO",
+    "logo": "https://media.api-sports.io/football/teams/512.png"
+   },
+   "away": {
+    "id": 523,
+    "name": "Parma",
+    "shortName": "PAR",
+    "logo": "https://media.api-sports.io/football/teams/523.png"
+   },
+   "summary": {
+    "en": "Serie A: Frosinone host Parma. Recent form (last 5 matches): Frosinone 47%, Parma 27%. Goals over those matches: Frosinone 12 scored, 11 conceded; Parma 6 scored, 9 conceded.",
+    "fr": "Serie A : Frosinone reçoit Parma. Forme récente (5 derniers matchs) : Frosinone 47 %, Parma 27 %. Buts sur ces matchs : Frosinone 12 marqués, 11 encaissés ; Parma 6 marqués, 9 encaissés.",
+    "es": "Serie A: Frosinone recibe a Parma. Forma reciente (últimos 5 partidos): Frosinone 47 %, Parma 27 %. Goles en esos partidos: Frosinone 12 a favor, 11 en contra; Parma 6 a favor, 9 en contra.",
+    "ar": "Serie A: يستضيف Frosinone فريق Parma. الأداء الأخير (آخر 5 مباريات): Frosinone 47٪، Parma 27٪. الأهداف في تلك المباريات: Frosinone سجل 12 واستقبل 11؛ Parma سجل 6 واستقبل 9."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 47,
+     "goalsFor": 12,
+     "goalsAgainst": 11
+    },
+    "away": {
+     "formPercent": 27,
+     "goalsFor": 6,
+     "goalsAgainst": 9
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1575234",
+   "competition": {
+    "id": 78,
+    "name": "Bundesliga",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T14:30:00Z",
+   "home": {
+    "id": 164,
+    "name": "FSV Mainz 05",
+    "shortName": "FM0",
+    "logo": "https://media.api-sports.io/football/teams/164.png"
+   },
+   "away": {
+    "id": 182,
+    "name": "Union Berlin",
+    "shortName": "UB",
+    "logo": "https://media.api-sports.io/football/teams/182.png"
+   },
+   "summary": {
+    "en": "Bundesliga: FSV Mainz 05 host Union Berlin. Recent form (last 5 matches): FSV Mainz 05 20%, Union Berlin 20%. Goals over those matches: FSV Mainz 05 6 scored, 12 conceded; Union Berlin 3 scored, 9 conceded.",
+    "fr": "Bundesliga : FSV Mainz 05 reçoit Union Berlin. Forme récente (5 derniers matchs) : FSV Mainz 05 20 %, Union Berlin 20 %. Buts sur ces matchs : FSV Mainz 05 6 marqués, 12 encaissés ; Union Berlin 3 marqués, 9 encaissés.",
+    "es": "Bundesliga: FSV Mainz 05 recibe a Union Berlin. Forma reciente (últimos 5 partidos): FSV Mainz 05 20 %, Union Berlin 20 %. Goles en esos partidos: FSV Mainz 05 6 a favor, 12 en contra; Union Berlin 3 a favor, 9 en contra.",
+    "ar": "Bundesliga: يستضيف FSV Mainz 05 فريق Union Berlin. الأداء الأخير (آخر 5 مباريات): FSV Mainz 05 20٪، Union Berlin 20٪. الأهداف في تلك المباريات: FSV Mainz 05 سجل 6 واستقبل 12؛ Union Berlin سجل 3 واستقبل 9."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 20,
+     "goalsFor": 6,
+     "goalsAgainst": 12
+    },
+    "away": {
+     "formPercent": 20,
+     "goalsFor": 3,
+     "goalsAgainst": 9
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1575235",
+   "competition": {
+    "id": 78,
+    "name": "Bundesliga",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T14:30:00Z",
+   "home": {
+    "id": 175,
+    "name": "Hamburger SV",
+    "shortName": "HS",
+    "logo": "https://media.api-sports.io/football/teams/175.png"
+   },
+   "away": {
+    "id": 157,
+    "name": "Bayern München",
+    "shortName": "BM",
+    "logo": "https://media.api-sports.io/football/teams/157.png"
+   },
+   "summary": {
+    "en": "Bundesliga: Hamburger SV host Bayern München. Recent form (last 5 matches): Hamburger SV 40%, Bayern München 73%. Goals over those matches: Hamburger SV 5 scored, 9 conceded; Bayern München 14 scored, 6 conceded.",
+    "fr": "Bundesliga : Hamburger SV reçoit Bayern München. Forme récente (5 derniers matchs) : Hamburger SV 40 %, Bayern München 73 %. Buts sur ces matchs : Hamburger SV 5 marqués, 9 encaissés ; Bayern München 14 marqués, 6 encaissés.",
+    "es": "Bundesliga: Hamburger SV recibe a Bayern München. Forma reciente (últimos 5 partidos): Hamburger SV 40 %, Bayern München 73 %. Goles en esos partidos: Hamburger SV 5 a favor, 9 en contra; Bayern München 14 a favor, 6 en contra.",
+    "ar": "Bundesliga: يستضيف Hamburger SV فريق Bayern München. الأداء الأخير (آخر 5 مباريات): Hamburger SV 40٪، Bayern München 73٪. الأهداف في تلك المباريات: Hamburger SV سجل 5 واستقبل 9؛ Bayern München سجل 14 واستقبل 6."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 40,
+     "goalsFor": 5,
+     "goalsAgainst": 9
+    },
+    "away": {
+     "formPercent": 73,
+     "goalsFor": 14,
+     "goalsAgainst": 6
+    }
+   },
+   "homeLast": [],
+   "awayLast": [
+    {
+     "date": "2026-11-25",
+     "opponent": "Lille",
+     "atHome": false,
+     "goalsFor": 1,
+     "goalsAgainst": 2
+    }
+   ],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1575236",
+   "competition": {
+    "id": 78,
+    "name": "Bundesliga",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T14:30:00Z",
+   "home": {
+    "id": 192,
+    "name": "1. FC Köln",
+    "shortName": "1K",
+    "logo": "https://media.api-sports.io/football/teams/192.png"
+   },
+   "away": {
+    "id": 1660,
+    "name": "SV Elversberg",
+    "shortName": "SE",
+    "logo": "https://media.api-sports.io/football/teams/1660.png"
+   },
+   "summary": {
+    "en": "Bundesliga: 1. FC Köln host SV Elversberg. Recent form (last 5 matches): 1. FC Köln 20%, SV Elversberg 40%. Goals over those matches: 1. FC Köln 3 scored, 5 conceded; SV Elversberg 9 scored, 11 conceded.",
+    "fr": "Bundesliga : 1. FC Köln reçoit SV Elversberg. Forme récente (5 derniers matchs) : 1. FC Köln 20 %, SV Elversberg 40 %. Buts sur ces matchs : 1. FC Köln 3 marqués, 5 encaissés ; SV Elversberg 9 marqués, 11 encaissés.",
+    "es": "Bundesliga: 1. FC Köln recibe a SV Elversberg. Forma reciente (últimos 5 partidos): 1. FC Köln 20 %, SV Elversberg 40 %. Goles en esos partidos: 1. FC Köln 3 a favor, 5 en contra; SV Elversberg 9 a favor, 11 en contra.",
+    "ar": "Bundesliga: يستضيف 1. FC Köln فريق SV Elversberg. الأداء الأخير (آخر 5 مباريات): 1. FC Köln 20٪، SV Elversberg 40٪. الأهداف في تلك المباريات: 1. FC Köln سجل 3 واستقبل 5؛ SV Elversberg سجل 9 واستقبل 11."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 20,
+     "goalsFor": 3,
+     "goalsAgainst": 5
+    },
+    "away": {
+     "formPercent": 40,
+     "goalsFor": 9,
+     "goalsAgainst": 11
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1575238",
+   "competition": {
+    "id": 78,
+    "name": "Bundesliga",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T14:30:00Z",
+   "home": {
+    "id": 185,
+    "name": "SC Paderborn 07",
+    "shortName": "P0",
+    "logo": "https://media.api-sports.io/football/teams/185.png"
+   },
+   "away": {
+    "id": 174,
+    "name": "FC Schalke 04",
+    "shortName": "S0",
+    "logo": "https://media.api-sports.io/football/teams/174.png"
+   },
+   "summary": {
+    "en": "Bundesliga: SC Paderborn 07 host FC Schalke 04. Recent form (last 5 matches): SC Paderborn 07 40%, FC Schalke 04 13%. Goals over those matches: SC Paderborn 07 5 scored, 8 conceded; FC Schalke 04 1 scored, 5 conceded.",
+    "fr": "Bundesliga : SC Paderborn 07 reçoit FC Schalke 04. Forme récente (5 derniers matchs) : SC Paderborn 07 40 %, FC Schalke 04 13 %. Buts sur ces matchs : SC Paderborn 07 5 marqués, 8 encaissés ; FC Schalke 04 1 marqués, 5 encaissés.",
+    "es": "Bundesliga: SC Paderborn 07 recibe a FC Schalke 04. Forma reciente (últimos 5 partidos): SC Paderborn 07 40 %, FC Schalke 04 13 %. Goles en esos partidos: SC Paderborn 07 5 a favor, 8 en contra; FC Schalke 04 1 a favor, 5 en contra.",
+    "ar": "Bundesliga: يستضيف SC Paderborn 07 فريق FC Schalke 04. الأداء الأخير (آخر 5 مباريات): SC Paderborn 07 40٪، FC Schalke 04 13٪. الأهداف في تلك المباريات: SC Paderborn 07 سجل 5 واستقبل 8؛ FC Schalke 04 سجل 1 واستقبل 5."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 40,
+     "goalsFor": 5,
+     "goalsAgainst": 8
+    },
+    "away": {
+     "formPercent": 13,
+     "goalsFor": 1,
+     "goalsAgainst": 5
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1557483",
+   "competition": {
+    "id": 39,
+    "name": "Premier League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T15:00:00Z",
+   "home": {
+    "id": 63,
+    "name": "Leeds",
+    "shortName": "LEE",
+    "logo": "https://media.api-sports.io/football/teams/63.png"
+   },
+   "away": {
+    "id": 1346,
+    "name": "Coventry",
+    "shortName": "COV",
+    "logo": "https://media.api-sports.io/football/teams/1346.png"
+   },
+   "summary": {
+    "en": "Premier League: Leeds host Coventry. Recent form (last 5 matches): Leeds 53%, Coventry 40%. Goals over those matches: Leeds 6 scored, 4 conceded; Coventry 8 scored, 10 conceded.",
+    "fr": "Premier League : Leeds reçoit Coventry. Forme récente (5 derniers matchs) : Leeds 53 %, Coventry 40 %. Buts sur ces matchs : Leeds 6 marqués, 4 encaissés ; Coventry 8 marqués, 10 encaissés.",
+    "es": "Premier League: Leeds recibe a Coventry. Forma reciente (últimos 5 partidos): Leeds 53 %, Coventry 40 %. Goles en esos partidos: Leeds 6 a favor, 4 en contra; Coventry 8 a favor, 10 en contra.",
+    "ar": "Premier League: يستضيف Leeds فريق Coventry. الأداء الأخير (آخر 5 مباريات): Leeds 53٪، Coventry 40٪. الأهداف في تلك المباريات: Leeds سجل 6 واستقبل 4؛ Coventry سجل 8 واستقبل 10."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 53,
+     "goalsFor": 6,
+     "goalsAgainst": 4
+    },
+    "away": {
+     "formPercent": 40,
+     "goalsFor": 8,
+     "goalsAgainst": 10
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1557484",
+   "competition": {
+    "id": 39,
+    "name": "Premier League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T15:00:00Z",
+   "home": {
+    "id": 33,
+    "name": "Manchester United",
+    "shortName": "MU",
+    "logo": "https://media.api-sports.io/football/teams/33.png"
+   },
+   "away": {
+    "id": 55,
+    "name": "Brentford",
+    "shortName": "BRE",
+    "logo": "https://media.api-sports.io/football/teams/55.png"
+   },
+   "summary": {
+    "en": "Premier League: Manchester United host Brentford. Recent form (last 5 matches): Manchester United 13%, Brentford 47%. Goals over those matches: Manchester United 5 scored, 14 conceded; Brentford 8 scored, 5 conceded.",
+    "fr": "Premier League : Manchester United reçoit Brentford. Forme récente (5 derniers matchs) : Manchester United 13 %, Brentford 47 %. Buts sur ces matchs : Manchester United 5 marqués, 14 encaissés ; Brentford 8 marqués, 5 encaissés.",
+    "es": "Premier League: Manchester United recibe a Brentford. Forma reciente (últimos 5 partidos): Manchester United 13 %, Brentford 47 %. Goles en esos partidos: Manchester United 5 a favor, 14 en contra; Brentford 8 a favor, 5 en contra.",
+    "ar": "Premier League: يستضيف Manchester United فريق Brentford. الأداء الأخير (آخر 5 مباريات): Manchester United 13٪، Brentford 47٪. الأهداف في تلك المباريات: Manchester United سجل 5 واستقبل 14؛ Brentford سجل 8 واستقبل 5."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 13,
+     "goalsFor": 5,
+     "goalsAgainst": 14
+    },
+    "away": {
+     "formPercent": 47,
+     "goalsFor": 8,
+     "goalsAgainst": 5
+    }
+   },
+   "homeLast": [
+    {
+     "date": "2026-11-25",
+     "opponent": "Sporting CP",
+     "atHome": false,
+     "goalsFor": 2,
+     "goalsAgainst": 2
+    }
+   ],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1570469",
+   "competition": {
+    "id": 140,
+    "name": "LaLiga",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T15:15:00Z",
+   "home": {
+    "id": 535,
+    "name": "Malaga",
+    "shortName": "MAL",
+    "logo": "https://media.api-sports.io/football/teams/535.png"
+   },
+   "away": {
+    "id": 531,
+    "name": "Athletic Club",
+    "shortName": "ATH",
+    "logo": "https://media.api-sports.io/football/teams/531.png"
+   },
+   "summary": {
+    "en": "LaLiga: Malaga host Athletic Club. Recent form (last 5 matches): Malaga 7%, Athletic Club 47%. Goals over those matches: Malaga 5 scored, 11 conceded; Athletic Club 8 scored, 6 conceded.",
+    "fr": "LaLiga : Malaga reçoit Athletic Club. Forme récente (5 derniers matchs) : Malaga 7 %, Athletic Club 47 %. Buts sur ces matchs : Malaga 5 marqués, 11 encaissés ; Athletic Club 8 marqués, 6 encaissés.",
+    "es": "LaLiga: Malaga recibe a Athletic Club. Forma reciente (últimos 5 partidos): Malaga 7 %, Athletic Club 47 %. Goles en esos partidos: Malaga 5 a favor, 11 en contra; Athletic Club 8 a favor, 6 en contra.",
+    "ar": "LaLiga: يستضيف Malaga فريق Athletic Club. الأداء الأخير (آخر 5 مباريات): Malaga 7٪، Athletic Club 47٪. الأهداف في تلك المباريات: Malaga سجل 5 واستقبل 11؛ Athletic Club سجل 8 واستقبل 6."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 7,
+     "goalsFor": 5,
+     "goalsAgainst": 11
+    },
+    "away": {
+     "formPercent": 47,
+     "goalsFor": 8,
+     "goalsAgainst": 6
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1651746",
+   "competition": {
+    "id": 200,
+    "name": "Botola Pro",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T16:00:00Z",
+   "home": {
+    "id": 22218,
+    "name": "CODM Meknès",
+    "shortName": "CM",
+    "logo": "https://media.api-sports.io/football/teams/22218.png"
+   },
+   "away": {
+    "id": 3449,
+    "name": "CR Khemis Zemamra",
+    "shortName": "CKZ",
+    "logo": "https://media.api-sports.io/football/teams/3449.png"
+   },
+   "summary": {
+    "en": "Botola Pro: CODM Meknès host CR Khemis Zemamra. Recent form (last 5 matches): CODM Meknès 73%, CR Khemis Zemamra 13%. Goals over those matches: CODM Meknès 4 scored, 1 conceded; CR Khemis Zemamra 5 scored, 10 conceded.",
+    "fr": "Botola Pro : CODM Meknès reçoit CR Khemis Zemamra. Forme récente (5 derniers matchs) : CODM Meknès 73 %, CR Khemis Zemamra 13 %. Buts sur ces matchs : CODM Meknès 4 marqués, 1 encaissés ; CR Khemis Zemamra 5 marqués, 10 encaissés.",
+    "es": "Botola Pro: CODM Meknès recibe a CR Khemis Zemamra. Forma reciente (últimos 5 partidos): CODM Meknès 73 %, CR Khemis Zemamra 13 %. Goles en esos partidos: CODM Meknès 4 a favor, 1 en contra; CR Khemis Zemamra 5 a favor, 10 en contra.",
+    "ar": "Botola Pro: يستضيف CODM Meknès فريق CR Khemis Zemamra. الأداء الأخير (آخر 5 مباريات): CODM Meknès 73٪، CR Khemis Zemamra 13٪. الأهداف في تلك المباريات: CODM Meknès سجل 4 واستقبل 1؛ CR Khemis Zemamra سجل 5 واستقبل 10."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 73,
+     "goalsFor": 4,
+     "goalsAgainst": 1
+    },
+    "away": {
+     "formPercent": 13,
+     "goalsFor": 5,
+     "goalsAgainst": 10
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1552828",
+   "competition": {
+    "id": 61,
+    "name": "Ligue 1",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T16:15:00Z",
+   "home": {
+    "id": 77,
+    "name": "Angers",
+    "shortName": "ANG",
+    "logo": "https://media.api-sports.io/football/teams/77.png"
+   },
+   "away": {
+    "id": 116,
+    "name": "Lens",
+    "shortName": "LEN",
+    "logo": "https://media.api-sports.io/football/teams/116.png"
+   },
+   "summary": {
+    "en": "Ligue 1: Angers host Lens. Recent form (last 5 matches): Angers 7%, Lens 47%. Goals over those matches: Angers 2 scored, 13 conceded; Lens 7 scored, 6 conceded.",
+    "fr": "Ligue 1 : Angers reçoit Lens. Forme récente (5 derniers matchs) : Angers 7 %, Lens 47 %. Buts sur ces matchs : Angers 2 marqués, 13 encaissés ; Lens 7 marqués, 6 encaissés.",
+    "es": "Ligue 1: Angers recibe a Lens. Forma reciente (últimos 5 partidos): Angers 7 %, Lens 47 %. Goles en esos partidos: Angers 2 a favor, 13 en contra; Lens 7 a favor, 6 en contra.",
+    "ar": "Ligue 1: يستضيف Angers فريق Lens. الأداء الأخير (آخر 5 مباريات): Angers 7٪، Lens 47٪. الأهداف في تلك المباريات: Angers سجل 2 واستقبل 13؛ Lens سجل 7 واستقبل 6."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 7,
+     "goalsFor": 2,
+     "goalsAgainst": 13
+    },
+    "away": {
+     "formPercent": 47,
+     "goalsFor": 7,
+     "goalsAgainst": 6
+    }
+   },
+   "homeLast": [],
+   "awayLast": [
+    {
+     "date": "2026-11-24",
+     "opponent": "RB Leipzig",
+     "atHome": false,
+     "goalsFor": 1,
+     "goalsAgainst": 3
+    }
+   ],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1550214",
+   "competition": {
+    "id": 135,
+    "name": "Serie A",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T17:00:00Z",
+   "home": {
+    "id": 503,
+    "name": "Torino",
+    "shortName": "TOR",
+    "logo": "https://media.api-sports.io/football/teams/503.png"
+   },
+   "away": {
+    "id": 487,
+    "name": "Lazio",
+    "shortName": "LAZ",
+    "logo": "https://media.api-sports.io/football/teams/487.png"
+   },
+   "summary": {
+    "en": "Serie A: Torino host Lazio. Recent form (last 5 matches): Torino 27%, Lazio 87%. Goals over those matches: Torino 5 scored, 9 conceded; Lazio 14 scored, 5 conceded.",
+    "fr": "Serie A : Torino reçoit Lazio. Forme récente (5 derniers matchs) : Torino 27 %, Lazio 87 %. Buts sur ces matchs : Torino 5 marqués, 9 encaissés ; Lazio 14 marqués, 5 encaissés.",
+    "es": "Serie A: Torino recibe a Lazio. Forma reciente (últimos 5 partidos): Torino 27 %, Lazio 87 %. Goles en esos partidos: Torino 5 a favor, 9 en contra; Lazio 14 a favor, 5 en contra.",
+    "ar": "Serie A: يستضيف Torino فريق Lazio. الأداء الأخير (آخر 5 مباريات): Torino 27٪، Lazio 87٪. الأهداف في تلك المباريات: Torino سجل 5 واستقبل 9؛ Lazio سجل 14 واستقبل 5."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 27,
+     "goalsFor": 5,
+     "goalsAgainst": 9
+    },
+    "away": {
+     "formPercent": 87,
+     "goalsFor": 14,
+     "goalsAgainst": 5
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1557482",
+   "competition": {
+    "id": 39,
+    "name": "Premier League",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T17:30:00Z",
+   "home": {
+    "id": 57,
+    "name": "Ipswich",
+    "shortName": "IPS",
+    "logo": "https://media.api-sports.io/football/teams/57.png"
+   },
+   "away": {
+    "id": 66,
+    "name": "Aston Villa",
+    "shortName": "AV",
+    "logo": "https://media.api-sports.io/football/teams/66.png"
+   },
+   "summary": {
+    "en": "Premier League: Ipswich host Aston Villa. Recent form (last 5 matches): Ipswich 13%, Aston Villa 60%. Goals over those matches: Ipswich 6 scored, 10 conceded; Aston Villa 8 scored, 6 conceded.",
+    "fr": "Premier League : Ipswich reçoit Aston Villa. Forme récente (5 derniers matchs) : Ipswich 13 %, Aston Villa 60 %. Buts sur ces matchs : Ipswich 6 marqués, 10 encaissés ; Aston Villa 8 marqués, 6 encaissés.",
+    "es": "Premier League: Ipswich recibe a Aston Villa. Forma reciente (últimos 5 partidos): Ipswich 13 %, Aston Villa 60 %. Goles en esos partidos: Ipswich 6 a favor, 10 en contra; Aston Villa 8 a favor, 6 en contra.",
+    "ar": "Premier League: يستضيف Ipswich فريق Aston Villa. الأداء الأخير (آخر 5 مباريات): Ipswich 13٪، Aston Villa 60٪. الأهداف في تلك المباريات: Ipswich سجل 6 واستقبل 10؛ Aston Villa سجل 8 واستقبل 6."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 13,
+     "goalsFor": 6,
+     "goalsAgainst": 10
+    },
+    "away": {
+     "formPercent": 60,
+     "goalsFor": 8,
+     "goalsAgainst": 6
+    }
+   },
+   "homeLast": [],
+   "awayLast": [
+    {
+     "date": "2026-11-24",
+     "opponent": "Galatasaray",
+     "atHome": false,
+     "goalsFor": 0,
+     "goalsAgainst": 1
+    }
+   ],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1570466",
+   "competition": {
+    "id": 140,
+    "name": "LaLiga",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T17:30:00Z",
+   "home": {
+    "id": 797,
+    "name": "Elche",
+    "shortName": "ELC",
+    "logo": "https://media.api-sports.io/football/teams/797.png"
+   },
+   "away": {
+    "id": 530,
+    "name": "Atletico Madrid",
+    "shortName": "AM",
+    "logo": "https://media.api-sports.io/football/teams/530.png"
+   },
+   "summary": {
+    "en": "LaLiga: Elche host Atletico Madrid. Recent form (last 5 matches): Elche 33%, Atletico Madrid 80%. Goals over those matches: Elche 4 scored, 4 conceded; Atletico Madrid 8 scored, 2 conceded.",
+    "fr": "LaLiga : Elche reçoit Atletico Madrid. Forme récente (5 derniers matchs) : Elche 33 %, Atletico Madrid 80 %. Buts sur ces matchs : Elche 4 marqués, 4 encaissés ; Atletico Madrid 8 marqués, 2 encaissés.",
+    "es": "LaLiga: Elche recibe a Atletico Madrid. Forma reciente (últimos 5 partidos): Elche 33 %, Atletico Madrid 80 %. Goles en esos partidos: Elche 4 a favor, 4 en contra; Atletico Madrid 8 a favor, 2 en contra.",
+    "ar": "LaLiga: يستضيف Elche فريق Atletico Madrid. الأداء الأخير (آخر 5 مباريات): Elche 33٪، Atletico Madrid 80٪. الأهداف في تلك المباريات: Elche سجل 4 واستقبل 4؛ Atletico Madrid سجل 8 واستقبل 2."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 33,
+     "goalsFor": 4,
+     "goalsAgainst": 4
+    },
+    "away": {
+     "formPercent": 80,
+     "goalsFor": 8,
+     "goalsAgainst": 2
+    }
+   },
+   "homeLast": [],
+   "awayLast": [
+    {
+     "date": "2026-11-25",
+     "opponent": "Viking",
+     "atHome": true,
+     "goalsFor": 2,
+     "goalsAgainst": 0
+    }
+   ],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1575231",
+   "competition": {
+    "id": 78,
+    "name": "Bundesliga",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T17:30:00Z",
+   "home": {
+    "id": 172,
+    "name": "VfB Stuttgart",
+    "shortName": "VS",
+    "logo": "https://media.api-sports.io/football/teams/172.png"
+   },
+   "away": {
+    "id": 169,
+    "name": "Eintracht Frankfurt",
+    "shortName": "EF",
+    "logo": "https://media.api-sports.io/football/teams/169.png"
+   },
+   "summary": {
+    "en": "Bundesliga: VfB Stuttgart host Eintracht Frankfurt. Recent form (last 5 matches): VfB Stuttgart 47%, Eintracht Frankfurt 67%. Goals over those matches: VfB Stuttgart 7 scored, 6 conceded; Eintracht Frankfurt 7 scored, 4 conceded.",
+    "fr": "Bundesliga : VfB Stuttgart reçoit Eintracht Frankfurt. Forme récente (5 derniers matchs) : VfB Stuttgart 47 %, Eintracht Frankfurt 67 %. Buts sur ces matchs : VfB Stuttgart 7 marqués, 6 encaissés ; Eintracht Frankfurt 7 marqués, 4 encaissés.",
+    "es": "Bundesliga: VfB Stuttgart recibe a Eintracht Frankfurt. Forma reciente (últimos 5 partidos): VfB Stuttgart 47 %, Eintracht Frankfurt 67 %. Goles en esos partidos: VfB Stuttgart 7 a favor, 6 en contra; Eintracht Frankfurt 7 a favor, 4 en contra.",
+    "ar": "Bundesliga: يستضيف VfB Stuttgart فريق Eintracht Frankfurt. الأداء الأخير (آخر 5 مباريات): VfB Stuttgart 47٪، Eintracht Frankfurt 67٪. الأهداف في تلك المباريات: VfB Stuttgart سجل 7 واستقبل 6؛ Eintracht Frankfurt سجل 7 واستقبل 4."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 47,
+     "goalsFor": 7,
+     "goalsAgainst": 6
+    },
+    "away": {
+     "formPercent": 67,
+     "goalsFor": 7,
+     "goalsAgainst": 4
+    }
+   },
+   "homeLast": [
+    {
+     "date": "2026-11-25",
+     "opponent": "Inter",
+     "atHome": false,
+     "goalsFor": 0,
+     "goalsAgainst": 2
+    }
+   ],
+   "awayLast": [],
+   "analysisCandidate": true,
+   "analysis": null
+  },
+  {
+   "id": "1550211",
+   "competition": {
+    "id": 135,
+    "name": "Serie A",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T19:45:00Z",
+   "home": {
+    "id": 505,
+    "name": "Inter",
+    "shortName": "INT",
+    "logo": "https://media.api-sports.io/football/teams/505.png"
+   },
+   "away": {
+    "id": 495,
+    "name": "Genoa",
+    "shortName": "GEN",
+    "logo": "https://media.api-sports.io/football/teams/495.png"
+   },
+   "summary": {
+    "en": "Serie A: Inter host Genoa. Recent form (last 5 matches): Inter 67%, Genoa 80%. Goals over those matches: Inter 11 scored, 8 conceded; Genoa 8 scored, 3 conceded.",
+    "fr": "Serie A : Inter reçoit Genoa. Forme récente (5 derniers matchs) : Inter 67 %, Genoa 80 %. Buts sur ces matchs : Inter 11 marqués, 8 encaissés ; Genoa 8 marqués, 3 encaissés.",
+    "es": "Serie A: Inter recibe a Genoa. Forma reciente (últimos 5 partidos): Inter 67 %, Genoa 80 %. Goles en esos partidos: Inter 11 a favor, 8 en contra; Genoa 8 a favor, 3 en contra.",
+    "ar": "Serie A: يستضيف Inter فريق Genoa. الأداء الأخير (آخر 5 مباريات): Inter 67٪، Genoa 80٪. الأهداف في تلك المباريات: Inter سجل 11 واستقبل 8؛ Genoa سجل 8 واستقبل 3."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 67,
+     "goalsFor": 11,
+     "goalsAgainst": 8
+    },
+    "away": {
+     "formPercent": 80,
+     "goalsFor": 8,
+     "goalsAgainst": 3
+    }
+   },
+   "homeLast": [
+    {
+     "date": "2026-11-25",
+     "opponent": "VfB Stuttgart",
+     "atHome": true,
+     "goalsFor": 2,
+     "goalsAgainst": 0
+    }
+   ],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1552831",
+   "competition": {
+    "id": 61,
+    "name": "Ligue 1",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T19:45:00Z",
+   "home": {
+    "id": 111,
+    "name": "Le Havre",
+    "shortName": "HAV",
+    "logo": "https://media.api-sports.io/football/teams/111.png"
+   },
+   "away": {
+    "id": 95,
+    "name": "Strasbourg",
+    "shortName": "STR",
+    "logo": "https://media.api-sports.io/football/teams/95.png"
+   },
+   "summary": {
+    "en": "Ligue 1: Le Havre host Strasbourg. Recent form (last 5 matches): Le Havre 0%, Strasbourg 20%. Goals over those matches: Le Havre 6 scored, 17 conceded; Strasbourg 7 scored, 11 conceded.",
+    "fr": "Ligue 1 : Le Havre reçoit Strasbourg. Forme récente (5 derniers matchs) : Le Havre 0 %, Strasbourg 20 %. Buts sur ces matchs : Le Havre 6 marqués, 17 encaissés ; Strasbourg 7 marqués, 11 encaissés.",
+    "es": "Ligue 1: Le Havre recibe a Strasbourg. Forma reciente (últimos 5 partidos): Le Havre 0 %, Strasbourg 20 %. Goles en esos partidos: Le Havre 6 a favor, 17 en contra; Strasbourg 7 a favor, 11 en contra.",
+    "ar": "Ligue 1: يستضيف Le Havre فريق Strasbourg. الأداء الأخير (آخر 5 مباريات): Le Havre 0٪، Strasbourg 20٪. الأهداف في تلك المباريات: Le Havre سجل 6 واستقبل 17؛ Strasbourg سجل 7 واستقبل 11."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 0,
+     "goalsFor": 6,
+     "goalsAgainst": 17
+    },
+    "away": {
+     "formPercent": 20,
+     "goalsFor": 7,
+     "goalsAgainst": 11
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1552832",
+   "competition": {
+    "id": 61,
+    "name": "Ligue 1",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T19:45:00Z",
+   "home": {
+    "id": 1298,
+    "name": "Le Mans",
+    "shortName": "MAN",
+    "logo": "https://media.api-sports.io/football/teams/1298.png"
+   },
+   "away": {
+    "id": 79,
+    "name": "Lille",
+    "shortName": "LIL",
+    "logo": "https://media.api-sports.io/football/teams/79.png"
+   },
+   "summary": {
+    "en": "Ligue 1: Le Mans host Lille. Recent form (last 5 matches): Le Mans 33%, Lille 53%. Goals over those matches: Le Mans 5 scored, 9 conceded; Lille 5 scored, 4 conceded.",
+    "fr": "Ligue 1 : Le Mans reçoit Lille. Forme récente (5 derniers matchs) : Le Mans 33 %, Lille 53 %. Buts sur ces matchs : Le Mans 5 marqués, 9 encaissés ; Lille 5 marqués, 4 encaissés.",
+    "es": "Ligue 1: Le Mans recibe a Lille. Forma reciente (últimos 5 partidos): Le Mans 33 %, Lille 53 %. Goles en esos partidos: Le Mans 5 a favor, 9 en contra; Lille 5 a favor, 4 en contra.",
+    "ar": "Ligue 1: يستضيف Le Mans فريق Lille. الأداء الأخير (آخر 5 مباريات): Le Mans 33٪، Lille 53٪. الأهداف في تلك المباريات: Le Mans سجل 5 واستقبل 9؛ Lille سجل 5 واستقبل 4."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 33,
+     "goalsFor": 5,
+     "goalsAgainst": 9
+    },
+    "away": {
+     "formPercent": 53,
+     "goalsFor": 5,
+     "goalsAgainst": 4
+    }
+   },
+   "homeLast": [],
+   "awayLast": [
+    {
+     "date": "2026-11-25",
+     "opponent": "Bayern München",
+     "atHome": true,
+     "goalsFor": 2,
+     "goalsAgainst": 1
+    }
+   ],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1552834",
+   "competition": {
+    "id": 61,
+    "name": "Ligue 1",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T19:45:00Z",
+   "home": {
+    "id": 84,
+    "name": "Nice",
+    "shortName": "NIC",
+    "logo": "https://media.api-sports.io/football/teams/84.png"
+   },
+   "away": {
+    "id": 110,
+    "name": "Estac Troyes",
+    "shortName": "ET",
+    "logo": "https://media.api-sports.io/football/teams/110.png"
+   },
+   "summary": {
+    "en": "Ligue 1: Nice host Estac Troyes. Recent form (last 5 matches): Nice 60%, Estac Troyes 47%. Goals over those matches: Nice 12 scored, 8 conceded; Estac Troyes 6 scored, 5 conceded.",
+    "fr": "Ligue 1 : Nice reçoit Estac Troyes. Forme récente (5 derniers matchs) : Nice 60 %, Estac Troyes 47 %. Buts sur ces matchs : Nice 12 marqués, 8 encaissés ; Estac Troyes 6 marqués, 5 encaissés.",
+    "es": "Ligue 1: Nice recibe a Estac Troyes. Forma reciente (últimos 5 partidos): Nice 60 %, Estac Troyes 47 %. Goles en esos partidos: Nice 12 a favor, 8 en contra; Estac Troyes 6 a favor, 5 en contra.",
+    "ar": "Ligue 1: يستضيف Nice فريق Estac Troyes. الأداء الأخير (آخر 5 مباريات): Nice 60٪، Estac Troyes 47٪. الأهداف في تلك المباريات: Nice سجل 12 واستقبل 8؛ Estac Troyes سجل 6 واستقبل 5."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 60,
+     "goalsFor": 12,
+     "goalsAgainst": 8
+    },
+    "away": {
+     "formPercent": 47,
+     "goalsFor": 6,
+     "goalsAgainst": 5
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1552835",
+   "competition": {
+    "id": 61,
+    "name": "Ligue 1",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T19:45:00Z",
+   "home": {
+    "id": 85,
+    "name": "Paris Saint Germain",
+    "shortName": "PSG",
+    "logo": "https://media.api-sports.io/football/teams/85.png"
+   },
+   "away": {
+    "id": 97,
+    "name": "Lorient",
+    "shortName": "LOR",
+    "logo": "https://media.api-sports.io/football/teams/97.png"
+   },
+   "summary": {
+    "en": "Ligue 1: Paris Saint Germain host Lorient. Recent form (last 5 matches): Paris Saint Germain 100%, Lorient 53%. Goals over those matches: Paris Saint Germain 14 scored, 4 conceded; Lorient 4 scored, 3 conceded.",
+    "fr": "Ligue 1 : Paris Saint Germain reçoit Lorient. Forme récente (5 derniers matchs) : Paris Saint Germain 100 %, Lorient 53 %. Buts sur ces matchs : Paris Saint Germain 14 marqués, 4 encaissés ; Lorient 4 marqués, 3 encaissés.",
+    "es": "Ligue 1: Paris Saint Germain recibe a Lorient. Forma reciente (últimos 5 partidos): Paris Saint Germain 100 %, Lorient 53 %. Goles en esos partidos: Paris Saint Germain 14 a favor, 4 en contra; Lorient 4 a favor, 3 en contra.",
+    "ar": "Ligue 1: يستضيف Paris Saint Germain فريق Lorient. الأداء الأخير (آخر 5 مباريات): Paris Saint Germain 100٪، Lorient 53٪. الأهداف في تلك المباريات: Paris Saint Germain سجل 14 واستقبل 4؛ Lorient سجل 4 واستقبل 3."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 100,
+     "goalsFor": 14,
+     "goalsAgainst": 4
+    },
+    "away": {
+     "formPercent": 53,
+     "goalsFor": 4,
+     "goalsAgainst": 3
+    }
+   },
+   "homeLast": [
+    {
+     "date": "2026-11-25",
+     "opponent": "AS Roma",
+     "atHome": true,
+     "goalsFor": 2,
+     "goalsAgainst": 2
+    }
+   ],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1570470",
+   "competition": {
+    "id": 140,
+    "name": "LaLiga",
+    "priority": 2
+   },
+   "kickoff": "2026-11-28T20:00:00Z",
+   "home": {
+    "id": 541,
+    "name": "Real Madrid",
+    "shortName": "MAD",
+    "logo": "https://media.api-sports.io/football/teams/541.png"
+   },
+   "away": {
+    "id": 542,
+    "name": "Alaves",
+    "shortName": "ALA",
+    "logo": "https://media.api-sports.io/football/teams/542.png"
+   },
+   "summary": {
+    "en": "LaLiga: Real Madrid host Alaves. Recent form (last 5 matches): Real Madrid 100%, Alaves 33%. Goals over those matches: Real Madrid 14 scored, 3 conceded; Alaves 6 scored, 10 conceded.",
+    "fr": "LaLiga : Real Madrid reçoit Alaves. Forme récente (5 derniers matchs) : Real Madrid 100 %, Alaves 33 %. Buts sur ces matchs : Real Madrid 14 marqués, 3 encaissés ; Alaves 6 marqués, 10 encaissés.",
+    "es": "LaLiga: Real Madrid recibe a Alaves. Forma reciente (últimos 5 partidos): Real Madrid 100 %, Alaves 33 %. Goles en esos partidos: Real Madrid 14 a favor, 3 en contra; Alaves 6 a favor, 10 en contra.",
+    "ar": "LaLiga: يستضيف Real Madrid فريق Alaves. الأداء الأخير (آخر 5 مباريات): Real Madrid 100٪، Alaves 33٪. الأهداف في تلك المباريات: Real Madrid سجل 14 واستقبل 3؛ Alaves سجل 6 واستقبل 10."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 100,
+     "goalsFor": 14,
+     "goalsAgainst": 3
+    },
+    "away": {
+     "formPercent": 33,
+     "goalsFor": 6,
+     "goalsAgainst": 10
+    }
+   },
+   "homeLast": [
+    {
+     "date": "2026-11-24",
+     "opponent": "PSV Eindhoven",
+     "atHome": true,
+     "goalsFor": 5,
+     "goalsAgainst": 1
+    }
+   ],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1603085",
+   "competition": {
+    "id": 307,
+    "name": "Saudi Pro League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-28T12:15:00Z",
+   "home": {
+    "id": 2945,
+    "name": "Al-Hazm",
+    "shortName": "HAZ",
+    "logo": "https://media.api-sports.io/football/teams/2945.png"
+   },
+   "away": {
+    "id": 2939,
+    "name": "Al-Nassr",
+    "shortName": "NAS",
+    "logo": "https://media.api-sports.io/football/teams/2939.png"
+   },
+   "summary": {
+    "en": "Saudi Pro League: Al-Hazm host Al-Nassr. Recent form (last 5 matches): Al-Hazm 13%, Al-Nassr 80%. Goals over those matches: Al-Hazm 7 scored, 11 conceded; Al-Nassr 13 scored, 7 conceded.",
+    "fr": "Saudi Pro League : Al-Hazm reçoit Al-Nassr. Forme récente (5 derniers matchs) : Al-Hazm 13 %, Al-Nassr 80 %. Buts sur ces matchs : Al-Hazm 7 marqués, 11 encaissés ; Al-Nassr 13 marqués, 7 encaissés.",
+    "es": "Saudi Pro League: Al-Hazm recibe a Al-Nassr. Forma reciente (últimos 5 partidos): Al-Hazm 13 %, Al-Nassr 80 %. Goles en esos partidos: Al-Hazm 7 a favor, 11 en contra; Al-Nassr 13 a favor, 7 en contra.",
+    "ar": "Saudi Pro League: يستضيف Al-Hazm فريق Al-Nassr. الأداء الأخير (آخر 5 مباريات): Al-Hazm 13٪، Al-Nassr 80٪. الأهداف في تلك المباريات: Al-Hazm سجل 7 واستقبل 11؛ Al-Nassr سجل 13 واستقبل 7."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 13,
+     "goalsFor": 7,
+     "goalsAgainst": 11
+    },
+    "away": {
+     "formPercent": 80,
+     "goalsFor": 13,
+     "goalsAgainst": 7
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1584483",
+   "competition": {
+    "id": 203,
+    "name": "Süper Lig",
+    "priority": 3
+   },
+   "kickoff": "2026-11-28T13:00:00Z",
+   "home": {
+    "id": 3603,
+    "name": "Samsunspor",
+    "shortName": "SAM",
+    "logo": "https://media.api-sports.io/football/teams/3603.png"
+   },
+   "away": {
+    "id": 997,
+    "name": "Gençlerbirliği S.K.",
+    "shortName": "GSK",
+    "logo": "https://media.api-sports.io/football/teams/997.png"
+   },
+   "summary": {
+    "en": "Süper Lig: Samsunspor host Gençlerbirliği S.K.. Recent form (last 5 matches): Samsunspor 20%, Gençlerbirliği S.K. 40%. Goals over those matches: Samsunspor 6 scored, 13 conceded; Gençlerbirliği S.K. 6 scored, 6 conceded.",
+    "fr": "Süper Lig : Samsunspor reçoit Gençlerbirliği S.K.. Forme récente (5 derniers matchs) : Samsunspor 20 %, Gençlerbirliği S.K. 40 %. Buts sur ces matchs : Samsunspor 6 marqués, 13 encaissés ; Gençlerbirliği S.K. 6 marqués, 6 encaissés.",
+    "es": "Süper Lig: Samsunspor recibe a Gençlerbirliği S.K.. Forma reciente (últimos 5 partidos): Samsunspor 20 %, Gençlerbirliği S.K. 40 %. Goles en esos partidos: Samsunspor 6 a favor, 13 en contra; Gençlerbirliği S.K. 6 a favor, 6 en contra.",
+    "ar": "Süper Lig: يستضيف Samsunspor فريق Gençlerbirliği S.K.. الأداء الأخير (آخر 5 مباريات): Samsunspor 20٪، Gençlerbirliği S.K. 40٪. الأهداف في تلك المباريات: Samsunspor سجل 6 واستقبل 13؛ Gençlerbirliği S.K. سجل 6 واستقبل 6."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 20,
+     "goalsFor": 6,
+     "goalsAgainst": 13
+    },
+    "away": {
+     "formPercent": 40,
+     "goalsFor": 6,
+     "goalsAgainst": 6
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1597970",
+   "competition": {
+    "id": 305,
+    "name": "Qatar Stars League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-28T13:00:00Z",
+   "home": {
+    "id": 2900,
+    "name": "Al Wakrah",
+    "shortName": "WAK",
+    "logo": "https://media.api-sports.io/football/teams/2900.png"
+   },
+   "away": {
+    "id": 2895,
+    "name": "Al Sadd",
+    "shortName": "SAD",
+    "logo": "https://media.api-sports.io/football/teams/2895.png"
+   },
+   "summary": {
+    "en": "Qatar Stars League: Al Wakrah host Al Sadd. Recent form (last 5 matches): Al Wakrah 40%, Al Sadd 60%. Goals over those matches: Al Wakrah 9 scored, 11 conceded; Al Sadd 16 scored, 10 conceded.",
+    "fr": "Qatar Stars League : Al Wakrah reçoit Al Sadd. Forme récente (5 derniers matchs) : Al Wakrah 40 %, Al Sadd 60 %. Buts sur ces matchs : Al Wakrah 9 marqués, 11 encaissés ; Al Sadd 16 marqués, 10 encaissés.",
+    "es": "Qatar Stars League: Al Wakrah recibe a Al Sadd. Forma reciente (últimos 5 partidos): Al Wakrah 40 %, Al Sadd 60 %. Goles en esos partidos: Al Wakrah 9 a favor, 11 en contra; Al Sadd 16 a favor, 10 en contra.",
+    "ar": "Qatar Stars League: يستضيف Al Wakrah فريق Al Sadd. الأداء الأخير (آخر 5 مباريات): Al Wakrah 40٪، Al Sadd 60٪. الأهداف في تلك المباريات: Al Wakrah سجل 9 واستقبل 11؛ Al Sadd سجل 16 واستقبل 10."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 40,
+     "goalsFor": 9,
+     "goalsAgainst": 11
+    },
+    "away": {
+     "formPercent": 60,
+     "goalsFor": 16,
+     "goalsAgainst": 10
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1647677",
+   "competition": {
+    "id": 12,
+    "name": "CAF Champions League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-28T13:00:00Z",
+   "home": {
+    "id": 5370,
+    "name": "Young Africans",
+    "shortName": "YA",
+    "logo": "https://media.api-sports.io/football/teams/5370.png"
+   },
+   "away": {
+    "id": 906,
+    "name": "MC Alger",
+    "shortName": "MA",
+    "logo": "https://media.api-sports.io/football/teams/906.png"
+   },
+   "summary": {
+    "en": "CAF Champions League: Young Africans host MC Alger. Recent form (last 5 matches): Young Africans 83%, MC Alger 58%. Goals over those matches: Young Africans 11 scored, 3 conceded; MC Alger 8 scored, 2 conceded.",
+    "fr": "CAF Champions League : Young Africans reçoit MC Alger. Forme récente (5 derniers matchs) : Young Africans 83 %, MC Alger 58 %. Buts sur ces matchs : Young Africans 11 marqués, 3 encaissés ; MC Alger 8 marqués, 2 encaissés.",
+    "es": "CAF Champions League: Young Africans recibe a MC Alger. Forma reciente (últimos 5 partidos): Young Africans 83 %, MC Alger 58 %. Goles en esos partidos: Young Africans 11 a favor, 3 en contra; MC Alger 8 a favor, 2 en contra.",
+    "ar": "CAF Champions League: يستضيف Young Africans فريق MC Alger. الأداء الأخير (آخر 5 مباريات): Young Africans 83٪، MC Alger 58٪. الأهداف في تلك المباريات: Young Africans سجل 11 واستقبل 3؛ MC Alger سجل 8 واستقبل 2."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 83,
+     "goalsFor": 11,
+     "goalsAgainst": 3
+    },
+    "away": {
+     "formPercent": 58,
+     "goalsFor": 8,
+     "goalsAgainst": 2
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1603082",
+   "competition": {
+    "id": 307,
+    "name": "Saudi Pro League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-28T14:20:00Z",
+   "home": {
+    "id": 2934,
+    "name": "Al-Ettifaq",
+    "shortName": "ETT",
+    "logo": "https://media.api-sports.io/football/teams/2934.png"
+   },
+   "away": {
+    "id": 2932,
+    "name": "Al-Hilal Saudi FC",
+    "shortName": "HS",
+    "logo": "https://media.api-sports.io/football/teams/2932.png"
+   },
+   "summary": {
+    "en": "Saudi Pro League: Al-Ettifaq host Al-Hilal Saudi FC. Recent form (last 5 matches): Al-Ettifaq 53%, Al-Hilal Saudi FC 100%. Goals over those matches: Al-Ettifaq 7 scored, 6 conceded; Al-Hilal Saudi FC 15 scored, 4 conceded.",
+    "fr": "Saudi Pro League : Al-Ettifaq reçoit Al-Hilal Saudi FC. Forme récente (5 derniers matchs) : Al-Ettifaq 53 %, Al-Hilal Saudi FC 100 %. Buts sur ces matchs : Al-Ettifaq 7 marqués, 6 encaissés ; Al-Hilal Saudi FC 15 marqués, 4 encaissés.",
+    "es": "Saudi Pro League: Al-Ettifaq recibe a Al-Hilal Saudi FC. Forma reciente (últimos 5 partidos): Al-Ettifaq 53 %, Al-Hilal Saudi FC 100 %. Goles en esos partidos: Al-Ettifaq 7 a favor, 6 en contra; Al-Hilal Saudi FC 15 a favor, 4 en contra.",
+    "ar": "Saudi Pro League: يستضيف Al-Ettifaq فريق Al-Hilal Saudi FC. الأداء الأخير (آخر 5 مباريات): Al-Ettifaq 53٪، Al-Hilal Saudi FC 100٪. الأهداف في تلك المباريات: Al-Ettifaq سجل 7 واستقبل 6؛ Al-Hilal Saudi FC سجل 15 واستقبل 4."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 53,
+     "goalsFor": 7,
+     "goalsAgainst": 6
+    },
+    "away": {
+     "formPercent": 100,
+     "goalsFor": 15,
+     "goalsAgainst": 4
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1552236",
+   "competition": {
+    "id": 88,
+    "name": "Eredivisie",
+    "priority": 3
+   },
+   "kickoff": "2026-11-28T15:30:00Z",
+   "home": {
+    "id": 196,
+    "name": "Excelsior",
+    "shortName": "EXC",
+    "logo": "https://media.api-sports.io/football/teams/196.png"
+   },
+   "away": {
+    "id": 427,
+    "name": "Telstar",
+    "shortName": "TEL",
+    "logo": "https://media.api-sports.io/football/teams/427.png"
+   },
+   "summary": {
+    "en": "Eredivisie: Excelsior host Telstar. Recent form (last 5 matches): Excelsior 20%, Telstar 27%. Goals over those matches: Excelsior 3 scored, 17 conceded; Telstar 12 scored, 14 conceded.",
+    "fr": "Eredivisie : Excelsior reçoit Telstar. Forme récente (5 derniers matchs) : Excelsior 20 %, Telstar 27 %. Buts sur ces matchs : Excelsior 3 marqués, 17 encaissés ; Telstar 12 marqués, 14 encaissés.",
+    "es": "Eredivisie: Excelsior recibe a Telstar. Forma reciente (últimos 5 partidos): Excelsior 20 %, Telstar 27 %. Goles en esos partidos: Excelsior 3 a favor, 17 en contra; Telstar 12 a favor, 14 en contra.",
+    "ar": "Eredivisie: يستضيف Excelsior فريق Telstar. الأداء الأخير (آخر 5 مباريات): Excelsior 20٪، Telstar 27٪. الأهداف في تلك المباريات: Excelsior سجل 3 واستقبل 17؛ Telstar سجل 12 واستقبل 14."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 20,
+     "goalsFor": 3,
+     "goalsAgainst": 17
+    },
+    "away": {
+     "formPercent": 27,
+     "goalsFor": 12,
+     "goalsAgainst": 14
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1597968",
+   "competition": {
+    "id": 305,
+    "name": "Qatar Stars League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-28T15:30:00Z",
+   "home": {
+    "id": 2896,
+    "name": "Al Ahli Doha",
+    "shortName": "AD",
+    "logo": "https://media.api-sports.io/football/teams/2896.png"
+   },
+   "away": {
+    "id": 2904,
+    "name": "Al-Duhail SC",
+    "shortName": "DUH",
+    "logo": "https://media.api-sports.io/football/teams/2904.png"
+   },
+   "summary": {
+    "en": "Qatar Stars League: Al Ahli Doha host Al-Duhail SC. Recent form (last 5 matches): Al Ahli Doha 40%, Al-Duhail SC 80%. Goals over those matches: Al Ahli Doha 7 scored, 9 conceded; Al-Duhail SC 12 scored, 7 conceded.",
+    "fr": "Qatar Stars League : Al Ahli Doha reçoit Al-Duhail SC. Forme récente (5 derniers matchs) : Al Ahli Doha 40 %, Al-Duhail SC 80 %. Buts sur ces matchs : Al Ahli Doha 7 marqués, 9 encaissés ; Al-Duhail SC 12 marqués, 7 encaissés.",
+    "es": "Qatar Stars League: Al Ahli Doha recibe a Al-Duhail SC. Forma reciente (últimos 5 partidos): Al Ahli Doha 40 %, Al-Duhail SC 80 %. Goles en esos partidos: Al Ahli Doha 7 a favor, 9 en contra; Al-Duhail SC 12 a favor, 7 en contra.",
+    "ar": "Qatar Stars League: يستضيف Al Ahli Doha فريق Al-Duhail SC. الأداء الأخير (آخر 5 مباريات): Al Ahli Doha 40٪، Al-Duhail SC 80٪. الأهداف في تلك المباريات: Al Ahli Doha سجل 7 واستقبل 9؛ Al-Duhail SC سجل 12 واستقبل 7."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 40,
+     "goalsFor": 7,
+     "goalsAgainst": 9
+    },
+    "away": {
+     "formPercent": 80,
+     "goalsFor": 12,
+     "goalsAgainst": 7
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1584480",
+   "competition": {
+    "id": 203,
+    "name": "Süper Lig",
+    "priority": 3
+   },
+   "kickoff": "2026-11-28T16:00:00Z",
+   "home": {
+    "id": 3573,
+    "name": "Gaziantep FK",
+    "shortName": "GAZ",
+    "logo": "https://media.api-sports.io/football/teams/3573.png"
+   },
+   "away": {
+    "id": 3579,
+    "name": "Amed",
+    "shortName": "AME",
+    "logo": "https://media.api-sports.io/football/teams/3579.png"
+   },
+   "summary": {
+    "en": "Süper Lig: Gaziantep FK host Amed. Recent form (last 5 matches): Gaziantep FK 0%, Amed 60%. Goals over those matches: Gaziantep FK 2 scored, 10 conceded; Amed 11 scored, 8 conceded.",
+    "fr": "Süper Lig : Gaziantep FK reçoit Amed. Forme récente (5 derniers matchs) : Gaziantep FK 0 %, Amed 60 %. Buts sur ces matchs : Gaziantep FK 2 marqués, 10 encaissés ; Amed 11 marqués, 8 encaissés.",
+    "es": "Süper Lig: Gaziantep FK recibe a Amed. Forma reciente (últimos 5 partidos): Gaziantep FK 0 %, Amed 60 %. Goles en esos partidos: Gaziantep FK 2 a favor, 10 en contra; Amed 11 a favor, 8 en contra.",
+    "ar": "Süper Lig: يستضيف Gaziantep FK فريق Amed. الأداء الأخير (آخر 5 مباريات): Gaziantep FK 0٪، Amed 60٪. الأهداف في تلك المباريات: Gaziantep FK سجل 2 واستقبل 10؛ Amed سجل 11 واستقبل 8."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 0,
+     "goalsFor": 2,
+     "goalsAgainst": 10
+    },
+    "away": {
+     "formPercent": 60,
+     "goalsFor": 11,
+     "goalsAgainst": 8
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1647673",
+   "competition": {
+    "id": 12,
+    "name": "CAF Champions League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-28T16:00:00Z",
+   "home": {
+    "id": 980,
+    "name": "ES Tunis",
+    "shortName": "ET",
+    "logo": "https://media.api-sports.io/football/teams/980.png"
+   },
+   "away": {
+    "id": 6383,
+    "name": "Wiliete",
+    "shortName": "WIL",
+    "logo": "https://media.api-sports.io/football/teams/6383.png"
+   },
+   "summary": {
+    "en": "CAF Champions League: ES Tunis host Wiliete. Recent form (last 5 matches): ES Tunis 50%, Wiliete 67%. Goals over those matches: ES Tunis 2 scored, 1 conceded; Wiliete 6 scored, 1 conceded.",
+    "fr": "CAF Champions League : ES Tunis reçoit Wiliete. Forme récente (5 derniers matchs) : ES Tunis 50 %, Wiliete 67 %. Buts sur ces matchs : ES Tunis 2 marqués, 1 encaissés ; Wiliete 6 marqués, 1 encaissés.",
+    "es": "CAF Champions League: ES Tunis recibe a Wiliete. Forma reciente (últimos 5 partidos): ES Tunis 50 %, Wiliete 67 %. Goles en esos partidos: ES Tunis 2 a favor, 1 en contra; Wiliete 6 a favor, 1 en contra.",
+    "ar": "CAF Champions League: يستضيف ES Tunis فريق Wiliete. الأداء الأخير (آخر 5 مباريات): ES Tunis 50٪، Wiliete 67٪. الأهداف في تلك المباريات: ES Tunis سجل 2 واستقبل 1؛ Wiliete سجل 6 واستقبل 1."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 50,
+     "goalsFor": 2,
+     "goalsAgainst": 1
+    },
+    "away": {
+     "formPercent": 67,
+     "goalsFor": 6,
+     "goalsAgainst": 1
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1647675",
+   "competition": {
+    "id": 12,
+    "name": "CAF Champions League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-28T16:00:00Z",
+   "home": {
+    "id": 1036,
+    "name": "Pyramids FC",
+    "shortName": "PYR",
+    "logo": "https://media.api-sports.io/football/teams/1036.png"
+   },
+   "away": {
+    "id": 3453,
+    "name": "Maghreb Fès",
+    "shortName": "MF",
+    "logo": "https://media.api-sports.io/football/teams/3453.png"
+   },
+   "summary": {
+    "en": "CAF Champions League: Pyramids FC host Maghreb Fès. Recent form (last 5 matches): Pyramids FC 100%, Maghreb Fès 67%. Goals over those matches: Pyramids FC 12 scored, 1 conceded; Maghreb Fès 7 scored, 3 conceded.",
+    "fr": "CAF Champions League : Pyramids FC reçoit Maghreb Fès. Forme récente (5 derniers matchs) : Pyramids FC 100 %, Maghreb Fès 67 %. Buts sur ces matchs : Pyramids FC 12 marqués, 1 encaissés ; Maghreb Fès 7 marqués, 3 encaissés.",
+    "es": "CAF Champions League: Pyramids FC recibe a Maghreb Fès. Forma reciente (últimos 5 partidos): Pyramids FC 100 %, Maghreb Fès 67 %. Goles en esos partidos: Pyramids FC 12 a favor, 1 en contra; Maghreb Fès 7 a favor, 3 en contra.",
+    "ar": "CAF Champions League: يستضيف Pyramids FC فريق Maghreb Fès. الأداء الأخير (آخر 5 مباريات): Pyramids FC 100٪، Maghreb Fès 67٪. الأهداف في تلك المباريات: Pyramids FC سجل 12 واستقبل 1؛ Maghreb Fès سجل 7 واستقبل 3."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 100,
+     "goalsFor": 12,
+     "goalsAgainst": 1
+    },
+    "away": {
+     "formPercent": 67,
+     "goalsFor": 7,
+     "goalsAgainst": 3
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1647678",
+   "competition": {
+    "id": 12,
+    "name": "CAF Champions League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-28T16:00:00Z",
+   "home": {
+    "id": 1040,
+    "name": "Zamalek SC",
+    "shortName": "ZAM",
+    "logo": "https://media.api-sports.io/football/teams/1040.png"
+   },
+   "away": {
+    "id": 988,
+    "name": "Club Africain",
+    "shortName": "AFR",
+    "logo": "https://media.api-sports.io/football/teams/988.png"
+   },
+   "summary": {
+    "en": "CAF Champions League: Zamalek SC host Club Africain. Recent form (last 5 matches): Zamalek SC 100%, Club Africain 67%. Goals over those matches: Zamalek SC 8 scored, 1 conceded; Club Africain 5 scored, 3 conceded.",
+    "fr": "CAF Champions League : Zamalek SC reçoit Club Africain. Forme récente (5 derniers matchs) : Zamalek SC 100 %, Club Africain 67 %. Buts sur ces matchs : Zamalek SC 8 marqués, 1 encaissés ; Club Africain 5 marqués, 3 encaissés.",
+    "es": "CAF Champions League: Zamalek SC recibe a Club Africain. Forma reciente (últimos 5 partidos): Zamalek SC 100 %, Club Africain 67 %. Goles en esos partidos: Zamalek SC 8 a favor, 1 en contra; Club Africain 5 a favor, 3 en contra.",
+    "ar": "CAF Champions League: يستضيف Zamalek SC فريق Club Africain. الأداء الأخير (آخر 5 مباريات): Zamalek SC 100٪، Club Africain 67٪. الأهداف في تلك المباريات: Zamalek SC سجل 8 واستقبل 1؛ Club Africain سجل 5 واستقبل 3."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 100,
+     "goalsFor": 8,
+     "goalsAgainst": 1
+    },
+    "away": {
+     "formPercent": 67,
+     "goalsFor": 5,
+     "goalsAgainst": 3
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1603081",
+   "competition": {
+    "id": 307,
+    "name": "Saudi Pro League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-28T17:30:00Z",
+   "home": {
+    "id": 2929,
+    "name": "Al-Ahli Jeddah",
+    "shortName": "AJ",
+    "logo": "https://media.api-sports.io/football/teams/2929.png"
+   },
+   "away": {
+    "id": 2936,
+    "name": "Al Taawon",
+    "shortName": "TAA",
+    "logo": "https://media.api-sports.io/football/teams/2936.png"
+   },
+   "summary": {
+    "en": "Saudi Pro League: Al-Ahli Jeddah host Al Taawon. Recent form (last 5 matches): Al-Ahli Jeddah 80%, Al Taawon 13%. Goals over those matches: Al-Ahli Jeddah 15 scored, 10 conceded; Al Taawon 3 scored, 8 conceded.",
+    "fr": "Saudi Pro League : Al-Ahli Jeddah reçoit Al Taawon. Forme récente (5 derniers matchs) : Al-Ahli Jeddah 80 %, Al Taawon 13 %. Buts sur ces matchs : Al-Ahli Jeddah 15 marqués, 10 encaissés ; Al Taawon 3 marqués, 8 encaissés.",
+    "es": "Saudi Pro League: Al-Ahli Jeddah recibe a Al Taawon. Forma reciente (últimos 5 partidos): Al-Ahli Jeddah 80 %, Al Taawon 13 %. Goles en esos partidos: Al-Ahli Jeddah 15 a favor, 10 en contra; Al Taawon 3 a favor, 8 en contra.",
+    "ar": "Saudi Pro League: يستضيف Al-Ahli Jeddah فريق Al Taawon. الأداء الأخير (آخر 5 مباريات): Al-Ahli Jeddah 80٪، Al Taawon 13٪. الأهداف في تلك المباريات: Al-Ahli Jeddah سجل 15 واستقبل 10؛ Al Taawon سجل 3 واستقبل 8."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 80,
+     "goalsFor": 15,
+     "goalsAgainst": 10
+    },
+    "away": {
+     "formPercent": 13,
+     "goalsFor": 3,
+     "goalsAgainst": 8
+    }
+   },
+   "homeLast": [],
+   "awayLast": [
+    {
+     "date": "2026-11-25",
+     "opponent": "Al-Nahda",
+     "atHome": true,
+     "goalsFor": 0,
+     "goalsAgainst": 0
+    }
+   ],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1552240",
+   "competition": {
+    "id": 88,
+    "name": "Eredivisie",
+    "priority": 3
+   },
+   "kickoff": "2026-11-28T17:45:00Z",
+   "home": {
+    "id": 197,
+    "name": "PSV Eindhoven",
+    "shortName": "PE",
+    "logo": "https://media.api-sports.io/football/teams/197.png"
+   },
+   "away": {
+    "id": 410,
+    "name": "GO Ahead Eagles",
+    "shortName": "GAE",
+    "logo": "https://media.api-sports.io/football/teams/410.png"
+   },
+   "summary": {
+    "en": "Eredivisie: PSV Eindhoven host GO Ahead Eagles. Recent form (last 5 matches): PSV Eindhoven 67%, GO Ahead Eagles 40%. Goals over those matches: PSV Eindhoven 18 scored, 6 conceded; GO Ahead Eagles 5 scored, 11 conceded.",
+    "fr": "Eredivisie : PSV Eindhoven reçoit GO Ahead Eagles. Forme récente (5 derniers matchs) : PSV Eindhoven 67 %, GO Ahead Eagles 40 %. Buts sur ces matchs : PSV Eindhoven 18 marqués, 6 encaissés ; GO Ahead Eagles 5 marqués, 11 encaissés.",
+    "es": "Eredivisie: PSV Eindhoven recibe a GO Ahead Eagles. Forma reciente (últimos 5 partidos): PSV Eindhoven 67 %, GO Ahead Eagles 40 %. Goles en esos partidos: PSV Eindhoven 18 a favor, 6 en contra; GO Ahead Eagles 5 a favor, 11 en contra.",
+    "ar": "Eredivisie: يستضيف PSV Eindhoven فريق GO Ahead Eagles. الأداء الأخير (آخر 5 مباريات): PSV Eindhoven 67٪، GO Ahead Eagles 40٪. الأهداف في تلك المباريات: PSV Eindhoven سجل 18 واستقبل 6؛ GO Ahead Eagles سجل 5 واستقبل 11."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 67,
+     "goalsFor": 18,
+     "goalsAgainst": 6
+    },
+    "away": {
+     "formPercent": 40,
+     "goalsFor": 5,
+     "goalsAgainst": 11
+    }
+   },
+   "homeLast": [
+    {
+     "date": "2026-11-24",
+     "opponent": "Real Madrid",
+     "atHome": false,
+     "goalsFor": 1,
+     "goalsAgainst": 5
+    }
+   ],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1647672",
+   "competition": {
+    "id": 12,
+    "name": "CAF Champions League",
+    "priority": 3
+   },
+   "kickoff": "2026-11-28T19:00:00Z",
+   "home": {
+    "id": 962,
+    "name": "Renaissance Berkane",
+    "shortName": "RB",
+    "logo": "https://media.api-sports.io/football/teams/962.png"
+   },
+   "away": {
+    "id": 5400,
+    "name": "Colombe",
+    "shortName": "COL",
+    "logo": "https://media.api-sports.io/football/teams/5400.png"
+   },
+   "summary": {
+    "en": "CAF Champions League: Renaissance Berkane host Colombe. Recent form (last 5 matches): Renaissance Berkane 100%, Colombe 83%. Goals over those matches: Renaissance Berkane 3 scored, 0 conceded; Colombe 4 scored, 0 conceded.",
+    "fr": "CAF Champions League : Renaissance Berkane reçoit Colombe. Forme récente (5 derniers matchs) : Renaissance Berkane 100 %, Colombe 83 %. Buts sur ces matchs : Renaissance Berkane 3 marqués, 0 encaissés ; Colombe 4 marqués, 0 encaissés.",
+    "es": "CAF Champions League: Renaissance Berkane recibe a Colombe. Forma reciente (últimos 5 partidos): Renaissance Berkane 100 %, Colombe 83 %. Goles en esos partidos: Renaissance Berkane 3 a favor, 0 en contra; Colombe 4 a favor, 0 en contra.",
+    "ar": "CAF Champions League: يستضيف Renaissance Berkane فريق Colombe. الأداء الأخير (آخر 5 مباريات): Renaissance Berkane 100٪، Colombe 83٪. الأهداف في تلك المباريات: Renaissance Berkane سجل 3 واستقبل 0؛ Colombe سجل 4 واستقبل 0."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 100,
+     "goalsFor": 3,
+     "goalsAgainst": 0
+    },
+    "away": {
+     "formPercent": 83,
+     "goalsFor": 4,
+     "goalsAgainst": 0
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1552234",
+   "competition": {
+    "id": 88,
+    "name": "Eredivisie",
+    "priority": 3
+   },
+   "kickoff": "2026-11-28T20:00:00Z",
+   "home": {
+    "id": 420,
+    "name": "Cambuur",
+    "shortName": "CAM",
+    "logo": "https://media.api-sports.io/football/teams/420.png"
+   },
+   "away": {
+    "id": 426,
+    "name": "Sparta Rotterdam",
+    "shortName": "SR",
+    "logo": "https://media.api-sports.io/football/teams/426.png"
+   },
+   "summary": {
+    "en": "Eredivisie: Cambuur host Sparta Rotterdam. Recent form (last 5 matches): Cambuur 67%, Sparta Rotterdam 40%. Goals over those matches: Cambuur 17 scored, 10 conceded; Sparta Rotterdam 9 scored, 14 conceded.",
+    "fr": "Eredivisie : Cambuur reçoit Sparta Rotterdam. Forme récente (5 derniers matchs) : Cambuur 67 %, Sparta Rotterdam 40 %. Buts sur ces matchs : Cambuur 17 marqués, 10 encaissés ; Sparta Rotterdam 9 marqués, 14 encaissés.",
+    "es": "Eredivisie: Cambuur recibe a Sparta Rotterdam. Forma reciente (últimos 5 partidos): Cambuur 67 %, Sparta Rotterdam 40 %. Goles en esos partidos: Cambuur 17 a favor, 10 en contra; Sparta Rotterdam 9 a favor, 14 en contra.",
+    "ar": "Eredivisie: يستضيف Cambuur فريق Sparta Rotterdam. الأداء الأخير (آخر 5 مباريات): Cambuur 67٪، Sparta Rotterdam 40٪. الأهداف في تلك المباريات: Cambuur سجل 17 واستقبل 10؛ Sparta Rotterdam سجل 9 واستقبل 14."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 67,
+     "goalsFor": 17,
+     "goalsAgainst": 10
+    },
+    "away": {
+     "formPercent": 40,
+     "goalsFor": 9,
+     "goalsAgainst": 14
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1647178",
+   "competition": {
+    "id": 13,
+    "name": "CONMEBOL Libertadores",
+    "priority": 3
+   },
+   "kickoff": "2026-11-28T20:00:00Z",
+   "home": {
+    "id": 121,
+    "name": "Palmeiras",
+    "shortName": "PAL",
+    "logo": "https://media.api-sports.io/football/teams/121.png"
+   },
+   "away": {
+    "id": 450,
+    "name": "Estudiantes L.P.",
+    "shortName": "ELP",
+    "logo": "https://media.api-sports.io/football/teams/450.png"
+   },
+   "summary": {
+    "en": "CONMEBOL Libertadores: Palmeiras host Estudiantes L.P.. Recent form (last 5 matches): Palmeiras 73%, Estudiantes L.P. 73%. Goals over those matches: Palmeiras 8 scored, 5 conceded; Estudiantes L.P. 6 scored, 1 conceded.",
+    "fr": "CONMEBOL Libertadores : Palmeiras reçoit Estudiantes L.P.. Forme récente (5 derniers matchs) : Palmeiras 73 %, Estudiantes L.P. 73 %. Buts sur ces matchs : Palmeiras 8 marqués, 5 encaissés ; Estudiantes L.P. 6 marqués, 1 encaissés.",
+    "es": "CONMEBOL Libertadores: Palmeiras recibe a Estudiantes L.P.. Forma reciente (últimos 5 partidos): Palmeiras 73 %, Estudiantes L.P. 73 %. Goles en esos partidos: Palmeiras 8 a favor, 5 en contra; Estudiantes L.P. 6 a favor, 1 en contra.",
+    "ar": "CONMEBOL Libertadores: يستضيف Palmeiras فريق Estudiantes L.P.. الأداء الأخير (آخر 5 مباريات): Palmeiras 73٪، Estudiantes L.P. 73٪. الأهداف في تلك المباريات: Palmeiras سجل 8 واستقبل 5؛ Estudiantes L.P. سجل 6 واستقبل 1."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 73,
+     "goalsFor": 8,
+     "goalsAgainst": 5
+    },
+    "away": {
+     "formPercent": 73,
+     "goalsFor": 6,
+     "goalsAgainst": 1
+    }
+   },
+   "homeLast": [
+    {
+     "date": "2026-11-24",
+     "opponent": "Chapecoense-sc",
+     "atHome": false,
+     "goalsFor": 0,
+     "goalsAgainst": 3
+    }
+   ],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1651632",
+   "competition": {
+    "id": 128,
+    "name": "Liga Profesional Argentina",
+    "priority": 3
+   },
+   "kickoff": "2026-11-28T23:00:00Z",
+   "home": {
+    "id": 438,
+    "name": "Velez Sarsfield",
+    "shortName": "VS",
+    "logo": "https://media.api-sports.io/football/teams/438.png"
+   },
+   "away": {
+    "id": 453,
+    "name": "Independiente",
+    "shortName": "IND",
+    "logo": "https://media.api-sports.io/football/teams/453.png"
+   },
+   "summary": {
+    "en": "Liga Profesional Argentina: Velez Sarsfield host Independiente. Recent form (last 5 matches): Velez Sarsfield 53%, Independiente 53%. Goals over those matches: Velez Sarsfield 10 scored, 6 conceded; Independiente 6 scored, 5 conceded.",
+    "fr": "Liga Profesional Argentina : Velez Sarsfield reçoit Independiente. Forme récente (5 derniers matchs) : Velez Sarsfield 53 %, Independiente 53 %. Buts sur ces matchs : Velez Sarsfield 10 marqués, 6 encaissés ; Independiente 6 marqués, 5 encaissés.",
+    "es": "Liga Profesional Argentina: Velez Sarsfield recibe a Independiente. Forma reciente (últimos 5 partidos): Velez Sarsfield 53 %, Independiente 53 %. Goles en esos partidos: Velez Sarsfield 10 a favor, 6 en contra; Independiente 6 a favor, 5 en contra.",
+    "ar": "Liga Profesional Argentina: يستضيف Velez Sarsfield فريق Independiente. الأداء الأخير (آخر 5 مباريات): Velez Sarsfield 53٪، Independiente 53٪. الأهداف في تلك المباريات: Velez Sarsfield سجل 10 واستقبل 6؛ Independiente سجل 6 واستقبل 5."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 53,
+     "goalsFor": 10,
+     "goalsAgainst": 6
+    },
+    "away": {
+     "formPercent": 53,
+     "goalsFor": 6,
+     "goalsAgainst": 5
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1647722",
+   "competition": {
+    "id": 20,
+    "name": "CAF Confederation Cup",
+    "priority": 4
+   },
+   "kickoff": "2026-11-28T19:00:00Z",
+   "home": {
+    "id": 969,
+    "name": "FAR Rabat",
+    "shortName": "FR",
+    "logo": "https://media.api-sports.io/football/teams/969.png"
+   },
+   "away": {
+    "id": 24757,
+    "name": "Durban City",
+    "shortName": "DC",
+    "logo": "https://media.api-sports.io/football/teams/24757.png"
+   },
+   "summary": {
+    "en": "CAF Confederation Cup: FAR Rabat host Durban City. Recent form (last 5 matches): FAR Rabat 67%, Durban City 100%. Goals over those matches: FAR Rabat 2 scored, 1 conceded; Durban City 9 scored, 2 conceded.",
+    "fr": "CAF Confederation Cup : FAR Rabat reçoit Durban City. Forme récente (5 derniers matchs) : FAR Rabat 67 %, Durban City 100 %. Buts sur ces matchs : FAR Rabat 2 marqués, 1 encaissés ; Durban City 9 marqués, 2 encaissés.",
+    "es": "CAF Confederation Cup: FAR Rabat recibe a Durban City. Forma reciente (últimos 5 partidos): FAR Rabat 67 %, Durban City 100 %. Goles en esos partidos: FAR Rabat 2 a favor, 1 en contra; Durban City 9 a favor, 2 en contra.",
+    "ar": "CAF Confederation Cup: يستضيف FAR Rabat فريق Durban City. الأداء الأخير (آخر 5 مباريات): FAR Rabat 67٪، Durban City 100٪. الأهداف في تلك المباريات: FAR Rabat سجل 2 واستقبل 1؛ Durban City سجل 9 واستقبل 2."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 67,
+     "goalsFor": 2,
+     "goalsAgainst": 1
+    },
+    "away": {
+     "formPercent": 100,
+     "goalsFor": 9,
+     "goalsAgainst": 2
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  },
+  {
+   "id": "1647724",
+   "competition": {
+    "id": 20,
+    "name": "CAF Confederation Cup",
+    "priority": 4
+   },
+   "kickoff": "2026-11-28T19:00:00Z",
+   "home": {
+    "id": 976,
+    "name": "Raja Casablanca",
+    "shortName": "RC",
+    "logo": "https://media.api-sports.io/football/teams/976.png"
+   },
+   "away": {
+    "id": 6424,
+    "name": "ASC Kara",
+    "shortName": "AK",
+    "logo": "https://media.api-sports.io/football/teams/6424.png"
+   },
+   "summary": {
+    "en": "CAF Confederation Cup: Raja Casablanca host ASC Kara. Recent form (last 5 matches): Raja Casablanca 67%, ASC Kara 75%. Goals over those matches: Raja Casablanca 4 scored, 2 conceded; ASC Kara 9 scored, 3 conceded.",
+    "fr": "CAF Confederation Cup : Raja Casablanca reçoit ASC Kara. Forme récente (5 derniers matchs) : Raja Casablanca 67 %, ASC Kara 75 %. Buts sur ces matchs : Raja Casablanca 4 marqués, 2 encaissés ; ASC Kara 9 marqués, 3 encaissés.",
+    "es": "CAF Confederation Cup: Raja Casablanca recibe a ASC Kara. Forma reciente (últimos 5 partidos): Raja Casablanca 67 %, ASC Kara 75 %. Goles en esos partidos: Raja Casablanca 4 a favor, 2 en contra; ASC Kara 9 a favor, 3 en contra.",
+    "ar": "CAF Confederation Cup: يستضيف Raja Casablanca فريق ASC Kara. الأداء الأخير (آخر 5 مباريات): Raja Casablanca 67٪، ASC Kara 75٪. الأهداف في تلك المباريات: Raja Casablanca سجل 4 واستقبل 2؛ ASC Kara سجل 9 واستقبل 3."
+   },
+   "recentForm": {
+    "home": {
+     "formPercent": 67,
+     "goalsFor": 4,
+     "goalsAgainst": 2
+    },
+    "away": {
+     "formPercent": 75,
+     "goalsFor": 9,
+     "goalsAgainst": 3
+    }
+   },
+   "homeLast": [],
+   "awayLast": [],
+   "analysisCandidate": false,
+   "analysis": null
+  }
+ ]
+}
